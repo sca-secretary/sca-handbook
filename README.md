@@ -46,7 +46,9 @@ IV. OFFICERS AND GOVERNMENT
 
 The officers of the Corporation shall be a President, a Vice President, a Secretary, and a Treasurer.
 
-2. Duties of Officers: The duties of the above named officers shall be those usually associated with these positions and as enumerated in the parliamentary authority except when defined otherwise in these Bylaws. The Vice President shall audit the books of the Corporation within three months of the close of the fiscal year and present a formal report at the next meeting of the Board of Directors.
+2. Duties of Officers: 
+
+The duties of the above named officers shall be those usually associated with these positions and as enumerated in the parliamentary authority except when defined otherwise in these Bylaws. The Vice President shall audit the books of the Corporation within three months of the close of the fiscal year and present a formal report at the next meeting of the Board of Directors.
 
 3. Election of officers and terms of office: 
 
