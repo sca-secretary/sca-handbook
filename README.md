@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+# Handbook, Bylaws, and Policies
 
-You can use the [editor on GitHub](https://github.com/mjhugh/sca-handbook/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The SCA Handbook is intended to be a practical tool outlining the major duties of the officers, Board of Directors, and committees. It provides an up-to-date reference on the Corporation's structure, aims, policies, and procedures.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 1-1 Handbook Introduction
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Society of California Archivists Handbook is intended to be a practical tool outlining the major duties of the officers, Board of Directors, and committees. It provides an up-to-date reference on the Corporation's structure, aims, policies, and procedures. 
+The Handbook is based on the Bylaws of the Corporation, Alice Sturgis’s The Standard Code of Parliamentary Procedure, and ongoing decisions by the Board. Should there be a conflict among these, the Bylaws take precedence, since the Handbook is not binding. 
+To maximize the Handbook's usefulness, all Board decisions affecting material in it should be immediately noted by the Secretary. These revisions should be made and updated in the master online copy of the Handbook so that all board members, committee chairs, and the general membership may have access to the most current version via the SCA website.
 
 ```markdown
 Syntax highlighted code block
