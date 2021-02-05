@@ -239,8 +239,7 @@ SCA will take seriously all good-faith reports of harassment. Harassment may inc
 
 Participants in any SCA event or forum, online or offline, who are asked to stop any harassing behavior are expected to comply immediately. Those who violate these rules are subject to expulsion from the program or online space. Persons who have been expelled, banned, or otherwise denied access may submit an appeal to the SCA Board.<sup>2</sup>
 
-<sup>1</sup> SCA Programs include conferences, workshops, events, meetings, formal mentoring relationships, and online spaces such as the West_Arch listserv.
-
+<sup>1</sup> SCA Programs include conferences, workshops, events, meetings, formal mentoring relationships, and online spaces such as the West_Arch listserv.      
 <sup>2</sup> The SCA Code of Conduct is reassessed every three years.
 
 ## 1-7 SCA Privacy Policy
@@ -260,7 +259,7 @@ SCA also maintains an online directory of members that is password-protected, an
 Any information provided to SCA for publication in the Membership Directory is for professional use by SCA and its members only. Distribution or storage of this information for purposes not related to SCA business or other professional use is prohibited.
 
 **SCA Website and Data Security**
-'
+
 The Society of California Archivists uses a variety of software applications to provide services to members. For more information about how the providers of these software applications keep personal information secure, please visit their websites.
 
 - **Wild Apricot**: SCA uses Wild Apricot, a membership management software, to maintain its website, manage membership and event registration, securely process payments, maintain an online Membership Directory, and communicate with its members. https://www.wildapricot.com/security-policy-overview. 
