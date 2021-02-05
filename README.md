@@ -240,6 +240,7 @@ SCA will take seriously all good-faith reports of harassment. Harassment may inc
 Participants in any SCA event or forum, online or offline, who are asked to stop any harassing behavior are expected to comply immediately. Those who violate these rules are subject to expulsion from the program or online space. Persons who have been expelled, banned, or otherwise denied access may submit an appeal to the SCA Board.<sup>2</sup>
 
 <sup>1</sup> SCA Programs include conferences, workshops, events, meetings, formal mentoring relationships, and online spaces such as the West_Arch listserv.
+
 <sup>2</sup> The SCA Code of Conduct is reassessed every three years.
 
 ```markdown
