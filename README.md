@@ -42,16 +42,13 @@ or elsewhere which employs or has affiliated with it individuals interested in t
 
 IV. OFFICERS AND GOVERNMENT
 
-1. Officers: 
-
+1. Officers:    
 The officers of the Corporation shall be a President, a Vice President, a Secretary, and a Treasurer.
 
-2. Duties of Officers: 
-
+2. Duties of Officers:    
 The duties of the above named officers shall be those usually associated with these positions and as enumerated in the parliamentary authority except when defined otherwise in these Bylaws. The Vice President shall audit the books of the Corporation within three months of the close of the fiscal year and present a formal report at the next meeting of the Board of Directors.
 
-3. Election of officers and terms of office: 
-
+3. Election of officers and terms of office:    
 The officers of the Corporation shall be elected by annual ballot distributed to members no less than 45 days and no more than 90 days prior to the annual business meeting. Completed ballots are to be submitted and results reported at least 15 days prior to the annual business meeting. Members must be provided no less than 15 days in which to submit their completed ballot. The nominee receiving a plurality of the legal votes cast for an office shall be elected to that position. The Vice President shall be the President elect. The President and Vice President shall each serve a single term of one year in each office, beginning thirty (30) days after the annual business meeting, the Vice President succeeding as President at the end of one year. A Vice President shall be elected every
 year. 
 
@@ -59,15 +56,13 @@ The Secretary and Treasurer shall be elected for staggered terms of two years, (
 
 In the event of a vacancy in the position of Vice President or Secretary or Treasurer, the President shall appoint the candidate for that position who received the next highest votes in the last election. That person is to serve as a replacement until the next election. If that candidate is unable to serve, the President, with the approval of the Board of Directors, shall appoint another member to serve the remainder of the unexpired term.
 
-4. Board of Directors:
-
+4. Board of Directors:   
 The government of the Corporation, the management of its affairs, and the regulation of its procedures shall be vested in a Board of Directors composed of the four officers, the immediate past President, and three other directors elected by the membership. The Board of Directors shall act for the membership between meetings of the general
 membership. 
 
 A meeting of the Board of Directors shall be held within ninety (90) days of their taking office; At least two other meetings of the Board of Directors shall be held during the year before the next annual business meeting.
 
-5. Election of directors and terms of office:
-
+5. Election of directors and terms of office:   
 Directors shall be elected by ballot distributed to members no less than 45 days and no more than 90 days prior to the annual business meeting. Completed ballots are to be submitted, and results reported, at least 15 days prior to the annual business meeting. Members must be provided no less than 15 days in which to submit their completed ballot. Directors shall be elected for terms of two years. Alternately two directors shall be elected in odd-numbered years and one director in even-numbered years. Beginning with the 1995 election, one director shall be elected as Membership Director to serve for a term of two years.
 
 The nominees receiving the highest number of legal votes cast shall be elected to the Board of Directors.
@@ -80,53 +75,44 @@ At the first election following the incorporation of the organization (in 1993),
 
 The following year the Vice President shall become President, a Vice President shall be elected, a Treasurer shall be elected for two years, and one director shall be elected for two years.
 
-6. Nomination of officers, directors, and nominating committee members:
-
+6. Nomination of officers, directors, and nominating committee members:    
 Officers, directors, and nominating committee members shall be elected from a slate presented by the nominating committee as well as any names submitted by membership
 petition.
 
-7. Removal of officers or directors:
-
+7. Removal of officers or directors:    
 Any officer or director may be removed from office by a written majority vote of the dues-paying members of the Corporation.
 
 V. MEETINGS
 
-1. Regular meetings:
-
+1. Regular meetings:    
 The Corporation shall hold at least one general membership meeting each year. This annual business meeting shall be held in the spring of each year, usually at alternate sites in the north and south of the State, for the purpose of transacting such business as may be brought before the meeting and providing a program of general interest to the members. When convenient, the annual business meeting may be held in conjunction with meetings of allied organizations.
 
 Written notice of the annual business meeting shall be distributed to the membership at least thirty (30) days in advance.
 
-2. Special meetings:
-
+2. Special meetings:    
 Special general membership meetings of the Corporation may be called by the President upon approval of the Board of Directors, or at the written request of one-third of the dues-paying members or twenty (20) dues-paying members, whichever is the smaller number.
 
 Such special meetings may be called for the purpose of conducting special business or may consist of special workshops focusing on a specific subject or subjects.
 
 Written notice of such special meetings of the membership shall be distributed to the membership at least thirty (30) days in advance.
 
-3. Quorum and vote required for legal action:
-
+3. Quorum and vote required for legal action:   
 At any regular or special meeting of the membership, at least three (3) directors and onetenth (1/10) of the dues-paying membership shall constitute a quorum for the transaction of business. Except as otherwise provided in these Bylaws, a majority of the legal votes cast shall be required to take action.
 
 A quorum for a meeting of the Board of Directors is four (4) voting members of the Board of Directors.
 
 VI. COMMITTEES
 
-1. Standing committees:
-
+1. Standing committees:   
 Standing committees shall consist of a nominating committee, a program committee, an election committee, and such other committees as the Board of Directors shall from time to time deem necessary or advisable.
 
-2. Selection and terms of standing committee members:
-
+2. Selection and terms of standing committee members:   
 Standing committees shall be comprised of at least three members including the chair. Subject to the approval of the Board of Directors, the President shall appoint the chair of standing committees, except the nominating committee and the membership chair which is chaired by the membership director. Terms of standing committee members and chairs shall end concurrently with the term of the President. The President shall be an ex-officio non-voting member of all standing committees except the nominating committee.
 
-3. Nominating Committee
-
+3. Nominating Committee    
 The nominating committee shall consist of the immediate past President and two elected members. In the 2006 election, one nominee receiving the greatest number of votes legally cast for the committee on the written ballot shall be elected to serve a term of two (2) years, and the nominee receiving the second greatest number of votes will serve a term of one (1) year. In the 2007 election, only one member will be elected to the Nominating Committee, and the position previously designated to serve for one (1) year will henceforth serve a two (2) year term as well. In subsequent elections, one member will be elected each year to serve a term of two (2) years beginning thirty (30) days after the annual business meeting. Nominating committee members may not succeed themselves. Vacancies should be filled in the same manner as officer/director vacancies. The immediate past President shall serve as chair of the nominating committee.
 
-4. Special committees or task forces:
-
+4. Special committees or task forces:   
 Special committees may be created when the need arises and in the same manner as the regular standing committees. Chair and members of these committees shall serve until their charge is fulfilled.
 
 VII. PARLIAMENTARY AUTHORITY
@@ -217,14 +203,14 @@ Our state’s institutions and archivists hold the human record of every race, c
 
 The records we hold document the historical past, transform communities, and promote unity and understanding. We value diversity in all its manifestations and look forward to encouraging public interest in, and public support for, archival facilities serving the people of California.
 
-Members of the 2016-2017 SCA Board:
-Mattie Taormina, President
-David Uhlich, Vice President/President Elect
-Lisa Crane, Secretary
-Kate Tasker, Treasurer
-Christy Horton, Membership Director
-Chris Marino, Member At-Large Board
-Li Wei Yang, Member At-Large
+Members of the 2016-2017 SCA Board:    
+Mattie Taormina, President    
+David Uhlich, Vice President/President Elect    
+Lisa Crane, Secretary     
+Kate Tasker, Treasurer     
+Christy Horton, Membership Director    
+Chris Marino, Member At-Large Board     
+Li Wei Yang, Member At-Large     
 Ellen Jarosz, Immediate Past President
 
 ## 1-6 SCA Code of Conduct
