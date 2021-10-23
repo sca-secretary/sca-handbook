@@ -14,17 +14,3 @@ _-- Anne Caiger, January 1985_
 
 In July 1993 the Society was formally recognized and recorded as a non-profit Corporation. Articles of Incorporation were written and legally filed as were the Revised Bylaws. In accordance with the non-profit corporation status the elected governing body name was changed from Council to The Board of Directors.
 _-- Dorothy Mackay-Collins, June 1993_
-
-## 5-2 Chronology
-
-## 5-3 Annual General Meeting (AGM History)
-
-### 5-4 Awards History
-
-### 5-5 Board of Directors History
-
-### 5-6 Board of Directors: Alphabetical List
-
-### 5-7 Committee History
-
-### 5-8 Special Committees and Task Forces History
