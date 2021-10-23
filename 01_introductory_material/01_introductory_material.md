@@ -51,23 +51,27 @@ The duties of the above named officers shall be those usually associated with th
 3. Election of officers and terms of office:
 The officers of the Corporation shall be elected by annual ballot distributed to members no less than 45 days and no more than 90 days prior to the annual business meeting. Completed ballots are to be submitted and results reported at least 15 days prior to the annual business meeting. Members must be provided no less than 15 days in which to submit their completed ballot. The nominee receiving a plurality of the legal votes cast for an office shall be elected to that position. The Vice President shall be the President elect. The President and Vice President shall each serve a single term of one year in each office, beginning thirty (30) days after the annual business meeting, the Vice President succeeding as President at the end of one year. A Vice President shall be elected every year. 
 
-The Secretary and Treasurer shall be elected for staggered terms of two years, (Secretary in odd numbered years, Treasurer in even-numbered years) beginning thirty (30) days after the annual business meeting. Each shall serve until their successor is elected, and said officers shall be eligible to succeed themselves.
+   The Secretary and Treasurer shall be elected for staggered terms of two years, (Secretary in odd numbered years, Treasurer in even-numbered years) beginning thirty (30) days after the annual business meeting. Each shall serve until their successor is elected, and said officers shall be eligible to succeed themselves.
 
-In the event of a vacancy in the position of Vice President or Secretary or Treasurer, the President shall appoint the candidate for that position who received the next highest votes in the last election. That person is to serve as a replacement until the next election. If that candidate is unable to serve, the President, with the approval of the Board of Directors, shall appoint another member to serve the remainder of the unexpired term.
+   In the event of a vacancy in the position of Vice President or Secretary or Treasurer, the President shall appoint the candidate for that position who received the next highest votes in the last election. That person is to serve as a replacement until the next election. If that candidate is unable to serve, the President, with the approval of the Board of Directors, shall appoint another member to serve the remainder of the unexpired term.
 
 4. Board of Directors:   
-The government of the Corporation, the management of its affairs, and the regulation of its procedures shall be vested in a Board of Directors composed of the four officers, the immediate past President, and three other directors elected by the membership. The Board of Directors shall act for the membership between meetings of the general
-membership. 
+The government of the Corporation, the management of its affairs, and the regulation of its procedures shall be vested in a Board of Directors composed of the four officers, the immediate past President, and three other directors elected by the membership. The Board of Directors shall act for the membership between meetings of the general membership. 
 
-A meeting of the Board of Directors shall be held within ninety (90) days of their taking office; At least two other meetings of the Board of Directors shall be held during the year before the next annual business meeting.
+   A meeting of the Board of Directors shall be held within ninety (90) days of their taking office; At least two other meetings of the Board of Directors shall be held during the year before the next annual business meeting.
 
 5. Election of directors and terms of office:   
 Directors shall be elected by ballot distributed to members no less than 45 days and no more than 90 days prior to the annual business meeting. Completed ballots are to be submitted, and results reported, at least 15 days prior to the annual business meeting. Members must be provided no less than 15 days in which to submit their completed ballot. Directors shall be elected for terms of two years. Alternately two directors shall be elected in odd-numbered years and one director in even-numbered years. Beginning with the 1995 election, one director shall be elected as Membership Director to serve for a term of two years.
-The nominees receiving the highest number of legal votes cast shall be elected to the Board of Directors.
-In the event of a vacancy for the position of director, the President, shall appoint the candidate for the position who received the next highest vote in the last election. That person shall serve the remainder of the unexpired term. If that candidate is unable to serve, the President, with the approval of the Board of Directors, shall appoint another member to serve the unexpired term.
-A non-officer director shall be ineligible to serve more than two successive terms, except that a director appointed to fill an unexpired term is eligible thereafter to be elected by the membership to not more than two additional terms.
-At the first election following the incorporation of the organization (in 1993), the terms for officers and directors shall be as follows: President for one year; Vice President for one year, to become President the following year; Secretary for two years; two directors for two years. The Treasurer and one director shall hold office for the additional year of their unexpired terms.
-The following year the Vice President shall become President, a Vice President shall be elected, a Treasurer shall be elected for two years, and one director shall be elected for two years.
+
+   The nominees receiving the highest number of legal votes cast shall be elected to the Board of Directors.
+
+   In the event of a vacancy for the position of director, the President, shall appoint the candidate for the position who received the next highest vote in the last election. That person shall serve the remainder of the unexpired term. If that candidate is unable to serve, the President, with the approval of the Board of Directors, shall appoint another member to serve the unexpired term.
+
+   A non-officer director shall be ineligible to serve more than two successive terms, except that a director appointed to fill an unexpired term is eligible thereafter to be elected by the membership to not more than two additional terms.
+
+   At the first election following the incorporation of the organization (in 1993), the terms for officers and directors shall be as follows: President for one year; Vice President for one year, to become President the following year; Secretary for two years; two directors for two years. The Treasurer and one director shall hold office for the additional year of their unexpired terms.
+
+   The following year the Vice President shall become President, a Vice President shall be elected, a Treasurer shall be elected for two years, and one director shall be elected for two years.
 
 6. Nomination of officers, directors, and nominating committee members:
 Officers, directors, and nominating committee members shall be elected from a slate presented by the nominating committee as well as any names submitted by membership petition.
