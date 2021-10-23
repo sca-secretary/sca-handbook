@@ -47,3 +47,36 @@ Responsibilities that apply to all standing committees are described here. Those
 Appointed committee chairs will serve for three years. Within that three-year period, committee chairs and/or co-chairs will be reappointed annually by the President at the beginning of their term, with Board approval. On notifying committee chairs of their appointment or reappointment, the President shall inform them of the remaining length of their tenure. Outgoing committee chairs will suggest a successor to the President, preferably one currently serving on the committee. Committee co-chairs will preferably have staggered tenures. Local Arrangements chairs will be selected by the President and serve for three-year terms.
 
 _7/86 rln, 5/89 dsn, 10/90 nlb, 5/93 jab, 4/94 ppa, 2/98 lgr, 1/06 jlm, 3/06 Board, 10/10 jmw, 3/12 tep, 6/2015 tep, 10/2017 llc, 01/2019 llc, 04/2019 llc, 05/2020 mh, 08/2020 mh_
+
+## 3-1-1 Quarterly Report Format
+
+Name of Committee:
+Person reporting:
+Date: 
+
+I. Committee Charge
+
+II. Membership
+
+III. Summary of Activities
+
+IV. Goals
+
+V. Timeline
+
+VI. Budget
+
+    Proposed/Approved amount
+
+    Income
+
+    Expenses
+
+    Projections
+
+VII. Summary of Board advice or action requested
+
+Add footer in the following format: yyyy/xth qtr/name of committee; i.e. 2008/4th qtr/election.
+
+_6/93 bh, 6/09 jtm, 07/2016 llc_
+
