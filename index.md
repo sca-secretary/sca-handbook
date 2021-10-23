@@ -1,7 +1,7 @@
 # Handbook, Bylaws, and Policies
 
 The SCA Handbook is intended to be a practical tool outlining the major duties of the officers, Board of Directors, and committees. It provides an up-to-date reference on the Corporation's structure, aims, policies, and procedures.
-
+***
 # Table of Contents
 
 ## [Part 1: Introductory Material](/sca-handbook/01_introductory_material/01_introductory_material.html)
@@ -130,7 +130,7 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
 - 5-6     Board of Directors: Alphabetical List
 - 5-7     Committee History
 - 5-8     Special Committees and Task Forces History 
-
+***
 # About
-
+***
 # Contact
