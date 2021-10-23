@@ -42,15 +42,14 @@ or elsewhere which employs or has affiliated with it individuals interested in t
 
 IV. OFFICERS AND GOVERNMENT
 
-1. Officers:    
+1. Officers:
 The officers of the Corporation shall be a President, a Vice President, a Secretary, and a Treasurer.
 
-2. Duties of Officers:    
+2. Duties of Officers:
 The duties of the above named officers shall be those usually associated with these positions and as enumerated in the parliamentary authority except when defined otherwise in these Bylaws. The Vice President shall audit the books of the Corporation within three months of the close of the fiscal year and present a formal report at the next meeting of the Board of Directors.
 
-3. Election of officers and terms of office:    
-The officers of the Corporation shall be elected by annual ballot distributed to members no less than 45 days and no more than 90 days prior to the annual business meeting. Completed ballots are to be submitted and results reported at least 15 days prior to the annual business meeting. Members must be provided no less than 15 days in which to submit their completed ballot. The nominee receiving a plurality of the legal votes cast for an office shall be elected to that position. The Vice President shall be the President elect. The President and Vice President shall each serve a single term of one year in each office, beginning thirty (30) days after the annual business meeting, the Vice President succeeding as President at the end of one year. A Vice President shall be elected every
-year. 
+3. Election of officers and terms of office:
+The officers of the Corporation shall be elected by annual ballot distributed to members no less than 45 days and no more than 90 days prior to the annual business meeting. Completed ballots are to be submitted and results reported at least 15 days prior to the annual business meeting. Members must be provided no less than 15 days in which to submit their completed ballot. The nominee receiving a plurality of the legal votes cast for an office shall be elected to that position. The Vice President shall be the President elect. The President and Vice President shall each serve a single term of one year in each office, beginning thirty (30) days after the annual business meeting, the Vice President succeeding as President at the end of one year. A Vice President shall be elected every year. 
 
 The Secretary and Treasurer shall be elected for staggered terms of two years, (Secretary in odd numbered years, Treasurer in even-numbered years) beginning thirty (30) days after the annual business meeting. Each shall serve until their successor is elected, and said officers shall be eligible to succeed themselves.
 
@@ -64,20 +63,14 @@ A meeting of the Board of Directors shall be held within ninety (90) days of the
 
 5. Election of directors and terms of office:   
 Directors shall be elected by ballot distributed to members no less than 45 days and no more than 90 days prior to the annual business meeting. Completed ballots are to be submitted, and results reported, at least 15 days prior to the annual business meeting. Members must be provided no less than 15 days in which to submit their completed ballot. Directors shall be elected for terms of two years. Alternately two directors shall be elected in odd-numbered years and one director in even-numbered years. Beginning with the 1995 election, one director shall be elected as Membership Director to serve for a term of two years.
-
 The nominees receiving the highest number of legal votes cast shall be elected to the Board of Directors.
-
 In the event of a vacancy for the position of director, the President, shall appoint the candidate for the position who received the next highest vote in the last election. That person shall serve the remainder of the unexpired term. If that candidate is unable to serve, the President, with the approval of the Board of Directors, shall appoint another member to serve the unexpired term.
-
 A non-officer director shall be ineligible to serve more than two successive terms, except that a director appointed to fill an unexpired term is eligible thereafter to be elected by the membership to not more than two additional terms.
-
 At the first election following the incorporation of the organization (in 1993), the terms for officers and directors shall be as follows: President for one year; Vice President for one year, to become President the following year; Secretary for two years; two directors for two years. The Treasurer and one director shall hold office for the additional year of their unexpired terms.
-
 The following year the Vice President shall become President, a Vice President shall be elected, a Treasurer shall be elected for two years, and one director shall be elected for two years.
 
-6. Nomination of officers, directors, and nominating committee members:    
-Officers, directors, and nominating committee members shall be elected from a slate presented by the nominating committee as well as any names submitted by membership
-petition.
+6. Nomination of officers, directors, and nominating committee members:
+Officers, directors, and nominating committee members shall be elected from a slate presented by the nominating committee as well as any names submitted by membership petition.
 
 7. Removal of officers or directors:    
 Any officer or director may be removed from office by a written majority vote of the dues-paying members of the Corporation.
@@ -86,19 +79,15 @@ V. MEETINGS
 
 1. Regular meetings:    
 The Corporation shall hold at least one general membership meeting each year. This annual business meeting shall be held in the spring of each year, usually at alternate sites in the north and south of the State, for the purpose of transacting such business as may be brought before the meeting and providing a program of general interest to the members. When convenient, the annual business meeting may be held in conjunction with meetings of allied organizations.
-
 Written notice of the annual business meeting shall be distributed to the membership at least thirty (30) days in advance.
 
 2. Special meetings:    
 Special general membership meetings of the Corporation may be called by the President upon approval of the Board of Directors, or at the written request of one-third of the dues-paying members or twenty (20) dues-paying members, whichever is the smaller number.
-
 Such special meetings may be called for the purpose of conducting special business or may consist of special workshops focusing on a specific subject or subjects.
-
 Written notice of such special meetings of the membership shall be distributed to the membership at least thirty (30) days in advance.
 
 3. Quorum and vote required for legal action:   
 At any regular or special meeting of the membership, at least three (3) directors and onetenth (1/10) of the dues-paying membership shall constitute a quorum for the transaction of business. Except as otherwise provided in these Bylaws, a majority of the legal votes cast shall be required to take action.
-
 A quorum for a meeting of the Board of Directors is four (4) voting members of the Board of Directors.
 
 VI. COMMITTEES
@@ -139,7 +128,7 @@ These Bylaws may be amended or expanded by the affirmative vote of three-fifths 
 
 1. The name of the Corporation is:
 
-SOCIETY OF CALIFORNIA ARCHIVISTS, INC.
+   SOCIETY OF CALIFORNIA ARCHIVISTS, INC.
 
 2. An existing unincorporated association, the Articles of Incorporation and By-laws of the Society of California Archivists, are being amended by the filing of these Articles.
 
@@ -273,32 +262,3 @@ Any person or organization not affiliated with SCA may not use, copy, alter or m
 The master copy of the Society of California Archivists Handbook, maintained by the Secretary, exists in an online format on the SCA website. All Board decisions affecting material in it should be immediately noted by the Secretary. These revisions should be made and updated in the master online copy of the Handbook so that all board members, committee chairs, and the general membership may have access to the most current version.
 
 A printed version of the Handbook should also be maintained by the Secretary, and a printed copy of each outdated or superseded section sent to the SCA Archives.
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mjhugh/sca-handbook/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
