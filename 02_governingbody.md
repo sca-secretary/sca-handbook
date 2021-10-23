@@ -35,6 +35,7 @@ The election procedure, terms of office, and general duties of the Board are des
 9. The Board members are reimbursed for travel and lodging costs (but excluding meals) incurred in attending Board meetings other than those associated with attending the Board meeting held in conjunction with the AGM. For the Board meeting held in conjunction with the AGM travel is not reimbursed, but one night of lodging at the conference hotel rate may be reimbursed. To minimize Society expenses, the board meetings should be held in the most economical locations.
 
     a. SCA mileage travel reimbursement shall conform to the IRS tax code, and shall be changed accordingly when a new amount is announced.
+
     b. Board members may also request reimbursement for photocopying, telephone calls, and postage used for Society business and for other expense with Board approval.
 
 10. It is part of the Secretary’s duties to maintain and update the Handbook. The Secretary will distribute copies of revised pages to each member of the Board. (See Handbook Maintenance, section 02-04-01.)
