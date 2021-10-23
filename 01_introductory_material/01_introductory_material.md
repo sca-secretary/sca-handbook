@@ -158,7 +158,7 @@ constitute the initial board of directors shall be:
 - Julie Reiz, Director, Jet Propulsion Laboratory, 4800 Oak Grove Drive, M/S 512-110, Pasadena, CA 91109
 - Susan Ewing Haley, Director, National Park Service, Golden Gate National Recreation Area, Fort Mason, Bldg. 201, San Francisco, CA 94124
 - Lynn Downey, Immediate Past-President, Levi Strauss & Co. Archives, 1155 Battery Street, San Francisco, CA 94111
-<br>
+  <br>
 8. The initial directors, all of whom are members of the Board of Directors of the Society of California Archives, Inc., shall hold office until the next regularly scheduled mail ballot election in May of 1997, or until such time thereafter as the terms to which they have been elected shall expire and their successors duly elected.
 
 9. The name and business address in the State of California of this Corporation’s initial agent for service of process is Deborah Day, SIO Archives, University of California, San Diego, Mail Code 0175C, La Jolla, California 92093-0175.
