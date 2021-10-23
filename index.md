@@ -21,6 +21,7 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
   - 1-9-5     Records Destruction Calendar
   - 1-9-6     SCA Archives
 
+
 ### [Part 2: Governing Body ](/sca-handbook/02_governing_body/)
 - 2-1     [Board of Directors](/sca-handbook/02_governing_body/02-01_board_of_directors.html)
 - 2-2     [President](/sca-handbook/02_governing_body/02-02_president.html)
@@ -52,6 +53,7 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
   - 2-7-5     Membership List
   - 2-7-6     Membership Form
 - 2-8     Directors at Large
+
 
 ### [Part 3:  Committees](/sca-handbook/03_committees/)
 - 3-1     [Committees](/sca-handbook/03_committees/03-01_committees.html)
@@ -113,6 +115,7 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
   - 3-15-6   WAI Sponsor Responsibilities: Society of California Archivists
 - 3-16   Special Committees and Task Forces
 
+
 ### [Part 4:  External Relations](/sca-handbook/04_external_relations/)
 - 4-1     [External Relations and Affinity Groups](/sca-handbook/04_external_relations/04-01_external_relations_and_affinity_groups.html)
   - 4-1-1     Affinity Groups
@@ -120,6 +123,7 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
   - 4-1-3     California Historical Records Advisory Board
     - 4-1-3-1     Archival Award of Excellence
   - 4-1-4     Journal of Western Archives
+
 
 ### [Part 5:  History](/sca-handbook/05_history/)
 - 5-1     [The Foundation of SCA](/sca-handbook/05_history/05-01_foundation_of_SCA.html)
@@ -130,6 +134,7 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
 - 5-6     Board of Directors: Alphabetical List
 - 5-7     Committee History
 - 5-8     Special Committees and Task Forces History 
+
 
 # About
 
