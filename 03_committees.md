@@ -16,15 +16,13 @@ The Standing Committees and means of appointment of their chairs are:
 3. Communications and Outreach Committee (appointment by President)
 4. Development (appointed by President)
 5. Education (appointed by President)
-    4.a. Vice Chair for Online Education (appointed by Committee Chair, approved by
-President)
+   4.a. Vice Chair for Online Education (appointed by Committee Chair, approved by President)
 6. Election (appointed by President)
 7. Ethics and Inclusion (appointed by President)
 8. Finance and Investment (SCA Treasurer)
 9. Local Arrangements (appointed by President)
 10. Membership (SCA Membership Director)
-    10.a. Vice Chair for Member Activities (appointed by Membership Director, approved
-by President)
+    10.a. Vice Chair for Member Activities (appointed by Membership Director, approved by President)
 11. Nominating (SCA Immediate Past-President)
 12. Program (SCA Vice-President/President-Elect)
 13. Publications (appointed by President)
