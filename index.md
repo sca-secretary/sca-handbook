@@ -6,13 +6,21 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
 
 ### [Part 1: Introductory Material](/sca-handbook/01_introductory_material/01_introductory_material.html)
 - 1-1     Handbook Introduction
+
 - 1-2     [Bylaws](/sca-handbook/01_introductory_material/01_introductory_material.html#1-2-bylaws)
+
 - 1-3     Articles of Incorporation
+
 - 1-4     SCA Mission Statement
+
 - 1-5     SCA Core Values
+
 - 1-6     [SCA Code of Conduct](/sca-handbook/01_introductory_material/01_introductory_material.html#1-6-sca-code-of-conduct)
+
 - 1-7     [SCA Privacy Policy](/sca-handbook/01_introductory_material/01_introductory_material.html#1-7-sca-privacy-policy)
+
 - 1-8     [SCA Photography Policy](/sca-handbook/01_introductory_material/01_introductory_material.html#1-8-sca-photography-policy)
+
 - 1-9    Administrative Information
   - 1-9-1     Calendar: SCA
   - 1-9-2     Mailing Information
@@ -23,13 +31,17 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
 
 ### [Part 2: Governing Body ](/sca-handbook/02_governing_body/)
 - 2-1     [Board of Directors](/sca-handbook/02_governing_body/02-01_board_of_directors.html)
+
 - 2-2     [President](/sca-handbook/02_governing_body/02-02_president.html)
   - 2-2-1     Leadership Seminar
     - 2-2-1-1     Leadership Seminar Agenda (Sample)
+
 - 2-3     Vice President
+
 - 2-4     Secretary
   - 2-4-1     Handbook Maintenance
   - 2-4-2     Handbook Review and Update Assignments
+
 - 2-5     Treasurer
   - 2-5-1     Audit Procedure
   - 2-5-2     Budget Categories
@@ -43,7 +55,9 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
   - 2-5-10   Cancellation and Refund Policy
   - 2-5-11   Statement of Financial Condition
   - 2-5-12   Year End Adjustments to Restricted Accounts
+
 - 2-6     Past President
+
 - 2-7     Membership Director
   - 2-7-1     Calendar: Membership
   - 2-7-2     Membership Information
@@ -51,6 +65,7 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
   - 2-7-4     Membership Welcome Letter (Sample)
   - 2-7-5     Membership List
   - 2-7-6     Membership Form
+
 - 2-8     Directors at Large
 
 ### [Part 3:  Committees](/sca-handbook/03_committees/)
