@@ -2,7 +2,7 @@
 
 ## 3-1 Committees
 
-[General Description]
+### General Description
 
 _Special Committees_ are ad hoc committees or task force groups established by the Board to perform a specific task for a limited time. They are described briefly in Bylaws VI.4.
 
@@ -41,7 +41,7 @@ committee chairs should familiarize themselves with the SCA Handbook. Outgoing c
 board liaisons should provide at minimum to incoming chairs a copy of the outgoing chair's
 quarterly and annual reports and the previous year's committee budget.
 
-[Responsibilities]
+### Responsibilities
 
 Responsibilities that apply to all standing committees are described here. Those pertaining to specific committees are described in that Committee's description in the Handbook.
 
@@ -52,7 +52,7 @@ Responsibilities that apply to all standing committees are described here. Those
 5. All committee chairs present an oral report of committee activity at the Annual Business Meeting during the Annual General Meeting. Chairs unable to attend shall designate a representative to make this report in their absence.
 6. Committee chairs send non-current records to the Society's archives at the end of their term of service. SEE ALSO Records Retention Schedule, Handbook section 1-8-4 and SCA Archives: Finding Aid, Handbook section 1-8-6.
 
-[Tenure of Appointed Standing Committee Chairs]
+### Tenure of Appointed Standing Committee Chairs
 
 Appointed committee chairs will serve for three years. Within that three-year period, committee chairs and/or co-chairs will be reappointed annually by the President at the beginning of their term, with Board approval. On notifying committee chairs of their appointment or reappointment, the President shall inform them of the remaining length of their tenure. Outgoing committee chairs will suggest a successor to the President, preferably one currently serving on the committee. Committee co-chairs will preferably have staggered tenures. Local Arrangements chairs will be selected by the President and serve for three-year terms.
 
@@ -88,4 +88,4 @@ VII. Summary of Board advice or action requested
 
 Add footer in the following format: yyyy/xth qtr/name of committee; i.e. 2008/4th qtr/election.
 
-_6/93 bh, 6/09 jtm, 07/2016 llc)
+_6/93 bh, 6/09 jtm, 07/2016 llc_
