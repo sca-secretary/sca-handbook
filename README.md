@@ -12,6 +12,8 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+  - Nested
+    - List  
 
 1. Numbered
 2. List
@@ -19,6 +21,8 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+*** horizontal rule
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
