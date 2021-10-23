@@ -4,15 +4,15 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
 
 ## Table of Contents
 
-### [Part 1: Introductory Material](/01_introductory_material/01_introductory_material.html)
+### [Part 1: Introductory Material](/sca-handbook/01_introductory_material/01_introductory_material.html)
 - 1-1     Handbook Introduction
-- 1-2     [Bylaws](/01_introductory_material/01_introductory_material.html#1-2-bylaws)
+- 1-2     [Bylaws](/sca-handbook/01_introductory_material/01_introductory_material.html#1-2-bylaws)
 - 1-3     Articles of Incorporation
 - 1-4     SCA Mission Statement
 - 1-5     SCA Core Values
-- 1-6     [SCA Code of Conduct](/01_introductory_material/01_introductory_material.html#1-6-sca-code-of-conduct)
-- 1-7     [SCA Privacy Policy](/01_introductory_material/01_introductory_material.html#1-7-sca-privacy-policy)
-- 1-8     [SCA Photography Policy](/01_introductory_material/01_introductory_material.html#1-8-sca-photography-policy)
+- 1-6     [SCA Code of Conduct](/sca-handbook/01_introductory_material/01_introductory_material.html#1-6-sca-code-of-conduct)
+- 1-7     [SCA Privacy Policy](/sca-handbook/01_introductory_material/01_introductory_material.html#1-7-sca-privacy-policy)
+- 1-8     [SCA Photography Policy](/sca-handbook/01_introductory_material/01_introductory_material.html#1-8-sca-photography-policy)
 - 1-9    Administrative Information
 - 1-9-1     Calendar: SCA
 - 1-9-2     Mailing Information
@@ -21,9 +21,9 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
 - 1-9-5     Records Destruction Calendar
 - 1-9-6     SCA Archives
 
-### [Part 2: Governing Body ]()
-- 2-1     [Board of Directors](https://christinklez.github.io/sca-handbook/02_governing_body/02-01_board_of_directors.html)
-- 2-2     [President](https://christinklez.github.io/sca-handbook/02_governing_body/02-02_president.html)
+### [Part 2: Governing Body ](/sca-handbook/02_governing_body/)
+- 2-1     [Board of Directors](/sca-handbook/02_governing_body/02-01_board_of_directors.html)
+- 2-2     [President](/sca-handbook/02_governing_body/02-02_president.html)
 - 2-2-1     Leadership Seminar
 - 2-2-1-1     Leadership Seminar Agenda (Sample)
 - 2-3     Vice President
@@ -53,10 +53,10 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
 - 2-7-6     Membership Form
 - 2-8     Directors at Large
 
-### Part 3:  Committees
-- 3-1     Committees
+### [Part 3:  Committees](/sca-handbook/03_committees/)
+- 3-1     [Committees](/sca-handbook/03_committees/03-01_committees.html)
 - 3-1-1     Quarterly Report Format
-- 3-2     Advocacy and Public Policy Committee
+- 3-2     [Advocacy and Public Policy Committee](/sca-handbook/03_committees/03-02_advocacy_and_public_policy.html)
 - 3-3     Awards Committee
 - 3-3-1     Archives Appreciation Award
 - 3-3-2     Career Achievement Award
@@ -113,17 +113,17 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
 - 3-15-6   WAI Sponsor Responsibilities: Society of California Archivists
 - 3-16   Special Committees and Task Forces
 
-### Part 4:  External Relations 
-- 4-1     External Relations and Affinity Groups
+### [Part 4:  External Relations](/sca_handbook/04_external_relations/)
+- 4-1     [External Relations and Affinity Groups](/sca_handbook/04_external_relations/04-01_external_relations_and_affinity_groups.html)
 - 4-1-1     Affinity Groups
 - 4-1-2     Archives Month
 - 4-1-3     California Historical Records Advisory Board
 - 4-1-3-1     Archival Award of Excellence
 - 4-1-4     Journal of Western Archives
 
-### Part 5:  History 
-- 5-1     The Foundation of SCA
-- 5-2     Chronology
+### [Part 5:  History](/sca_handbook/05_history/)
+- 5-1     [The Foundation of SCA](/sca_handbook/05_history/05-01_foundation_of_SCA.html)
+- 5-2     [Chronology](/sca_handbook/05_history/05-02_chronology.html)
 - 5-3     Annual General Meeting (AGM) History
 - 5-4     Awards History
 - 5-5     Board of Directors History
