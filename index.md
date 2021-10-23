@@ -113,17 +113,17 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
 - 3-15-6   WAI Sponsor Responsibilities: Society of California Archivists
 - 3-16   Special Committees and Task Forces
 
-### [Part 4:  External Relations](/sca_handbook/04_external_relations/)
-- 4-1     [External Relations and Affinity Groups](/sca_handbook/04_external_relations/04-01_external_relations_and_affinity_groups.html)
+### [Part 4:  External Relations](/sca-handbook/04_external_relations/)
+- 4-1     [External Relations and Affinity Groups](/sca-handbook/04_external_relations/04-01_external_relations_and_affinity_groups.html)
 - 4-1-1     Affinity Groups
 - 4-1-2     Archives Month
 - 4-1-3     California Historical Records Advisory Board
 - 4-1-3-1     Archival Award of Excellence
 - 4-1-4     Journal of Western Archives
 
-### [Part 5:  History](/sca_handbook/05_history/)
-- 5-1     [The Foundation of SCA](/sca_handbook/05_history/05-01_foundation_of_SCA.html)
-- 5-2     [Chronology](/sca_handbook/05_history/05-02_chronology.html)
+### [Part 5:  History](/sca-handbook/05_history/)
+- 5-1     [The Foundation of SCA](/sca-handbook/05_history/05-01_foundation_of_SCA.html)
+- 5-2     [Chronology](/sca-handbook/05_history/05-02_chronology.html)
 - 5-3     Annual General Meeting (AGM) History
 - 5-4     Awards History
 - 5-5     Board of Directors History
