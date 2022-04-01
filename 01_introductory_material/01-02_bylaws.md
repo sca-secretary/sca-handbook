@@ -117,3 +117,7 @@ Notwithstanding any other provisions of these articles, the Corporation shall no
 X. AMENDMENTS
 
 These Bylaws may be amended or expanded by the affirmative vote of three-fifths (3/5) of the votes legally cast by the dues-paying membership in a ballot, provided copies of such changes or additions have been circulated to the membership at least thirty (30) days in advance. Further amendments to the Bylaws or to a proposed bylaw amendment may be proposed in writing either by five (5) members and filed with the Secretary or by the Board of Directors.
+
+***
+
+_Revision history: 01/2018 llc, 05/2019 llc_
