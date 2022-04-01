@@ -6,4 +6,4 @@ To maximize the Handbook's usefulness, all Board decisions affecting material in
 
 ***
 
-_7/86 rln, 5/91 nlb, Secy 8/92 dmc, 5/93 dmc, 2/10 jmw_
+_Revision history: 7/86 rln, 5/91 nlb, Secy 8/92 dmc, 5/93 dmc, 2/10 jmw_
