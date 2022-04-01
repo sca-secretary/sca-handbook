@@ -8,13 +8,13 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
 
 ### [Part 1: Introductory Material](/sca-handbook/01_introductory_material/index.html)
 - 1-1     Handbook Introduction
-- 1-2     [Bylaws](/sca-handbook/01_introductory_material/index.html#1-2-bylaws)
+- 1-2     [Bylaws](/sca-handbook/01_introductory_material/01_introductory_material.html#1-2-bylaws)
 - 1-3     Articles of Incorporation
 - 1-4     SCA Mission Statement
 - 1-5     SCA Core Values
-- 1-6     [SCA Code of Conduct](/sca-handbook/01_introductory_material/index.html#1-6-sca-code-of-conduct)
-- 1-7     [SCA Privacy Policy](/sca-handbook/01_introductory_material/index.html#1-7-sca-privacy-policy)
-- 1-8     [SCA Photography Policy](/sca-handbook/01_introductory_material/index.html#1-8-sca-photography-policy)
+- 1-6     [SCA Code of Conduct](/sca-handbook/01_introductory_material/01_introductory_material.html#1-6-sca-code-of-conduct)
+- 1-7     [SCA Privacy Policy](/sca-handbook/01_introductory_material/01_introductory_material.html#1-7-sca-privacy-policy)
+- 1-8     [SCA Photography Policy](/sca-handbook/01_introductory_material/01_introductory_material.html#1-8-sca-photography-policy)
 - 1-9    Administrative Information
   - 1-9-1     Calendar: SCA
   - 1-9-2     Mailing Information
