@@ -2,7 +2,7 @@
 
 # 2-4-2 Handbook Review and Update Assignments
 
-| **Section Description | Individual Responsible for Updates** |
+| **Section Description** | **Individual Responsible for Updates** |
 | **1 Introductory Material** | |
 | 1-1 Handbook Introduction | Secretary |
 | 1-2 Bylaws | Secretary |
@@ -64,7 +64,7 @@
 | 3-3 Communications and Outreach Committee | Com & Outreach Ctte. |
 | 3-4 Development Committee | Development Ctte. |
 | 3-4-1 Contribution Form (sample) | Development Ctte. |
-| 3-4-2 Vendor Registration Form (sample) | Development Ctte |
+| 3-4-2 Vendor Registration Form (sample) | Development Ctte. |
 | 3-5 Education Committee | Education Ctte. |
 | 3-5-1 Education Committee Workshops | Education Ctte. |
 | 3-5-2 Workshop Checklist | Education Ctte. |
