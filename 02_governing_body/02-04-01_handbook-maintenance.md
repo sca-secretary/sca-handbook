@@ -1,6 +1,6 @@
 <sup><a href="/sca-handbook/index.html">SCA Handbook</a>  |  <a href="../02_governing_body/index.html">Part 2: Governing Body</a>  |  <a href="../02_governing_body/02-03_secretary.html">2-4 Secretary</a></sup>
 
-#2-4-1 Handbook Maintenance
+# 2-4-1 Handbook Maintenance
 
 **General Description**
 The Secretary maintains the official copy of the SCA Handbook.
