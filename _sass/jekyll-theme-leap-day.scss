@@ -8,7 +8,7 @@ by Matt Graham
 @import "rouge-base16-dark";
 
 body {
-  font:14px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font:20px/28px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#2b2b2b;
   font-weight:300;
   margin: 0px;
@@ -36,6 +36,7 @@ h1 {
 h2 {
   font-size: 24px;
   color:#393939;
+  padding-top: 15px;
 }
 
 h3, h4, h5, h6 {
@@ -45,6 +46,7 @@ h3, h4, h5, h6 {
 h3 {
   font-size: 18px;
   line-height: 24px;
+  padding-top: 15px;
 }
 
 a {
