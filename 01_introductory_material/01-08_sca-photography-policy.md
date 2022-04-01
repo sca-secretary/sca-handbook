@@ -1,4 +1,6 @@
-## 1-8 SCA Photography Policy
+<sup><a href="/sca-handbook/index.html">SCA Handbook</a>  |  <a href="../01_introductory_material/index.html">Part 1: Introductory Material</a></sup>
+
+# 1-8 SCA Photography Policy
 
 The Society of California Archivists (SCA) reserves the right to use any photograph or video taken at any event sponsored by SCA without the expressed written permission of those included within the photograph or video. Photographs or videos may be used in programs, brochures,
 newsletters, websites, social media, etc. for promotional purposes.
@@ -10,3 +12,7 @@ To ensure the privacy of individuals and children, images will not be identified
 By participating in an SCA-sponsored event or by failing to notify SCA in writing about your desire to not have your photograph used by SCA, you are agreeing to release, defend, hold harmless and indemnify SCA from any and all claims involving the use of your picture or likeness.
 
 Any person or organization not affiliated with SCA may not use, copy, alter or modify SCA photographs, graphics, videography or other, similar reproductions or recordings without the advance written permission of an authorized designee from SCA.
+
+***
+
+_Revision history: 05/2019 llc_
