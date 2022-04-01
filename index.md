@@ -6,14 +6,14 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
 
 ## Part 1: [Introductory Material](/sca-handbook/01_introductory_material/index.html)
 - 1-1     [Handbook Introduction](/sca-handbook/01_introductory_material/01-01_handbook-introduction.html)
-- 1-2     [Bylaws](/sca-handbook/01_introductory_material/01-02-bylaws.html)
-- 1-3     [Articles of Incorporation](/sca-handbook/01_introductory_material/01-03-articles-of-incorporation.html)
-- 1-4     [SCA Mission Statement](/sca-handbook/01_introductory_material/01-04-sca-mission-statement.html)
-- 1-5     [SCA Core Values](/sca-handbook/01_introductory_material/01-05-sca-core-values.html)
-- 1-6     [SCA Code of Conduct](/sca-handbook/01_introductory_material/01-06-sca-code-of-conduct.html)
-- 1-7     [SCA Privacy Policy](/sca-handbook/01_introductory_material/01-07-sca-privacy-policy.html)
-- 1-8     [SCA Photography Policy](/sca-handbook/01_introductory_material/01-08-sca-photography-policy.html)
-- 1-9    [Administrative Information](/sca-handbook/01_introductory_material/01-09-administrative-information.html)
+- 1-2     [Bylaws](/sca-handbook/01_introductory_material/01-02_bylaws.html)
+- 1-3     [Articles of Incorporation](/sca-handbook/01_introductory_material/01-03_articles-of-incorporation.html)
+- 1-4     [SCA Mission Statement](/sca-handbook/01_introductory_material/01-04_sca-mission-statement.html)
+- 1-5     [SCA Core Values](/sca-handbook/01_introductory_material/01-05_sca-core-values.html)
+- 1-6     [SCA Code of Conduct](/sca-handbook/01_introductory_material/01-06_sca-code-of-conduct.html)
+- 1-7     [SCA Privacy Policy](/sca-handbook/01_introductory_material/01-07_sca-privacy-policy.html)
+- 1-8     [SCA Photography Policy](/sca-handbook/01_introductory_material/01-08_sca-photography-policy.html)
+- 1-9    [Administrative Information](/sca-handbook/01_introductory_material/01-09_administrative-information.html)
   - 1-9-1     Calendar: SCA
   - 1-9-2     Mailing Information
   - 1-9-3     SCA Identity Guidelines
