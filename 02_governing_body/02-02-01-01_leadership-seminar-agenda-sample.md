@@ -2,11 +2,14 @@
 
 # 2-2-1-1 Leadership Seminar Agenda
   
-  **Sample Agenda**
+## Sample Agenda
   
 Society of California Archivists
+
 LEADERSHIP MEETING
+
 Agenda
+
 Thursday, April 28, 2011
 
 Location: St Claire Hotel, San Jose (AGM)
@@ -19,8 +22,8 @@ Location: St Claire Hotel, San Jose (AGM)
   6. Tour of SCA Website
   7. Orientation for basic functions in Wild Apricot
 
-  **Points to cover**
-Board
+## Points to cover
+**Board**
 - Members are elected, mostly 2 year terms, rotate which are new each year so that there are old and new hands
 - Terms begin thirty (30) days after the annual business meeting
 - Meets 4 times a year, fall meeting is the budget meeting
@@ -28,7 +31,7 @@ Board
 - VP/President-elect chairs the Program Committee, serves as President in second year of term, is ex officio for a third year and chairs Nominating Committee
 - Directors at Large serve on the WAI Joint Management Committee
 
-Committees
+**Committees**
 - Are mostly volunteer with chairs and members remaining as long their interest takes them, a few variations
   - LAC is just for the year
   - Nominating Committee is elected (Immediate Past President is chair and then two members elected in alternate years so there is always an old hand
@@ -37,7 +40,7 @@ and a new one)
 volunteers
 - Some committees have a Northern and Southern co-chair, but the committee is one committee
   
-Orientation to SCA business
+**Orientation to SCA business**
 - Familiarize yourself with the SCA Handbook
 - Membership sends names of new and renewing members expressing interest in a specific committee--contact them, welcome them to your committee, involve them!
 - Each committee chair prepares a formal report to the Board prior to each Board meeting. Make long enough to inform and alert the Board, but don’t feel you have
@@ -56,5 +59,6 @@ to reach a certain length. If there are issues, you should be communicating with
   - Committee chairs send non-current records to the Society’s archives at the end of their term of service (or periodically in the case of long-term chairs)
   - The official SCA mailing address is at the State Archives in Sacramento, let the person in charge of the mailbox know your preferred address for mail forwarding
   - SCA has 2 retractable banners for use at meetings and outreach, the Outreach and Publicity chair(s) usually keep them
+
   
 If a new chair, what questions do you have? If an experienced chair, what wisdom to impart?
