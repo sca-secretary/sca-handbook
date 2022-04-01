@@ -3,11 +3,11 @@
 
 Adapted from Bylaws revised and approved by the membership, May 1992, presented to the membership for approval February 1993, and approved by written ballot, March 1993; amended by membership April 1996; amended by membership April 1997; amended by membership April 2006; amended by membership April 2013: amended by membership vote, May 2015.
 
-I. NAME
+### I. NAME
 
 The name of this organization shall be the Society of California Archivists, Inc.
 
-II. OBJECTIVES
+### II. OBJECTIVES
 
 The Society of California Archivists, Inc. exists to support and develop the education of those who collect, care for, and provide access to the documentary heritage of California and adjoining areas and to encourage public interest in and public support for archival facilities in public and private institutions. To this end the Corporation shall:
 1. act as a vehicle for dissemination of information about archival collections,
@@ -20,7 +20,7 @@ concern; and
 5. advocate the identification, collection, preservation, use and appreciation of
 historical records and manuscripts.
 
-III. MEMBERSHIP AND DUES
+### III. MEMBERSHIP AND DUES
 
 1. There shall be two classes of membership: individual and institutional.
 2. Individual membership shall be open to any interested person in California or
@@ -31,7 +31,7 @@ or elsewhere which employs or has affiliated with it individuals interested in t
 4. Annual dues for each class of membership shall be determined by the Board of Directors from time to time subject to ratification by a majority of the members voting.
 5. Notice of proposed changes in dues shall be circulated to the membership at least thirty (30) days prior to a vote.
 
-IV. OFFICERS AND GOVERNMENT
+### IV. OFFICERS AND GOVERNMENT
 
 1. Officers:
 The officers of the Corporation shall be a President, a Vice President, a Secretary, and a Treasurer.
@@ -70,7 +70,7 @@ Officers, directors, and nominating committee members shall be elected from a sl
 7. Removal of officers or directors:    
 Any officer or director may be removed from office by a written majority vote of the dues-paying members of the Corporation.
 
-V. MEETINGS
+### V. MEETINGS
 
 1. Regular meetings:    
 The Corporation shall hold at least one general membership meeting each year. This annual business meeting shall be held in the spring of each year, usually at alternate sites in the north and south of the State, for the purpose of transacting such business as may be brought before the meeting and providing a program of general interest to the members. When convenient, the annual business meeting may be held in conjunction with meetings of allied organizations.
@@ -85,7 +85,7 @@ Written notice of such special meetings of the membership shall be distributed t
 At any regular or special meeting of the membership, at least three (3) directors and onetenth (1/10) of the dues-paying membership shall constitute a quorum for the transaction of business. Except as otherwise provided in these Bylaws, a majority of the legal votes cast shall be required to take action.
 A quorum for a meeting of the Board of Directors is four (4) voting members of the Board of Directors.
 
-VI. COMMITTEES
+### VI. COMMITTEES
 
 1. Standing committees:   
 Standing committees shall consist of a nominating committee, a program committee, an election committee, and such other committees as the Board of Directors shall from time to time deem necessary or advisable.
@@ -99,11 +99,11 @@ The nominating committee shall consist of the immediate past President and two e
 4. Special committees or task forces:   
 Special committees may be created when the need arises and in the same manner as the regular standing committees. Chair and members of these committees shall serve until their charge is fulfilled.
 
-VII. PARLIAMENTARY AUTHORITY
+### VII. PARLIAMENTARY AUTHORITY
 
 The rules contained in the current edition of Sturgis’s Standard Code of Parliamentary Procedure shall govern the Corporation in all cases in which they are applicable, and in which they are not inconsistent with these Bylaws.
 
-VIII. DISSOLUTION
+### VIII. DISSOLUTION
 
 Upon the winding up and dissolution of this Corporation (Society of California Archivists, Inc.), after paying or adequately providing for debts and obligations of the Corporation, the remaining assets shall be distributed to the Society of American Archivists or such other organization of similar purpose as may be selected by the Board of Directors, provided such organization has remained eligible to accept tax deductible gifts for charitable, educational, or philanthropic purposes under Section 501 (c)(3) of the United States Internal Revenue Code.
 
@@ -111,11 +111,11 @@ No part of the income or assets of this Corporation shall ever inure to or for t
 
 The Corporation may also make payments and distributions in furtherance of the educational and other public purposes for which it was formed.
 
-IX. TAX STATUS
+### IX. TAX STATUS
 
 Notwithstanding any other provisions of these articles, the Corporation shall not carry on any other activities not permitted to be carried on by a non-profit Corporation, gifts to which are deductible by the donor for federal income tax purposes pursuant to Section 501 (c)(3) of the Internal Revenue Code of 1954 as amended from time to time.
 
-X. AMENDMENTS
+### X. AMENDMENTS
 
 These Bylaws may be amended or expanded by the affirmative vote of three-fifths (3/5) of the votes legally cast by the dues-paying membership in a ballot, provided copies of such changes or additions have been circulated to the membership at least thirty (30) days in advance. Further amendments to the Bylaws or to a proposed bylaw amendment may be proposed in writing either by five (5) members and filed with the Secretary or by the Board of Directors.
 
