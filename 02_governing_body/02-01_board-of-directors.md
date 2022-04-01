@@ -1,15 +1,14 @@
+<sup><a href="/sca-handbook/index.html">SCA Handbook</a>  |  <a href="../02_governing_body/index.html">Part 2: Governing Body</a></sup>
 
-# Part 2: Governing Body
+# 2.1. Board of Directors
 
-## 2.1. Board of Directors
-
-### General Description
+## General Description
 
 The four (4) officers (President-elect, Vice President, Secretary, and Treasurer), the immediate Past President, and three (3) other directors (Membership Director, two (2) At-Large Directors) constitute the governing body of the Society, called the Board of Directors (Board).
 
 The election procedure, terms of office, and general duties of the Board are described in Bylaws, IV. See also Alice Sturgis’s _The Standard Code of Parliamentary Procedure_.
 
-### Responsiblities
+## Responsiblities
 
 1. The Board governs, manages, and regulates the affairs of the Society, acting on behalf of the members.
 2. A meeting of the Board shall be held with ninety (90) days of their taking office; which occurs when the president assumes office, thirty days after the annual members meeting. At least two other meeting of the Board shall be held during the year before the next annual Members Meeting (Bylaws IV-4).
@@ -41,4 +40,6 @@ The election procedure, terms of office, and general duties of the Board are des
 10. It is part of the Secretary’s duties to maintain and update the Handbook. The Secretary will distribute copies of revised pages to each member of the Board. (See Handbook Maintenance, section 02-04-01.)
 11. The Board, in consultation with the Site Selection Committee, selects AGM sites and dates and provides for their publication to the members.
 
-_04/90 nlb, 10/90 nlb, 10/91 jab, 5/93 bh, 10/97 lgr, 10/00 rpb, 4/04 jlm, 4/08 jlm, 6/09 jbr, 3/15 Board, 6/15 tep, 01/2017 llc_
+***
+
+_Revision history: 04/90 nlb, 10/90 nlb, 10/91 jab, 5/93 bh, 10/97 lgr, 10/00 rpb, 4/04 jlm, 4/08 jlm, 6/09 jbr, 3/15 Board, 6/15 tep, 01/2017 llc_
