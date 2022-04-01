@@ -1,6 +1,4 @@
-<a href="/sca-handbook/index.html">SCA Handbook</a> > <a href="../01_introductory_material/index.html">Part 1: Introductory Material</a> >
-
-***
+<sup><a href="/sca-handbook/index.html">SCA Handbook</a>  |  <a href="../01_introductory_material/index.html">Part 1: Introductory Material</a></sup>
 
 ## 1-2 Bylaws
 
