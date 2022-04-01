@@ -131,7 +131,6 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
 - 5-7     Committee History
 - 5-8     Special Committees and Task Forces History 
 
-
 ***
 
 # About
