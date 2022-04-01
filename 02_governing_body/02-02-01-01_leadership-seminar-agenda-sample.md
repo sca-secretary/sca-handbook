@@ -31,6 +31,7 @@ Location: St Claire Hotel, San Jose (AGM)
 - VP/President-elect chairs the Program Committee, serves as President in second year of term, is ex officio for a third year and chairs Nominating Committee
 - Directors at Large serve on the WAI Joint Management Committee
 
+
 **Committees**
 - Are mostly volunteer with chairs and members remaining as long their interest takes them, a few variations
   - LAC is just for the year
@@ -39,7 +40,8 @@ and a new one)
   -Awards Committee members are appointed by President rather than
 volunteers
 - Some committees have a Northern and Southern co-chair, but the committee is one committee
-  
+
+
 **Orientation to SCA business**
 - Familiarize yourself with the SCA Handbook
 - Membership sends names of new and renewing members expressing interest in a specific committee--contact them, welcome them to your committee, involve them!
