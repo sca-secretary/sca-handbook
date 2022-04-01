@@ -3,9 +3,14 @@
 
 @import "{{ site.theme }}";
 
+/* lists */
+
 ul {
   margin-bottom: 0;
+  font:15px;
 }
+
+/* headings */
 
 h2 {
   padding-top: 15px;
@@ -14,6 +19,9 @@ h2 {
 h3 {
   padding-top: 15px;
 }
+
+
+/* links */
 
 a:link {
   color: #bd8d46;
