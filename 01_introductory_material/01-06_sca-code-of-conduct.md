@@ -1,4 +1,6 @@
-## 1-6 SCA Code of Conduct
+<sup><a href="/sca-handbook/index.html">SCA Handbook</a>  |  <a href="../01_introductory_material/index.html">Part 1: Introductory Material</a></sup>
+
+# 1-6 SCA Code of Conduct
 
 The Society of California Archivists (SCA) is devoted to fostering cooperation and professional development among its members. SCA is committed to providing its members and guests with a welcoming, diverse, and professional community. SCA does not tolerate harassment in any form. The Code of Conduct is meant to ensure that those who participate in SCA Programs<sup>1</sup> will not be harassed or in turn harass someone else for any reason. All members and guests are entitled to participate in a professional environment regardless of age, color, creed, disability, family relationship, gender identity, gender expression, individual lifestyle, level of experience in the archival field, marital status, military or veteran status, national origin, physical appearance, professional status, race, class, religion, sex, or sexual orientation.
 
@@ -12,3 +14,7 @@ Participants in any SCA event or forum, online or offline, who are asked to stop
 
 <sup>1</sup> SCA Programs include conferences, workshops, events, meetings, formal mentoring relationships, and online spaces such as the West_Arch listserv.      
 <sup>2</sup> The SCA Code of Conduct is reassessed every three years.
+
+***
+
+_Revision history: 01/2018 llc; 02/2018 llc; 04/2019 llc_
