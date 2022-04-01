@@ -7,7 +7,7 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
 ## Table of Contents
 
 ### [Part 1: Introductory Material](/sca-handbook/01_introductory_material/index.html)
-- 1-1     Handbook Introduction
+- 1-1     [Handbook Introduction](/sca-handbook/01_introductory_material/01_introductory_material.html#1-1-handbook-introduction)
 - 1-2     [Bylaws](/sca-handbook/01_introductory_material/01_introductory_material.html#1-2-bylaws)
 - 1-3     Articles of Incorporation
 - 1-4     SCA Mission Statement
