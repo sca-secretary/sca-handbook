@@ -1,6 +1,6 @@
 <sup><a href="/sca-handbook/index.html">SCA Handbook</a>  |  <a href="../02_governing_body/index.html">Part 2: Governing Body</a>  |  <a href=""../02_governing_body/02-02_president.html">President</a></sup>
 
-  #2-2-1-1 Leadership Seminar Agenda
+# 2-2-1-1 Leadership Seminar Agenda
   
   **Sample Agenda**
   
