@@ -21,9 +21,9 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
   - 1-9-5     Records Destruction Calendar
   - 1-9-6     SCA Archives
 
-## Part 2: [Governing Body ](/sca-handbook/02_governing-body/)
-- 2-1     [Board of Directors](/sca-handbook/02_governing-body/02-01_board-of-directors.html)
-- 2-2     [President](/sca-handbook/02_governing-body/02-02_president.html)
+## Part 2: [Governing Body ](/sca-handbook/02_governing_body/)
+- 2-1     [Board of Directors](/sca-handbook/02_governing_body/02-01_board-of-directors.html)
+- 2-2     [President](/sca-handbook/02_governing_body/02-02_president.html)
   - 2-2-1     Leadership Seminar
     - 2-2-1-1     Leadership Seminar Agenda (Sample)
 - 2-3     Vice President
@@ -113,7 +113,7 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
   - 3-15-6   WAI Sponsor Responsibilities: Society of California Archivists
 - 3-16   Special Committees and Task Forces
 
-## Part 4: [External Relations](/sca-handbook/04_external-relations/)
+## Part 4: [External Relations](/sca-handbook/04_external_relations/)
 - 4-1     [External Relations and Affinity Groups](/sca-handbook/04_external_relations/04-01_external-relations-and-affinity-groups.html)
   - 4-1-1     Affinity Groups
   - 4-1-2     Archives Month
