@@ -1,13 +1,13 @@
 ## Part 1: Introductory Material
-- 1-1     [Handbook Introduction](/sca-handbook/01_introductory_material/01_introductory_material.html#1-1-handbook-introduction)
-- 1-2     [Bylaws](/sca-handbook/01_introductory_material/01_introductory_material.html#1-2-bylaws)
-- 1-3     Articles of Incorporation
-- 1-4     SCA Mission Statement
-- 1-5     SCA Core Values
-- 1-6     [SCA Code of Conduct](/sca-handbook/01_introductory_material/01_introductory_material.html#1-6-sca-code-of-conduct)
-- 1-7     [SCA Privacy Policy](/sca-handbook/01_introductory_material/01_introductory_material.html#1-7-sca-privacy-policy)
-- 1-8     [SCA Photography Policy](/sca-handbook/01_introductory_material/01_introductory_material.html#1-8-sca-photography-policy)
-- 1-9    Administrative Information
+- 1-1     [Handbook Introduction](/sca-handbook/01_introductory_material/01-01_handbook-introduction.html)
+- 1-2     [Bylaws](/sca-handbook/01_introductory_material/01-02-bylaws.html)
+- 1-3     [Articles of Incorporation](/sca-handbook/01_introductory_material/01-03-articles-of-incorporation.html)
+- 1-4     [SCA Mission Statement](/sca-handbook/01_introductory_material/01-04-sca-mission-statement.html)
+- 1-5     [SCA Core Values](/sca-handbook/01_introductory_material/01-05-sca-core-values.html)
+- 1-6     [SCA Code of Conduct](/sca-handbook/01_introductory_material/01-06-sca-code-of-conduct.html)
+- 1-7     [SCA Privacy Policy](/sca-handbook/01_introductory_material/01-07-sca-privacy-policy.html)
+- 1-8     [SCA Photography Policy](/sca-handbook/01_introductory_material/01-08-sca-photography-policy.html)
+- 1-9    [Administrative Information](/sca-handbook/01_introductory_material/01-09-administrative-information.html)
   - 1-9-1     Calendar: SCA
   - 1-9-2     Mailing Information
   - 1-9-3     SCA Identity Guidelines
