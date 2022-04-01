@@ -2,7 +2,8 @@
 
 # 2-4-2 Handbook Review and Update Assignments
 
-Section Description | Individual Responsible for Updates
-1 Introductory Material
-1-1 Handbook Introduction | Secretary
-1-2 Bylaws | Secretary
+| Section Description | Individual Responsible for Updates |
+| ____________________|____________________________________|
+| 1 Introductory Material | |
+| 1-1 Handbook Introduction | Secretary |
+| 1-2 Bylaws | Secretary |
