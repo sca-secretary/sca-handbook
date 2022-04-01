@@ -19,7 +19,7 @@
 
       <header>
         <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-        <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
+      <p><a href="/sca-handbook/index.html">{{ page.description | default: site.description | default: site.github.project_tagline }}</a></p>
       </header>
 
       <div id="banner">
@@ -39,12 +39,11 @@
 
     <div class="wrapper">
       <nav>
-        <ul>[02_governing_body](sca-handbook/02_governing_body)</ul>
-      </nav>
-      <section>
-<!--        {{ content }} -->
        <ul>[Handbook, Bylaws, and Policies](sca-handbook/index.html)</ul>
        <ul>[Part 1: Introductory Material](sca-handbook/01_introductory_material/01_introductory_material.html)</ul>
+      </nav>
+      <section>
+       {{ content }}
       </section>
       <footer>
         {% if site.github.is_project_page %}
