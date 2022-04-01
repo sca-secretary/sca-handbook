@@ -24,8 +24,8 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
 ## Part 2: [Governing Body ](/sca-handbook/02_governing_body/)
 - 2-1     [Board of Directors](/sca-handbook/02_governing_body/02-01_board-of-directors.html)
 - 2-2     [President](/sca-handbook/02_governing_body/02-02_president.html)
-  - 2-2-1     Leadership Seminar
-    - 2-2-1-1     Leadership Seminar Agenda (Sample)
+  - 2-2-1     [Leadership Seminar](/sca-handbook/02_governing_body/02-02-01_leadership-seminar.html)
+    - 2-2-1-1     [Leadership Seminar Agenda (Sample)](/sca-handbook/02_governing_body/02-02-01-01_leadership-seminar-agenda-sample.html)
 - 2-3     Vice President
 - 2-4     Secretary
   - 2-4-1     Handbook Maintenance
