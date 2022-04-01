@@ -181,6 +181,8 @@ dt {
 }
 
 header {
+  font:32px/40px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:#242733;
   padding: 25px 20px 40px 20px;
   margin: 0;
   position: fixed;
@@ -189,7 +191,8 @@ header {
   right:0;
   width: 100%;
   text-align: center;
-  background: url(../images/background.png) #4276b6;
+  background: #fff;
+*/  background: url(../images/background.png) #4276b6; */
   box-shadow: 1px 0px 2px rgba(0,0,0,.75);
   z-index:99;
   -webkit-font-smoothing:antialiased;
