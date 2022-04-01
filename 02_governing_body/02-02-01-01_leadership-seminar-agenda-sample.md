@@ -23,7 +23,8 @@ Location: St Claire Hotel, San Jose (AGM)
   7. Orientation for basic functions in Wild Apricot
 
 ## Points to cover
-**Board**
+
+### Board
 - Members are elected, mostly 2 year terms, rotate which are new each year so that there are old and new hands
 - Terms begin thirty (30) days after the annual business meeting
 - Meets 4 times a year, fall meeting is the budget meeting
@@ -31,8 +32,7 @@ Location: St Claire Hotel, San Jose (AGM)
 - VP/President-elect chairs the Program Committee, serves as President in second year of term, is ex officio for a third year and chairs Nominating Committee
 - Directors at Large serve on the WAI Joint Management Committee
 
-
-**Committees**
+### Committees
 - Are mostly volunteer with chairs and members remaining as long their interest takes them, a few variations
   - LAC is just for the year
   - Nominating Committee is elected (Immediate Past President is chair and then two members elected in alternate years so there is always an old hand
@@ -41,8 +41,7 @@ and a new one)
 volunteers
 - Some committees have a Northern and Southern co-chair, but the committee is one committee
 
-
-**Orientation to SCA business**
+### Orientation to SCA business
 - Familiarize yourself with the SCA Handbook
 - Membership sends names of new and renewing members expressing interest in a specific committee--contact them, welcome them to your committee, involve them!
 - Each committee chair prepares a formal report to the Board prior to each Board meeting. Make long enough to inform and alert the Board, but don’t feel you have
