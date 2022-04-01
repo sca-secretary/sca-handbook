@@ -1,3 +1,4 @@
+_Part 1: Introductory Material_
 ## 1-2 Bylaws
 
 Adapted from Bylaws revised and approved by the membership, May 1992, presented to the membership for approval February 1993, and approved by written ballot, March 1993; amended by membership April 1996; amended by membership April 1997; amended by membership April 2006; amended by membership April 2013: amended by membership vote, May 2015.
