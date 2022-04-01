@@ -1,4 +1,4 @@
-_Part 1: Introductory Material_
+<sup>Part 1: Introductory Material</sup>
 
 ## 1-2 Bylaws
 
