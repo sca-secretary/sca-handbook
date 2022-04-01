@@ -1,4 +1,6 @@
-## 1-7 SCA Privacy Policy
+<sup><a href="/sca-handbook/index.html">SCA Handbook</a>  |  <a href="../01_introductory_material/index.html">Part 1: Introductory Material</a></sup>
+
+# 1-7 SCA Privacy Policy
 
 **Introduction**
 
@@ -24,3 +26,7 @@ The Society of California Archivists uses a variety of software applications to 
 - **election buddy**: SCA uses the software platform election buddy to conduct anonymous online elections for vacant officer positions on an annual basis. https://electionbuddy.com/privacy
 - **Google**: SCA uses Google Drive to store and distribute files created by board and committee members for official society business. SCA uses Google Forms to collect information from members for specific purposes, like soliciting nominations for officer positions. https://www.google.com/intl/en_US/policies/privacy/
 - **GoToWebinar**: SCA uses GoToWebinar to create and host webinars for educational purposes. https://www.logmeininc.com/legal/privacy
+
+***
+
+_Revision history: 01/2018 llc; 02/2018 llc; 02/2020 mh; 03/2020 mh_
