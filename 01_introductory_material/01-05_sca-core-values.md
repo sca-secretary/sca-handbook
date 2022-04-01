@@ -1,4 +1,6 @@
-## 1-5 SCA Core Values
+<sup><a href="/sca-handbook/index.html">SCA Handbook</a>  |  <a href="../01_introductory_material/index.html">Part 1: Introductory Material</a></sup>
+
+# 1-5 SCA Core Values
 
 **Statement by the SCA Board affirming SCA's core values**
 
@@ -19,3 +21,7 @@ Christy Horton, Membership Director
 Chris Marino, Member At-Large Board     
 Li Wei Yang, Member At-Large     
 Ellen Jarosz, Immediate Past President
+
+***
+
+_Revision history: 02/2018 llc, 05/2019 llc_
