@@ -37,22 +37,3 @@ The election procedure, terms of office, and general duties of the President are
 
 _Revision history: 03/83 rln, 04/90 nlb, 10/90 nlb, 05/93 bh, 04/94 ppa, 07/95 ppa, 04/04 jlm, 04/08 jtm,
 06/09 jbr, 03/12 tep, 07/2016 llc, 01/2019 llc, 05/2019 llc_
-
-## 2-2-1 Leadership Seminar
-
-**General Description**
-
-The President conducts a leadership seminar/meeting for new and continuing Board members, committee chairs, and interested members. This seminar/meeting should be held prior to the first Board meeting. It may be conducted as part of the Annual General
-Meeting.
-
-The seminar/meeting should include orientation about the Society’s organization, position responsibilities, and encourage the exchange of ideas for new or improved programs.
-
-The President may delegate a continuing Board member to conduct the seminar/meeting in the opposite part of the state.
-
-***
-
-_Revision history: 06/09 jbr_
-
-### 2-2-1-1 Leadership Seminar Agenda
-
-**Sample Agenda**
