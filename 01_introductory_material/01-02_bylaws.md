@@ -122,4 +122,4 @@ These Bylaws may be amended or expanded by the affirmative vote of three-fifths 
 
 ***
 
-_Revision history: 01/2018 llc, 05/2019 llc_
+_Revision history: 9/13 tep; 07/2016 llc; 20/2020 mh_
