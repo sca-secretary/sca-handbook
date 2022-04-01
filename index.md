@@ -26,11 +26,11 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
 - 2-2     [President](/sca-handbook/02_governing_body/02-02_president.html)
   - 2-2-1     [Leadership Seminar](/sca-handbook/02_governing_body/02-02-01_leadership-seminar.html)
     - 2-2-1-1     [Leadership Seminar Agenda (Sample)](/sca-handbook/02_governing_body/02-02-01-01_leadership-seminar-agenda-sample.html)
-- 2-3     Vice President
-- 2-4     Secretary
-  - 2-4-1     Handbook Maintenance
-  - 2-4-2     Handbook Review and Update Assignments
-- 2-5     Treasurer
+- 2-3     [Vice President](/sca-handbook/02_governing_body/02-03_vice-president.html)
+- 2-4     [Secretary](/sca-handbook/02_governing_body/02-04_secretary.html)
+  - 2-4-1     [Handbook Maintenance](/sca-handbook/02_governing_body/02-04-01_handbook-maintenance.html)
+  - 2-4-2     [Handbook Review and Update Assignments](/sca-handbook/02_governing_body/02-04-02_handbook-review.html)
+- 2-5     [Treasurer](/sca-handbook/02_governing_body/02-05_treasurer.html)
   - 2-5-1     Audit Procedure
   - 2-5-2     Budget Categories
   - 2-5-3     Calendar: Treasurer
@@ -43,15 +43,15 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
   - 2-5-10   Cancellation and Refund Policy
   - 2-5-11   Statement of Financial Condition
   - 2-5-12   Year End Adjustments to Restricted Accounts
-- 2-6     Past President
-- 2-7     Membership Director
+- 2-6     [Past President](/sca-handbook/02_governing_body/02-06_past-president.html)
+- 2-7     [Membership Director](/sca-handbook/02_governing_body/02-07_membership-director.html)
   - 2-7-1     Calendar: Membership
   - 2-7-2     Membership Information
   - 2-7-3     Membership Pins
   - 2-7-4     Membership Welcome Letter (Sample)
   - 2-7-5     Membership List
   - 2-7-6     Membership Form
-- 2-8     Directors at Large
+- 2-8     [Directors at Large](/sca-handbook/02_governing_body/02-08_directors-at-large.html)
 
 ## Part 3: [Committees](/sca-handbook/03_committees/)
 - 3-1     [Committees](/sca-handbook/03_committees/03-01_committees.html)
