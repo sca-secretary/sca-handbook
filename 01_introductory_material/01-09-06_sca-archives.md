@@ -4,7 +4,7 @@
 
 ## Finding Aid
 The SCA Archives are held by Special Collections at the University of California, Santa Barbara. An EAD version of the finding aid is made available on the Online Archive of California (OAC)
-at http://www.oac.cdlib.org/findaid/ark:/13030/kt158033bd/ . This version of the finding aid was accessed in May 2011.
+at [http://www.oac.cdlib.org/findaid/ark:/13030/kt158033bd/](http://www.oac.cdlib.org/findaid/ark:/13030/kt158033bd/). This version of the finding aid was accessed in May 2011.
 
 ## History
 SCA approved a resolution on December 3, 1976 establishing the SCA Archives and designating UCLA Special Collections as the repository. The SCA Archives collection was established by
