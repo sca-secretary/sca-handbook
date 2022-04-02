@@ -21,7 +21,11 @@
 | Late Jan. or early Feb.     | Winter Board meeting. Report on finalized program to the Board. After the Board meeting, submit completed program and list of audiovisual requests to the Local Arrangements Committee Chair. Disseminate information about final program via SCA website and to membership. |
 | March/April                 | Committee members prepare to troubleshoot last minute requests and challenges, including additional audiovisual requests (which should not be honored after the previously established deadline) and emergency situations which may keep speakers from participating in their sessions at the last minute (Can a replacement be found? Would the speaker send a copy of their presentation to be read or distributed at the meeting?) |
 | May                         | Program Committee Chair writes thank you letters on SCA stationery to all speakers, Program Committee members, and the Local Arrangements Chair. Coordinate with the Local Arrangements Committee to have someone submit a summary article to SCA Newsletter. |
-| July                        | Submit Final Report for the AGM. |
+| July                        | Submit Final Report for the AGM. 
+
+sdfsdf
+
+sdfsdf |
 
 ***
 
