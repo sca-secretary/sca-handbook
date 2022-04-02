@@ -13,6 +13,7 @@
 ## RESTRICTED FUNDS INCOME/EXPENSES
 
 **INCOME**
+
 | AGM Speakers' Fund: Donations |
 | Education Fund: AGM Silent Auction |
 | Education Fund: Membership Pins |
@@ -23,6 +24,7 @@
 | **TOTAL INCOME** |
 
 **EXPENSES**
+
 | AGM Speakers' Expenses |
 | Continuing Education Scholarships |
 | Gray Scholarships |
@@ -32,6 +34,7 @@
 ## UNRESTRICTED FUNDS INCOME/EXPENSES
 
 **INCOME**
+
 | Projects (Sales): Brochures |
 | Programs: Annual General Meeting |
 | Programs: Workshops |
@@ -42,6 +45,7 @@
 | **TOTAL INCOME** |
 
 **EXPENSES**
+
 | Projects (Sales): Brochures |
 | Programs: Annual General Meeting |
 | Programs: Workshops |
