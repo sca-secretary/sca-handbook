@@ -14,10 +14,10 @@ Sturgis_).
 - Nicole Bouché (1987-1989)
 - Robert B. Freeman (1989-1991)
 - Dennis Bitterlich (1991-1992)
-_Committee discontinued in 1991/2 at recommendation of the Task Force on Committees_
+- _Committee discontinued in 1991/2 at recommendation of the Task Force on Committees_
 
 ## Awards
-_Committee created in 1991/2 at recommendation of the Task Force on Committees_
+- _Committee created in 1991/2 at recommendation of the Task Force on Committees_
 - Robin Chandler (1992-1993)
 - Steven Mandeville Gamble (1993-1994)
 - Helene Whitson (1994-1995)
@@ -28,7 +28,7 @@ _Committee created in 1991/2 at recommendation of the Task Force on Committees_
 - James Eason (2020-2023)
 
 ## Communications & Outreach
-_Committee formed in 2017 due to merger of Electronic Communications Committee and Outreach & Publicity Committee_
+- _Committee formed in 2017 due to merger of Electronic Communications Committee and Outreach & Publicity Committee_
 - Jack Doran (2017-2018)
 - Charla DelaCuadra (2016-2019)
 - Kelsi Evans (2018-2021)
@@ -114,14 +114,14 @@ _Committee formed in 2017 due to merger of Electronic Communications Committee a
 - Marlayna K. Christensen (2019-2022)
 
 ## Electronic Communications
-_Established in 2012 to succeed Web Site Committee, which was abolished at same time._
+- _Established in 2012 to succeed Web Site Committee, which was abolished at same time._
 - Sarah Wilson (2012-2013)
 - Sue Hwang (2013-2017 )
 - Supriya Wronkiewicz (2013-2017 )
-_Merged with Outreach & Publicity Committee in 2017 to create Communications & Outreach Committee_
+- _Merged with Outreach & Publicity Committee in 2017 to create Communications & Outreach Committee_
 
 ## Ethics and Inclusion
-_Established in 2019_
+- _Established in 2019_
 - Zayda Delgado (2019-2020)
 - Eva Martinez (2019-2020)
 - Penne Neder-Muro (2020-2022)
@@ -151,7 +151,7 @@ _Established in 2019_
 - Lucy Barber (2003-2006)
 - David Keller (2006-2017)
 - Genevieve Preston (2017-2020)
-_Discontinued in 2020; became Advocacy and Public Policy Committee_
+- _Discontinued in 2020; became Advocacy and Public Policy Committee_
 
 ## Local Arrangements
 - JoAnn Williamson (1972-1973)
@@ -215,7 +215,7 @@ _Discontinued in 2020; became Advocacy and Public Policy Committee_
 - Suzanne Dewberry (1987-1992)
 - M.E. Bailey (1991-1992)
 - Julie Reiz (1992-1994)
-_In 1995, a Board Member-at-Large was assigned to be Membership Director, duties include chairing committee_
+- _In 1995, a Board Member-at-Large was assigned to be Membership Director, duties include chairing committee_
 - Paul Wormser (1995-1997)
 - Sydney Bailey (1997-1999)
 - Terry Boom (1999-2001)
@@ -245,7 +245,7 @@ _In 1995, a Board Member-at-Large was assigned to be Membership Director, duties
 - Loren Pigniolo (1988-1991)
 - Scott Olsen (1990-1991)
 - Susan Allen (1991-1993)
-_Committee was subsumed into Publications in 1991/2 at recommendation of the Task Force on Committees_
+- _Committee was subsumed into Publications in 1991/2 at recommendation of the Task Force on Committees_
 
 ## Nominating (Chairs)
 - Ann Caiger (1980-1981)
@@ -292,7 +292,7 @@ _Committee was subsumed into Publications in 1991/2 at recommendation of the Tas
 - Tanya Hollis (2021-2022)
 
 ## Nominating (Elected members)
-_(Listing compiled, retrospectively, in 2015. Information incomplete)_
+- _(Listing compiled, retrospectively, in 2015. Information incomplete)_
 - Robert Marshall (1999-2000?)
 - James Eason (1999-2000?)
 - Lucy Barber (2003-2004?)
@@ -333,11 +333,11 @@ _(Listing compiled, retrospectively, in 2015. Information incomplete)_
 - Brooke Black (2009-2016)
 - Jessica Knox (2011-2014)
 - Jack Doran (2014-2017)
-_Merged with Electronic Communications Committee in 2017 to create Communications & Outreach Committee_
+- _Merged with Electronic Communications Committee in 2017 to create Communications & Outreach Committee_
 
 ## Preservation
 - Jane Klinger Freeman (1990-1992)
-_Committee discontinued in 1991/2 at recommendation of the Task Force on Committees_
+- _Committee discontinued in 1991/2 at recommendation of the Task Force on Committees_
 
 ## Program
 - JoAnn Williamson (1979-1980)
@@ -390,7 +390,7 @@ _Committee discontinued in 1991/2 at recommendation of the Task Force on Committ
 - Bruce Parham (1983-1985)
 - Nartha Briggs (1985-1986)
 - Peter Blodgett (1986-1994)
-_Newsletter became part of Publications in 1991/2 at recommendation of the Task Force on Committees_
+- _Newsletter became part of Publications in 1991/2 at recommendation of the Task Force on Committees_
 - Susan Allen (editor 1992-1993)
 - Dan Lewis (editor 1993-1996)
 - Dan Lewis (1994-2001)
@@ -432,14 +432,14 @@ _Newsletter became part of Publications in 1991/2 at recommendation of the Task 
 - Eric Milenkiewicz (2015-2018)
 - Michele Morgan (2017-2020)
 - Ellen Jarosz (2018-2021)
-_Committee discontinued after 2020 reconfiguration of Local Arrangements Committee_
+- _Committee discontinued after 2020 reconfiguration of Local Arrangements Committee_
 
 ## Web Site
-_Initial web site created by Paul Wormser and Dennis Bitterlich in 1998_
-_Committee established 2006_
+- _Initial web site created by Paul Wormser and Dennis Bitterlich in 1998_
+- _Committee established 2006_
 - Carolyn Garner (2000-2006)
 - Julie Cooper (2006-2012)
-_Committee succeeded by Electronic Communications Committee in 2012_
+- _Committee succeeded by Electronic Communications Committee in 2012_
 
 ## Western Archives Institute Joint Management
 - Laren Metzer (1989-1990)
@@ -462,7 +462,7 @@ _Committee succeeded by Electronic Communications Committee in 2012_
 - Nancy Zimmelman (Special Institute for Native American and Tribal Archivists, 2003)
 - Sydney Bailey (2018)
 - Erin Louthen (2019)
-- [Cancelled 2020]
+- _[Cancelled 2020]_
 
 ## WAI Program Coordinator
 - Erin Louthen (2021)
