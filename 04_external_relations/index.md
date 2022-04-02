@@ -1,4 +1,6 @@
-### [Part 4:  External Relations](/sca-handbook/04_external_relations/)
+<sup>[SCA Handbook](/sca-handbook/index.html)
+
+# [Part 4:  External Relations](/sca-handbook/04_external_relations/)
 - 4-1     [External Relations and Affinity Groups](/sca-handbook/04_external_relations/04-01_external_relations_and_affinity_groups.html)
   - 4-1-1     Affinity Groups
   - 4-1-2     Archives Month
