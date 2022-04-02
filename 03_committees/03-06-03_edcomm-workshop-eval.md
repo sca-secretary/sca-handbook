@@ -14,7 +14,7 @@
 
 **1. Overall, the workshop was (please circle a number):**
 
-**not worthwhile** 1 --- 2 --- 3 --- 4 --- 5 --- 6 --- 7 --- 8 --- 9 --- 10 **very worthwhile**
+**not worthwhile** -- 1 --- 2 --- 3 --- 4 --- 5 --- 6 --- 7 --- 8 --- 9 --- 10 -- **very worthwhile**
 
 **Please explain:**
 
