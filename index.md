@@ -83,7 +83,7 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
   - 3-7-2-1     [Official Ballot Instructions (Sample)](/sca-handbook/03_committees/03-07-02-01_official-ballot-instructions-sample.html)
 - 3-8     [Ethics and Inclusion Committee](/sca-handbook/03_committees/03-08_ethics-and-inclusion.html)
 - 3-9     [Finance and Investment Committee](/sca-handbook/03_committees/03-09_finance-and-investment.html)
-  - 3-9-1     [SCA Investment Policy Statement](/sca-handbook/03_committees03-09-01_investment-policy-statement.html)
+  - 3-9-1     [SCA Investment Policy Statement](/sca-handbook/03_committees/03-09-01_investment-policy-statement.html)
 - 3-10   [Local Arrangements Committee: Annual General Meeting](/sca-handbook/03_committees/03-10_local-arrangements.html)
   - 3-10-1   AGM Budget/Financial Report Format
   - 3-10-2   Local Arrangements Checklist
