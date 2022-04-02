@@ -7,12 +7,12 @@ Scheduling is based largely the recent tradition of holding the Annual General M
 
 ## January/February
 - SCA fiscal year begins on January 1.
-- Newsletter published.
+- _Newsletter_ published.
 - Quarterly Board meeting.
 - Annual General Meeting program information disseminated in no later than late February.
 
 ## March
-- Deadline for submission of information for Newsletter (March 1).
+- Deadline for submission of information for _Newsletter_ (March 1).
 - Elections Committee mails ballots and candidate biographies and statements to membership no less than forty-five (45) and no more than ninety (90) days prior to the
 annual business meeting (Bylaws IV.3).
 - President and Secretary to prepare and distribute the Members Meeting agenda at least thirty (30) days in advance of the AGM (Bylaws V.1); including any proposed Bylaws amendments (Bylaws X).
@@ -21,7 +21,7 @@ annual business meeting (Bylaws IV.3).
 ## April
 - Ballots are to be returned and results reported no less than fifteen (15) days prior to the annual business meeting (Bylaws IV.3).
 - Candidates are notified of results of election.
-- Newsletter published.
+- _Newsletter_ published.
 - Joint meeting of incoming and outgoing Board members and committee chairs as part of first day of AGM.
 - AGM and annual business meeting. New Board and Committee members introduced to the membership.
 - Quarterly Board meeting (held in conjunction with the AGM).
@@ -29,29 +29,29 @@ annual business meeting (Bylaws IV.3).
 ## May/June
 - Spring Education Committee workshop held in region of the state opposite where the AGM occurred.
 - Terms of new officers, Board members and committee chairs begin 30 days after the business meeting.
-- Deadline for submission of information for Newsletter (June 1).
+- Deadline for submission of information for _Newsletter_ (June 1).
 
 ## June/July
 - Western Archives Institute takes place.
 
 ## July
 - Western Archives Institute takes place.
-- Newsletter published.
+- _Newsletter_ published.
 
 ## August
 - Quarterly Board meeting.
 
 ## September
 - Deadline for first Board meeting, which must occur within 90 days of assuming office (Bylaws IV.4).
-- Deadline for submission of information for Newsletter (September 1).
+- Deadline for submission of information for _Newsletter_ (September 1).
 
 ## October/November
-- Newsletter published.
+- _Newsletter_ published.
 - Fall Education Committee workshop(s).
 - Quarterly Board meeting (traditionally when the approval of the next fiscal year’s budget occurs).
 
 ## December
-- Deadline for submission of information for Newsletter (December 1).
+- Deadline for submission of information for _Newsletter) (December 1).
 
 ***
 
