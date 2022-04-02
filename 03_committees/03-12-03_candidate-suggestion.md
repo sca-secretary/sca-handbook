@@ -12,7 +12,7 @@ The Nominating Committee can make use of a print or online form in order to soli
 4. Nominee's previous SCA service
 5. Name of nominator
 
-The form should also state all nominees must be SCA members in good standing (no unpaid past dues, or interruption in membership for the past three years), and that information about the various positions and their responsibilities can be found in the SCA Handbook, sections 3-11 and 3-11-4. [https://www.calarchivists.org/About_SCA/Handbook_Bylaws](https://www.calarchivists.org/About_SCA/Handbook_Bylaws.)
+The form should also state all nominees must be SCA members in good standing (no unpaid past dues, or interruption in membership for the past three years), and that information about the various positions and their responsibilities can be found in the [SCA Handbook](/sca-handbook/index.html), sections 3-11 and 3-11-4.
 
 ***
 
