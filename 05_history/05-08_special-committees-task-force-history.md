@@ -6,7 +6,7 @@ Special committees or task forces (also referred to as ad hoc committees) are de
 
 Special committees shall be created when the need arises and in the same manner as the regular standing committees. Chair and members of these committees shall serve until their charge if fulfilled.
 
-(This history is to be updated as information surfaces from SCA archives or other sources.)
+_This history is to be updated as information surfaces from SCA archives or other sources._
 
 ## Ad Hoc Steering Committee
 - Term of service: 28 July - 19 October 1971
