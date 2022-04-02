@@ -58,14 +58,16 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
   - 3-1-1     [Quarterly Report Format](/sca-handbook/03_committees/03-01-01_quarterly-report-format.html)
 - 3-2     [Advocacy and Public Policy Committee](/sca-handbook/03_committees/03-02_advocacy-and-public-policy.html)
 - 3-3     [Awards Committee](/sca-handbook/03_committees/03-03_awards.html)
-  - 3-3-1     Archives Appreciation Award
-  - 3-3-2     Career Achievement Award
-  - 3-3-3     Sustained Service Award
-  - 3-3-4     Co-sponsored Award:  Archival Award of Excellence
-  - 3-3-5     James V. Mink Scholarship
+  - 3-3-1     Archives Appreciation Award](/sca-handbook/03_committees/03-03-01_archives-appreciation.html)
+  - 3-3-2     Career Achievement Award](/sca-handbook/03_committees/03-03-02_career-achievement.html)
+  - 3-3-3     Sustained Service Award](/sca-handbook/03_committees/03-03-03_sustained-service.html)
+  - 3-3-4     Co-sponsored Award:  Archival Award of Excellence](/sca-handbook/03_committees/03-03-04_archival-award-of-excellence.html)
+  - 3-3-5     James V. Mink Scholarship](/sca-handbook/03_committees/03-03-05_mink-scholarship.html)
     - 3-3-5-1     Mink Scholarship Application Form (Sample)
-  - 3-3-6     Walter P. Gray III Scholarship and Guidelines
-  - 3-3-7     Lynn A. Bonfield Professional Development Award
+  - 3-3-6     Walter P. Gray III Scholarship and Guidelines](/sca-handbook/03_committees/03-03-06_gray-scholarship.html)
+  - 3-3-7     Lynn A. Bonfield Professional Development Award](/sca-handbook/03_committees/03-03-07_bonfield-award.html)
+  - 3-3-8     Advancing Equity: Graduate Education Scholarship](/sca-handbook/03_committees/03-03-08_ae-scholarship.html)
+  - 3-3-9     Advancing Equity: Continuing Education Funding](/sca-handbook/03_committees/03-03-09_ae-continuing-education.html)
 - 3-4     [Communications and Outreach Committee](/sca-handbook/03_committees/03-04_communications-and-outreach.html)
 - 3-5     [Development Committee](/sca-handbook/03_committees/03-05_development.html)
   - 3-5-1     Contribution Form (Sample)
