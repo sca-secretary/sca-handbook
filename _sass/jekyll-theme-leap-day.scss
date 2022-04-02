@@ -30,7 +30,7 @@ p, table, pre, dl {
   margin:0 0 20px;
 }
 p {
-  padding-top:2px;
+  padding-top:1px;
 }
 
 ul, ol {
@@ -57,13 +57,14 @@ h2 {
 }
 
 h3, h4, h5, h6 {
-  color:#4e4e4e;
+  color:#626262;
 }
 
 h3 {
   font-size: 18px;
   line-height: 24px;
   padding-top: 15px;
+  style: underline;
 }
 
 a {
