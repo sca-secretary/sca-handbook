@@ -1,8 +1,8 @@
-<sup><a href="/sca-handbook/index.html">SCA Handbook</a>  |  <a href="../01_introductory_material/index.html">Part 1: Introductory Material</a></sup>
+<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 1: Introductory Material](../01_introductory_material/index.html)</sup> 
 
 # 1-5 SCA Core Values
 
-**Statement by the SCA Board affirming SCA's core values**
+## Statement by the SCA Board affirming SCA's core values
 
 The Society of California Archivists (SCA) is a non-profit statewide professional organization with a membership of more than 500 archivists and records managers. California’s varied institutions- and the Society’s diverse membership—are committed to the use, preservation, and retention of records.
 
