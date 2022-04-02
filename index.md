@@ -48,7 +48,7 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
   - 2-7-1     [Calendar: Membership](/sca-handbook/02_governing_body/02-07-02_calendar-membership.html)
   - 2-7-2     [Membership Information](/sca-handbook/02_governing_body/02-07-02_membership-information.html)
   - 2-7-3     [Membership Pins](/sca-handbook/02_governing_body/02-07-03_membership-pins.html)
-  - 2-7-4     Membership Welcome Letter (Sample)
+  - 2-7-4     [Membership Welcome Letter (Sample)](/sca-handbook/02_governing_body/02-07-04_welcome-letter.html)
   - 2-7-5     [Membership List](/sca-handbook/02_governing_body/02-07-05_membership-list.html)
   - 2-7-6     Membership Form
 - 2-8     [Directors at Large](/sca-handbook/02_governing_body/02-08_directors-at-large.html)
@@ -101,19 +101,19 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
   - 3-13-1   [Calendar: AGM Program Planning](/sca-handbook/03_committees/03-13-01_calendar-program.html)
   - 3-13-2   [AGM Program Committee Guidelines](/sca-handbook/03_committees/03-13-02_program-guidelines.html)
   - 3-13-3   [AGM Session Proposal Form (Sample)](/sca-handbook/03_committees/03-13-03_session-proposal.html)
-  - 3-13-4   [AGM Facilitator Checklist]](/sca-handbook/03_committees/03-13-04_facilitator-checklist.html)
+  - 3-13-4   [AGM Facilitator Checklist](/sca-handbook/03_committees/03-13-04_facilitator-checklist.html)
 - 3-14   [Publications Committee](/sca-handbook/03_committees/03-14_publications.html)
-  - 3-14-1   Newsletter
-    - 3-14-1-1   Advertising Rates
-    - 3-14-1-2   Standard Advertisement Sizes for SCA Newsletter
-- 3-15   [Western Archives Institute](/sca-handbook/03_committees/03-14_western-archives-institute.html)
-  - 3-15-1   Western Archives Institute Administrator
-  - 3-15-2   Western Archives Institute Assistant/Associate Administrator
-  - 3-15-3   Western Archives Institute Joint Management Committee
-  - 3-15-4   Western Archives Institute On-Site Coordinator
-  - 3-15-5   WAI Sponsor Responsibilities: California State Archives
-  - 3-15-6   WAI Sponsor Responsibilities: Society of California Archivists
-- 3-16   [Special Committees and Task Forces](/sca-handbook/03_committees/03-03_awards.html)
+  - 3-14-1   [Newsletter](/sca-handbook/03_committees/03-14-01_newsletter.html)
+    - 3-14-1-1   [Advertising Rates](/sca-handbook/03_committees/03-14-01-01_ad-rates.html)
+    - 3-14-1-2   [Standard Advertisement Sizes for SCA Newsletter](/sca-handbook/03_committees/03-14-01-02_ad-sizes.html)
+- 3-15   [Western Archives Institute](/sca-handbook/03_committees/03-15_western-archives-institute.html)
+  - 3-15-1   [Western Archives Institute Administrator](/sca-handbook/03_committees/03-15-01_wai-admin.html)
+  - 3-15-2   [Western Archives Institute Assistant/Associate Administrator](/sca-handbook/03_committees/03-15-02_wai-assoc-admin.html)
+  - 3-15-3   [Western Archives Institute Joint Management Committee](/sca-handbook/03_committees/03-15-03_wai-joint.html)
+  - 3-15-4   [Western Archives Institute On-Site Coordinator](/sca-handbook/03_committees/03-15-04_wai-onsite-coord.html)
+  - 3-15-5   [WAI Sponsor Responsibilities: California State Archives](/sca-handbook/03_committees/03-15-05_wai-sponsor-csa.html)
+  - 3-15-6   [WAI Sponsor Responsibilities: Society of California Archivists](/sca-handbook/03_committees/03-15-06_wai-sponsor-sca.html)
+- 3-16   [Special Committees and Task Forces](/sca-handbook/03_committees/03-16_special-committees.html)
 
 ## Part 4: [External Relations](/sca-handbook/04_external_relations/)
 - 4-1     [External Relations and Affinity Groups](/sca-handbook/04_external_relations/04-01_external-relations-and-affinity-groups.html)
