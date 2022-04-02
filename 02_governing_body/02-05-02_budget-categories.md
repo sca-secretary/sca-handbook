@@ -1,4 +1,4 @@
-<sup><a href="/sca-handbook/index.html">SCA Handbook</a>  |  <a href="../02_governing_body/index.html">Part 2: Governing Body</a>  |  <a href="../02_governing_body/treasurer.html">2-5 Treasurer</a></sup>
+<sup><a href="/sca-handbook/index.html">SCA Handbook</a> | <a href="../02_governing_body/index.html">Part 2: Governing Body</a> | <a href="../02_governing_body/treasurer.html">2-5 Treasurer</a></sup>
 
 # 2-5-2 Budget Categories
 
