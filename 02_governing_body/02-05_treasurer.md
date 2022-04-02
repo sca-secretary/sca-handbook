@@ -1,14 +1,14 @@
-<sup><a href="/sca-handbook/index.html">SCA Handbook</a> | <a href="../02_governing_body/index.html">Part 2: Governing Body</a></sup>
+<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 2: Governing Body](../02_governing_body/index.html)</sup> 
 
 # 2-5 Treasurer
 
-**General Description**
+## General Description
 
 The Treasurer is responsible for all financial transactions of SCA, for keeping an accurate record of those transactions, and reporting to the Board of Directors and the general membership on the financial condition of the organization. The work of collecting, disbursing, and accounting for funds may be delegated by the Treasurer; however, the Treasurer is responsible for ensuring that the delegated activities are properly carried out and the reports are accurate.
 
 The election procedure and term of office of the Treasurer are described in the Bylaws, IV.3.
 
-**Responsibilities**
+## Responsibilities
 
 1. Makes all necessary collections and expenditures for SCA according to established policy.
 2. Keeps complete written records of all financial transactions:
