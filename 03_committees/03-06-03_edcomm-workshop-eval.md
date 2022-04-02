@@ -22,16 +22,16 @@
 
 **Please respond to the following questions by marking the appropriate box with one (1) being the lowest ranking and five (5) being the highest**
 
-| **3. How would you rate the instructor** | 1 | 2 | 3 | 4 | 5 | N/A |
+| **3. How would you rate the instructor   | 1 | 2 | 3 | 4 | 5 | N/A** |
 | a. Knowledge of the topic                |[ ]|[ ]|[ ]|[ ]|[ ]| [ ] | 
-| b. Presentation skills                |[ ]|[ ]|[ ]|[ ]|[ ]| [ ] | 
-| c. Ability to handle questions                |[ ]|[ ]|[ ]|[ ]|[ ]| [ ] | 
-| d. Preparation                |[ ]|[ ]|[ ]|[ ]|[ ]| [ ] | 
+| b. Presentation skills                   |[ ]|[ ]|[ ]|[ ]|[ ]| [ ] | 
+| c. Ability to handle questions           |[ ]|[ ]|[ ]|[ ]|[ ]| [ ] | 
+| d. Preparation                           |[ ]|[ ]|[ ]|[ ]|[ ]| [ ] | 
 
-|**4.	Workshop Logistics** | 1 | 2 | 3 | 4 | 5 | N/A |
-| a. Workshop location                |[ ]|[ ]|[ ]|[ ]|[ ]| [ ] | 
-| b. Meeting room                |[ ]|[ ]|[ ]|[ ]|[ ]| [ ] | 
-| c. Advertising/publicity that you saw                |[ ]|[ ]|[ ]|[ ]|[ ]| [ ] | 
+|**4.	Workshop Logistics.                  | 1 | 2 | 3 | 4 | 5 | N/A** |
+| a. Workshop location                     |[ ]|[ ]|[ ]|[ ]|[ ]| [ ] | 
+| b. Meeting room                          |[ ]|[ ]|[ ]|[ ]|[ ]| [ ] | 
+| c. Advertising/publicity that you saw    |[ ]|[ ]|[ ]|[ ]|[ ]| [ ] | 
 
 **5. Other comments/suggestions**
 
