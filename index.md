@@ -84,7 +84,7 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
 - 3-8     [Ethics and Inclusion Committee](/sca-handbook/03_committees/03-08_ethics-and-inclusion.html)
 - 3-9     [Finance and Investment Committee](/sca-handbook/03_committees/03-09_finance-and-investment.html)
   - 3-9-1     [SCA Investment Policy Statement](/sca-handbook/03_committees/03-09-01_investment-policy-statement.html)
-- 3-10   [Local Arrangements Committee: Annual General Meeting](/sca-handbook/03_committees/03-10_local-arrangements.html)
+- 3-10   [Local Arrangements Committee: Annual General Meeting](/sca-handbook/03_committees/03-10_lac.html)
   - 3-10-1   AGM Budget/Financial Report Format
   - 3-10-2   [Local Arrangements Checklist](/sca-handbook/03_committees/03-10-02_lac-checklist.html)
   - 3-10-3   [Local Arrangements Calendar](/sca-handbook/03_committees/03-10-03_lac-calendar.html)
@@ -106,7 +106,7 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
   - 3-14-1   [Newsletter](/sca-handbook/03_committees/03-14-01_newsletter.html)
     - 3-14-1-1   [Advertising Rates](/sca-handbook/03_committees/03-14-01-01_ad-rates.html)
     - 3-14-1-2   [Standard Advertisement Sizes for SCA Newsletter](/sca-handbook/03_committees/03-14-01-02_ad-sizes.html)
-- 3-15   [Western Archives Institute](/sca-handbook/03_committees/03-15_western-archives-institute.html)
+- 3-15   [Western Archives Institute](/sca-handbook/03_committees/03-15_wai.html)
   - 3-15-1   [Western Archives Institute Administrator](/sca-handbook/03_committees/03-15-01_wai-admin.html)
   - 3-15-2   [Western Archives Institute Assistant/Associate Administrator](/sca-handbook/03_committees/03-15-02_wai-assoc-admin.html)
   - 3-15-3   [Western Archives Institute Joint Management Committee](/sca-handbook/03_committees/03-15-03_wai-joint.html)
