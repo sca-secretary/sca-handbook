@@ -13,21 +13,18 @@ The Vice Chair is appointed by the Co-Chairs of the Education Committee and appr
 ## Responsibilities
 
 1. Collaborate with Education Committee Co-Chairs on webinar programming. 
-
-   a. Receive and review webinar proposals with Education Committee Co-Chairs.
-   b. Formulate potential webinar topics with Education Committee Co-Chairs based on survey results, member input, and opportunity. 
-   c. Contact and communicate with potential webinar presenters. 
-   d. Schedule webinars. 
+- Receive and review webinar proposals with Education Committee Co-Chairs.
+- Formulate potential webinar topics with Education Committee Co-Chairs based on survey results, member input, and opportunity. 
+- Contact and communicate with potential webinar presenters. 
+- Schedule webinars. 
    
 2. Plan logistics and serve as the day-of webinar point person. 
-
-   a. Work with presenters to create webinar scripts. 
-   b. Rehearse webinars with presenters and test webinar software. 
-   c. Serve as day-of point person, introducing and coordinating presenters, managing questions and chats, and addressing any technical issues. 
-   d. Provide Education Committee Co-Chairs with attendance data and feedback. 
+- Work with presenters to create webinar scripts. 
+- Rehearse webinars with presenters and test webinar software.
+- Serve as day-of point person, introducing and coordinating presenters, managing questions and chats, and addressing any technical issues.
+- Provide Education Committee Co-Chairs with attendance data and feedback. 
    
 3. Coordinate with the Education Committee to manage registration, publicity, and administrative responsibilities related to webinars. 
-
    a. Assign registration and publicity responsibilities to Education Committee members. 
    b. Work with Education Committee Co-Chairs to establish registration fees, attendance caps, and honoraria. 
    c. Manage communication between Education Committee Co-Chairs, assigned Committee members, and presenters regarding registration, publicity, fees, expenses, and honoraria. 
