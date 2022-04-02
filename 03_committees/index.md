@@ -5,57 +5,59 @@
   - 3-1-1     [Quarterly Report Format](/sca-handbook/03_committees/03-01-01_quarterly-report-format.html)
 - 3-2     [Advocacy and Public Policy Committee](/sca-handbook/03_committees/03-02_advocacy-and-public-policy.html)
 - 3-3     [Awards Committee](/sca-handbook/03_committees/03-03_awards.html)
-  - 3-3-1     Archives Appreciation Award
-  - 3-3-2     Career Achievement Award
-  - 3-3-3     Sustained Service Award
-  - 3-3-4     Co-sponsored Award:  Archival Award of Excellence
-  - 3-3-5     James V. Mink Scholarship
+  - 3-3-1     [Archives Appreciation Award](/sca-handbook/03_committees/03-03-01_archives-appreciation.html)
+  - 3-3-2     [Career Achievement Award](/sca-handbook/03_committees/03-03-02_career-achievement.html)
+  - 3-3-3     [Sustained Service Award](/sca-handbook/03_committees/03-03-03_sustained-service.html)
+  - 3-3-4     Co-sponsored Award:  [Archival Award of Excellence](/sca-handbook/03_committees/03-03-04_archival-award-of-excellence.html)
+  - 3-3-5     [James V. Mink Scholarship](/sca-handbook/03_committees/03-03-05_mink-scholarship.html)
     - 3-3-5-1     Mink Scholarship Application Form (Sample)
-  - 3-3-6     Walter P. Gray III Scholarship and Guidelines
-  - 3-3-7     Lynn A. Bonfield Professional Development Award
+  - 3-3-6     [Walter P. Gray III Scholarship and Guidelines](/sca-handbook/03_committees/03-03-06_gray-scholarship.html)
+  - 3-3-7     [Lynn A. Bonfield Professional Development Award](/sca-handbook/03_committees/03-03-07_bonfield-award.html)
+  - 3-3-8     [Advancing Equity: Graduate Education Scholarship](/sca-handbook/03_committees/03-03-08_ae-scholarship.html)
+  - 3-3-9     [Advancing Equity: Continuing Education Funding](/sca-handbook/03_committees/03-03-09_ae-continuing-education.html)
 - 3-4     [Communications and Outreach Committee](/sca-handbook/03_committees/03-04_communications-and-outreach.html)
 - 3-5     [Development Committee](/sca-handbook/03_committees/03-05_development.html)
   - 3-5-1     Contribution Form (Sample)
   - 3-5-2     Vendor Registration Form (Sample)
 - 3-6     [Education Committee](/sca-handbook/03_committees/03-06_education.html)
-  - 3-6-1     Education Committee Workshops
-  - 3-6-2     Workshop Checklist
-  - 3-6-3     Workshop Evaluation Form (Sample)
-  - 3-6-4     Vice Chair for Online Education
+  - 3-6-1     [Education Committee Workshops](/sca-handbook/03_committees/03-06-01_edcomm-workshops.html)
+  - 3-6-2     [Workshop Checklist](/sca-handbook/03_committees/03-06-02_edcomm-workshop-checklist.html)
+  - 3-6-3     [Workshop Evaluation Form (Sample)](/sca-handbook/03_committees/03-06-03_edcomm-workshop-eval.html)
+  - 3-6-4     [Vice Chair for Online Education](/sca-handbook/03_committees/03-06-04_vc-online-ed.html)
 - 3-7     [Election Committee](/sca-handbook/03_committees/03-07_election.html)
-  - 3-7-1     Calendar: Election and Nomination Committees
+  - 3-7-1     [Calendar: Election and Nomination Committees](/sca-handbook/03_committees/03-07-01_calendar-election-nomination.html)
   - 3-7-2     SCA Ballot (Sample)
-  - 3-7-2-1     Official Ballot Instructions (Sample)
+  - 3-7-2-1     [Official Ballot Instructions (Sample)](/sca-handbook/03_committees/03-07-02-01_official-ballot-instructions-sample.html)
 - 3-8     [Ethics and Inclusion Committee](/sca-handbook/03_committees/03-08_ethics-and-inclusion.html)
 - 3-9     [Finance and Investment Committee](/sca-handbook/03_committees/03-09_finance-and-investment.html)
-  - 3-9-1     SCA Investment Policy Statement
-- 3-10   [Local Arrangements Committee: Annual General Meeting](/sca-handbook/03_committees/03-10_local-arrangements.html)
+  - 3-9-1     [SCA Investment Policy Statement](/sca-handbook/03_committees/03-09-01_investment-policy-statement.html)
+- 3-10   [Local Arrangements Committee: Annual General Meeting](/sca-handbook/03_committees/03-10_lac.html)
   - 3-10-1   AGM Budget/Financial Report Format
-  - 3-10-2   Local Arrangements Checklist
-  - 3-10-3   Local Arrangements Calendar
-  - 3-10-4   Site Selection Checklist
-  - 3-10-5   Local Arrangements Compensation Guidelines
+  - 3-10-2   [Local Arrangements Checklist](/sca-handbook/03_committees/03-10-02_lac-checklist.html)
+  - 3-10-3   [Local Arrangements Calendar](/sca-handbook/03_committees/03-10-03_lac-calendar.html)
+  - 3-10-4   [Site Selection Checklist](/sca-handbook/03_committees/03-10-04_site-selection-checklist.html)
+  - 3-10-5   [Local Arrangements Compensation Guidelines](/sca-handbook/03_committees/03-10-05_lac-compensation.html)
 - 3-11   [Membership Committee](/sca-handbook/03_committees/03-11_membership.html)
-  - 3-11-1   Vice Chair for Member Activities
+  - 3-11-1   [Vice Chair for Member Activities](/sca-handbook/03_committees/03-11-01_vc-member-activities.html)
 - 3-12   [Nominating Committee](/sca-handbook/03_committees/03-12_nominating.html)
-  - 3-12-1   Calendar: Election and Nomination Committees
-  - 3-12-2   Candidate Statement
-  - 3-12-3   Candidate Suggestion Form
-  - 3-12-4   Responsibilities of SCA Officers and Board of Directors
+  - 3-12-1   [Calendar: Election and Nomination Committees](/sca-handbook/03_committees/03-12-01_calendar-election-nomination.html)
+  - 3-12-2   [Candidate Statement](/sca-handbook/03_committees/03-12-02_candidate-statement.html)
+  - 3-12-3   [Candidate Suggestion Form](/sca-handbook/03_committees/03-12-03_candidate-suggestion.html)
+  - 3-12-4   [Responsibilities of SCA Officers and Board of Directors](/sca-handbook/03_committees/03-12-04_responsibilities.html)
 - 3-13   [Program Committee](/sca-handbook/03_committees/03-13_program.html)
-  - 3-13-1   Calendar: AGM Program Planning
-  - 3-13-2   AGM Program Committee Guidelines
+  - 3-13-1   [Calendar: AGM Program Planning](/sca-handbook/03_committees/03-13-01_calendar-program.html)
+  - 3-13-2   [AGM Program Committee Guidelines](/sca-handbook/03_committees/03-13-02_program-guidelines.html)
   - 3-13-3   AGM Session Proposal Form (Sample)
-  - 3-13-4   AGM Facilitator Checklist
+  - 3-13-4   [AGM Facilitator Checklist](/sca-handbook/03_committees/03-13-04_facilitator-checklist.html)
 - 3-14   [Publications Committee](/sca-handbook/03_committees/03-14_publications.html)
-  - 3-14-1   Newsletter
-    - 3-14-1-1   Advertising Rates
-    - 3-14-1-2   Standard Advertisement Sizes for SCA Newsletter
-- 3-15   [Western Archives Institute](/sca-handbook/03_committees/03-14_western-archives-institute.html)
-  - 3-15-1   Western Archives Institute Administrator
-  - 3-15-2   Western Archives Institute Assistant/Associate Administrator
-  - 3-15-3   Western Archives Institute Joint Management Committee
-  - 3-15-4   Western Archives Institute On-Site Coordinator
-  - 3-15-5   WAI Sponsor Responsibilities: California State Archives
-  - 3-15-6   WAI Sponsor Responsibilities: Society of California Archivists
-- 3-16   [Special Committees and Task Forces](/sca-handbook/03_committees/03-03_awards.html)
+  - 3-14-1   [Newsletter](/sca-handbook/03_committees/03-14-01_newsletter.html)
+    - 3-14-1-1   [Advertising Rates](/sca-handbook/03_committees/03-14-01-01_ad-rates.html)
+    - 3-14-1-2   [Standard Advertisement Sizes for SCA Newsletter](/sca-handbook/03_committees/03-14-01-02_ad-sizes.html)
+- 3-15   [Western Archives Institute](/sca-handbook/03_committees/03-15_wai.html)
+  - 3-15-1   [Western Archives Institute Administrator](/sca-handbook/03_committees/03-15-01_wai-admin.html)
+  - 3-15-2   [Western Archives Institute Assistant/Associate Administrator](/sca-handbook/03_committees/03-15-02_wai-assoc-admin.html)
+  - 3-15-3   [Western Archives Institute Joint Management Committee](/sca-handbook/03_committees/03-15-03_wai-joint.html)
+  - 3-15-4   [Western Archives Institute On-Site Coordinator](/sca-handbook/03_committees/03-15-04_wai-onsite-coord.html)
+  - 3-15-5   [WAI Sponsor Responsibilities: California State Archives](/sca-handbook/03_committees/03-15-05_wai-sponsor-csa.html)
+  - 3-15-6   [WAI Sponsor Responsibilities: Society of California Archivists](/sca-handbook/03_committees/03-15-06_wai-sponsor-sca.html)
+- 3-16   [Special Committees and Task Forces](/sca-handbook/03_committees/03-16_special-committees.html)
