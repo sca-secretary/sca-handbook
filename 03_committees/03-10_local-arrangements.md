@@ -19,52 +19,33 @@ The Junior and Senior chairs should not be from the same part of the state (e.g.
 
 General responsibilities are outlined in Handbook section 3-1.
 
-Related to site selection for AGM:
-
+**Related to site selection for AGM:**
 1. Selects a representative sampling of two to four hotels in the location designated by the Board. Possible hotels can be ascertained by contacting the city’s Convention and Visitors Bureau or be suggested by Board or other SCA members.
 2. Visits each potential site. Board or other SCA members may be invited to visit sites with the Chairs.
 3. Evaluates each potential site according to the AGM Site Selection Checklist (see relevant Handbook section).
 4. Prepares a comprehensive report on each site for the Board. Includes evaluations of all the criteria in the Checklist as well as brochures or other materials provided by the sites. Presents the report to the Board no later than the Fall meeting a year and a half prior to the AGM (i.e. Fall 2009 for the 2011 AGM; Fall 2010 for the 2012 AGM, etc.). The Board will be requested to approve a specific hotel.
 5. Informs the hotel of the selection and turns over finalizing and signing of the meeting contract to the SCA President. The Chair will contact the Local Arrangements Committee and inform members of the hotel contacts, and any pertinent information. The hotel will be informed of the Local Arrangements Committee contacts. The selected city and hotel site shall be announced at the AGM Members Meeting, in the SCA Newsletter, and posted on the SCA website.
 
-Related to physical arrangements of the AGM:
-
+**Related to physical arrangements of the AGM:**
 1. Maintains close ties and coordinates with the Program Committee.
-
 2. Serves as primary liaison with the conference hotel staff, arranging for meals, coordinating meeting room space, relaying audiovisual and room setup requirements, etc.
-
 3. Investigates carefully conference hotel add-on charges (i.e. taxes, services audiovisual equipment, and meeting rooms) so that these costs are fully taken into account in the AGM budget.
-
 4. Consults with Program Committee Chair and the Board about tours, special events, exhibits, or other meeting activities.
-
 5. Prepares text for the AGM program related to Local Arrangements details.
-
 6. Coordinates the creation and distribution of the AGM program (printed and electronic). 
-
 7. Assists the Development Committee on securing exhibit space for vendors.
-
 8. Develops and carries out publicity plan to promote the AGM.
-
 9. Creates and distributes registration materials to the membership at least thirty (30) days before the AGM. Responds to requests from individuals who have not renewed their membership for AGM registration by referring the individuals to the Membership Director.
-
 10. Staffs the registration desk at the AGM and prepares related materials, including name badges, registration packets, local area information, etc.
-
 11.	Creates, distributes, and collects evaluation forms at the AGM.
-
 12.	Approves bills for payment and forwards them to the Treasurer. Note: Bills should not be sent directly to the Treasurer from the vendor.
-
 13.	Communicates with the SCA Treasurer to make sure that Local Arrangements Committee AGM budget figures match the Treasurer’s.
-
 14.	Submits a final report to the Board no later than the Board’s next quarterly meeting. This report should include commentary, budget and expenditures, suggestions, copies of promotional literature and publicity, analysis of information gleaned from evaluation forms, etc. Copies of this report should also be sent to the succeeding year’s Local Arrangements Committee Chair and Program Chair.
-
 15.	Reviews and makes recommendations for changes to the Local Arrangements section of the Handbook as needed.
-
 16.	Chair sends letters of thanks to Local Arrangements Committee members and institutions or organizations when appropriate.
-
 17.	Forwards non-current records to SCA archives at the time of the Committee’s dissolution. This should include a copy of the Committee’s report and a printed program.
 
-Related to virtual arrangement of the AGM:
-
+**Related to virtual arrangement of the AGM:**
 1.	Maintains close ties and coordinates with the Program Committee.
 2.	Identifies platform to host virtual meeting.
 3.	Consults with Program Committee Chair and the Board about tours, special events, exhibits, or other meeting activities.
