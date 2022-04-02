@@ -1,4 +1,4 @@
-<sup><a href="/sca-handbook/index.html">SCA Handbook</a>  |  <a href="../01_introductory_material/index.html">Part 1: Introductory Material</a></sup>
+<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 1: Introductory Material](../01_introductory_material/index.html)</sup> 
 
 # 1-3 Articles of Incorporation
 
