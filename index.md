@@ -37,7 +37,7 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
   - 2-5-4     [Cost of Membership](/sca-handbook/02_governing_body/02-05-04_cost-of-membership.html)
   - 2-5-5     [Education Fund  Guidelines](/sca-handbook/02_governing_body/02-05-05_education-fund-guidelines.html)
   - 2-5-6     [Guidelines for Annual Expenditures from the SCA General Fund](/sca-handbook/02_governing_body/02-05-06_annual-expenditures-guidelines.html)
-  - 2-5-7     [Reimbursement Form](/sca-handbook/02_governing_body/02-05-07_reimbursement-form.html)
+  - 2-5-7     Reimbursement Form
   - 2-5-8     [Reimbursement Policy](/sca-handbook/02_governing_body/02-05-08_reimbursement-policy.html)
   - 2-5-9     [Honoraria Policy](/sca-handbook/02_governing_body/02-05-09_honoraria-policy.html)
   - 2-5-10   [Cancellation and Refund Policy](/sca-handbook/02_governing_body/02-05-10_cancellation-and-refund-policy.html)
@@ -48,9 +48,9 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
   - 2-7-1     [Calendar: Membership](/sca-handbook/02_governing_body/02-07-02_calendar-membership.html)
   - 2-7-2     [Membership Information](/sca-handbook/02_governing_body/02-07-02_membership-information.html)
   - 2-7-3     [Membership Pins](/sca-handbook/02_governing_body/02-07-03_membership-pins.html)
-  - 2-7-4     [Membership Welcome Letter (Sample)](/sca-handbook/02_governing_body/02-07-04_membership-letter-welcome.html)
+  - 2-7-4     Membership Welcome Letter (Sample)
   - 2-7-5     [Membership List](/sca-handbook/02_governing_body/02-07-05_membership-list.html)
-  - 2-7-6     [Membership Form](/sca-handbook/02_governing_body/02-07-06_membership-form.html)
+  - 2-7-6     Membership Form
 - 2-8     [Directors at Large](/sca-handbook/02_governing_body/02-08_directors-at-large.html)
 
 ## Part 3: [Committees](/sca-handbook/03_committees/)
