@@ -32,19 +32,27 @@ The specific responsibilities of the Finance and Investment Committee in the inv
 Investment objectives, risk levels, and general guidelines are described in this document. It is understood that the Board of Directors is responsible for the implementation of, and adherence to, the policies and objectives set forth in this document. 
 
 A. **Measured Period:** For purposes of measuring a rate of return over a market cycle, the measured period shall be between three and five years.
+
 B. **Fiduciary Standards:** Investment of the long term portfolio shall be prudently diversified in terms of asset classes and broad market sectors. The Society’s assets are to be invested and managed in accordance with generally accepted standard of fiduciary responsibility. The safeguards which would guide a prudent investment manager are to be strictly observed. All transactions utilizing assets are to be undertaken for the sole benefit of SCA. 
+
 C. **Volatility of Return:** The goal of SCA’s long term investments is to produce returns that exceed inflation by 5% per year with an acceptable level of risk. The SCA Board of Directors understands that the current long-term portfolio asset allocation has a high probability of depreciating in any single year. Given that the overall portfolio has a long-term horizon, a prudent amount of short-term risk is acceptable to the SCA Board of Directors. 
+
 D. **Permissible Investments:** The Society’s assets may be invested only in publicly-traded common and preferred stocks, convertible bonds, and fixed-income securities, whether interest-bearing or purchased at discount, including money-market instruments, subject to any restrictions hereinafter specified. This investment can be in the form of direct investment in the stock market, or indirect investment via mutual funds. No other securities or instruments shall be presumed to be permissible investments without an amendment to this Policy. 
+
 E. **Equity Portfolio Characteristics:** The Society’s assets invested in equity securities shall, as a group:
    1. Have a volatility, or risk level measured as beta, not exceeding that of the overall stock market as measured by the S&P 500 Index;
    2. Be sufficiently diversified so as to moderate risk, but not so excessive as to preclude attainment of optimal results.
+
 F. **Fixed Income Portfolio Characteristics:** The Society’s assets invested in fixed income securities shall, as a group:
    1. Have a weighted average maturity as measured by their market value between 2 and 10 years;
    2. Have a maximum maturity of any individual issue of not more than 20 years; 
    3. Have an average portfolio quality as measured by market value of “A” or better as rated by Standard and Poors;
    4. Have no fixed income security rated at less than “B” grade by Standard and Poors;
+
 G. **Foreign Securities:** Investment in any securities whose issuer is a foreign corporation, government, or government entity shall be limited to no more than 10% of the total managed portfolio. Foreign equity investments shall include only those securities traded on principal U.S. stock exchanges. 
+
 H. **Asset Diversification:** The Society’s investments will maintain a reasonable diversification at all times. No more than 5% of the Society’s assets will be invested in a single company. No more than 15% of the entire portfolio may be invested in the securities of any one sector.
+
 I. **Investments and Transactions Which Are Not Permitted:**
    1. Commodities and Futures Contacts
    2. Private Placements
@@ -60,6 +68,7 @@ Investment Objectives:
 1.	Preservation of Capital
 2.	Moderate growth offering liquidity with limited risk exposure
 3.	Optimize investment return within constraints of the policy
+
 
 | Overall Allocation | Minimum | Target | Maximum |
 | Fixed Income       | 50%     | 70%    | 90%     |
