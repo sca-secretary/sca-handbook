@@ -2,7 +2,7 @@
 
 # 2-5-2 Budget Categories
 
-**General Fund Income**
+## General Fund Income
 | Advertising | Newsletter, AGM Program, and other publications |
 | Exhibit Space | AGM vendor booths |
 | Meals | AGM, workshops, and other SCA programs |
@@ -13,8 +13,7 @@
 | Sales | Brochures and publications |
 | Tours | Tour income, generally from AGM |
 
-**General Fund Expenses**
-
+## General Fund Expenses
 | Advertising | For publications and events |
 | Affiliate Organizations | SCA membership in sister organizations, and such |
 | Audio/visual | A/V rental at AGM, workshops |
@@ -40,15 +39,15 @@
 | Transportation | Costs associated with AGM tours and offsite workshops |
 | Travel/Lodging | Associated with board and committee meetings, for workshop speakers |
 
-**Restricted Funds Income**
+## Restricted Funds Income
 | Donations | Outright, annual drive, AGM silent auction, membership pins |
 
-**Restricted Funds Expenses**
+## Restricted Funds Expenses
 | Scholarships | Mink scholarship(s), Gray Scholarship(s), Continuing Education |
 | Travel/Lodging | AGM speakers |
 | Honoraria | AGM speakers |
 
-**Other Income**
+## Other Income
 | Dividends/Interest | Dividends and interest earned on all monies on deposit |
 
 ***
