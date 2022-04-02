@@ -14,3 +14,6 @@ _-- Anne Caiger, January 1985_
 
 In July 1993 the Society was formally recognized and recorded as a non-profit Corporation. Articles of Incorporation were written and legally filed as were the Revised Bylaws. In accordance with the non-profit corporation status the elected governing body name was changed from Council to The Board of Directors.
 _-- Dorothy Mackay-Collins, June 1993_
+
+***
+_Revision history: 1/85 ac, 6/93 dmc, 3/10 lo_
