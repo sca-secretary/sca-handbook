@@ -57,15 +57,16 @@ h2 {
   padding-top: 12px; 
 }
 
-h3, h4, h5, h6 {
-  color:#626262;
-}
-
 h3 {
+  color:#ca323d;
   font-size: 18px;
   line-height: 24px;
   padding-top: 12px;
-  text-decoration-style: solid;
+  text-decoration: underline;
+}
+
+h4, h5, h6 {
+  color:#626262;
 }
 
 a {
