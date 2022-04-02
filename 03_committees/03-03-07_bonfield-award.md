@@ -1,4 +1,4 @@
-<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 3: Committees](../03_committees/index.html) | [3-3 Awards Committee](../03-03_awards.html)</sup> 
+<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 3: Committees](../03_committees/index.html) | [3-3 Awards Committee](../03_committees/03-03_awards.html)</sup> 
 
 # 3-3-7 Lynn A. Bonfield Professional Development Award and Guidelines
 The Lynn A. Bonfield Professional Development Award is designed to provide Society of California Archivists members in good standing with financial assistance for related in-person training and educational opportunities that are independent of SCA sponsored events. The scholarship is named in honor of Lynn A. Bonfield, an early convener of the SCA. In formulating this scholarship, similar continuing education scholarship programs were consulted, including those offered by other regional archival organizations.
