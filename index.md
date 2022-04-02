@@ -14,12 +14,12 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
 - 1-7     [SCA Privacy Policy](/sca-handbook/01_introductory_material/01-07_sca-privacy-policy.html)
 - 1-8     [SCA Photography Policy](/sca-handbook/01_introductory_material/01-08_sca-photography-policy.html)
 - 1-9    [Administrative Information](/sca-handbook/01_introductory_material/01-09_administrative-information.html)
-  - 1-9-1     Calendar: SCA
-  - 1-9-2     Mailing Information
-  - 1-9-3     SCA Identity Guidelines
+  - 1-9-1     [Calendar: SCA](/sca-handbook/01_introductory_material/01-09-01_calendar-sca.html)
+  - 1-9-2     [Mailing Information](/sca-handbook/01_introductory_material/01-09-02_mailing-information.html)
+  - 1-9-3     [SCA Identity Guidelines](/sca-handbook/01_introductory_material/01-09-03_identity-guidelines.html)
   - 1-9-4     Records Retention Schedule
   - 1-9-5     Records Destruction Calendar
-  - 1-9-6     SCA Archives
+  - 1-9-6     [SCA Archives](/sca-handbook/01_introductory_material/01-09-06_sca-archives.html)
 
 ## Part 2: [Governing Body ](/sca-handbook/02_governing_body/)
 - 2-1     [Board of Directors](/sca-handbook/02_governing_body/02-01_board-of-directors.html)
