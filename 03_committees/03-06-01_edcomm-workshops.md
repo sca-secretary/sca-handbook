@@ -38,7 +38,7 @@ Among the topics discussed are: archival principals and methodology, developing 
 
 ### Relevant to Both Regional and AGM or Western Archivists Meeting Workshops
 
-**Speakers**
+#### Speakers
 - Some speakers need official requests to speak as documentation for their own supervisors.
 - Committee is responsible for any travel and/or lodging arrangements needed by the speaker. Travel and lodging expenses will be reimbursed using Education Committee funds per the current Board Handbook reimbursement policy.
 - See Rate Table in Honoraria Policy Section 2-5-9 for current honoraria. Special cases can always be presented to the Board.
@@ -47,14 +47,14 @@ Among the topics discussed are: archival principals and methodology, developing 
 Scheduling
 Select the day that works for you, the site, and your key speakers, then work back. Be aware of scheduling the workshop so that it does not conflict with other conferences or meetings. Scheduling workshops too late in December can make it difficult to submit reimbursement forms before the year is over. See Section 3-6-2 for a task timeline.
 
-**Publicity**
+#### Publicity
 - Confirm spelling of names, titles, and institutions of speakers for publicity.
 - Confirm maps and parking/public transportation directions.
 - Send workshop information to the SCA Newsletter editor.
 - Create the online registration page. Make sure to include any information necessary for full workshop participation (personal laptops required, any knowledge or previous experience required to get the most out of the workshop topic).
 - Post workshop details to "Upcoming Workshops" page on SCA website. After workshop is run, move an abbreviated workshop description to the "Past Workshops" page.
 
-**Items to Delegate to Education Committee Members**
+#### Items to Delegate to Education Committee Members
 - Help in Advance of the Workshop:
   - Setting up online registration and answering registration questions.
   - Securing a workshop site.
