@@ -86,12 +86,12 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
   - 3-9-1     [SCA Investment Policy Statement](/sca-handbook/03_committees/03-09-01_investment-policy-statement.html)
 - 3-10   [Local Arrangements Committee: Annual General Meeting](/sca-handbook/03_committees/03-10_local-arrangements.html)
   - 3-10-1   AGM Budget/Financial Report Format
-  - 3-10-2   Local Arrangements Checklist
-  - 3-10-3   Local Arrangements Calendar
-  - 3-10-4   Site Selection Checklist
-  - 3-10-5   Local Arrangements Compensation Guidelines
+  - 3-10-2   [Local Arrangements Checklist](/sca-handbook/03_committees/03-10-02_lac-checklist.html)
+  - 3-10-3   [Local Arrangements Calendar](/sca-handbook/03_committees/03-10-03_lac-calendar.html)
+  - 3-10-4   [Site Selection Checklist](/sca-handbook/03_committees/03-10-04_site-selection-checklist.html)
+  - 3-10-5   [Local Arrangements Compensation Guidelines](/sca-handbook/03_committees/03-10-05_lac-compensation.html)
 - 3-11   [Membership Committee](/sca-handbook/03_committees/03-11_membership.html)
-  - 3-11-1   Vice Chair for Member Activities
+  - 3-11-1   [Vice Chair for Member Activities](/sca-handbook/03_committees/03-11-01_member-activities.html)
 - 3-12   [Nominating Committee](/sca-handbook/03_committees/03-12_nominating.html)
   - 3-12-1   Calendar: Election and Nomination Committees
   - 3-12-2   Candidate Statement
