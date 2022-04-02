@@ -28,6 +28,8 @@ h1, h2, h3, h4, h5, h6 {
 
 p, table, pre, dl {
   margin:0 0 20px;
+}
+p {
   padding-top:10px;
 }
 
@@ -341,7 +343,7 @@ nav {
   p {
     font-size: 14px;
     adding: 5px 0px;
-    line-height: 16px;
+    line-height: 10px;
 
         a {
           font-weight: bold;
