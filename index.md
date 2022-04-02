@@ -100,7 +100,7 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
 - 3-13   [Program Committee](/sca-handbook/03_committees/03-13_program.html)
   - 3-13-1   [Calendar: AGM Program Planning](/sca-handbook/03_committees/03-13-01_calendar-program.html)
   - 3-13-2   [AGM Program Committee Guidelines](/sca-handbook/03_committees/03-13-02_program-guidelines.html)
-  - 3-13-3   [AGM Session Proposal Form (Sample)](/sca-handbook/03_committees/03-13-03_session-proposal.html)
+  - 3-13-3   AGM Session Proposal Form (Sample)
   - 3-13-4   [AGM Facilitator Checklist](/sca-handbook/03_committees/03-13-04_facilitator-checklist.html)
 - 3-14   [Publications Committee](/sca-handbook/03_committees/03-14_publications.html)
   - 3-14-1   [Newsletter](/sca-handbook/03_committees/03-14-01_newsletter.html)
