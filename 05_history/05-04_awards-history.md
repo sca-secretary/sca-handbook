@@ -4,6 +4,7 @@
 
 ## Sustained Service Awards
 Sustained Service Awards are given to recognize service to the Society of California Archivists over a period of twelve years. They were first awarded in 1991.
+
 | 1991 Initial Awards - 20th Anniversary |                          |
 |                                        | Dr. Larry Burgess        |
 |                                        | John Cahoon              |
@@ -64,6 +65,7 @@ Sponsored by Metal Edge, Inc, the Archives Appreciation Award is presented to an
 
 ## James V. Mink Scholarship Award
 Scholarships are awarded each year in honor of James V. Mink, long-time archivist at UCLA and the first President of the Society of California Archivists. The Mink Scholarship promotes the professional development of students preparing to become archivists or archivists who have recently graduated by providing support for attendance at the AGM and a pre-conference workshop.
+
 | 1987 | Suzanne Forsyth                   |
 | 1988 | Susan Coffman                     |
 | 1989 | Debra Rogenmoser                  |
@@ -103,6 +105,7 @@ Scholarships are awarded each year in honor of James V. Mink, long-time archivis
 | 2021 | Grace Muñoz                       |
 
 ## Career Achievement Award (established 2011)
+
 | 2011 | David Smith       |
 | 2012 | [not awarded]     |
 | 2013 | Larry Burgess     |
@@ -116,9 +119,11 @@ Scholarships are awarded each year in honor of James V. Mink, long-time archivis
 | 2021 | Gabriele Carey and Catherine Powell |
 
 ## Lynn A. Bonfield Professional Development Award (established 2018)
+
 | 2019 | Kelsi Evans   |
 
 ## Special Recognition Awards
+
 | 2003 | Metal Edge, Inc. for its continued support for SCA and its programs                          |
 | 2006 | Nancy Zimmelman for her long-term service with the Western Archives Institute                |
 | 2015 | Julie Graham, for 15 years' service as On Site Coordinator of the Western Archives Institute |
