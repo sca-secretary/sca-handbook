@@ -27,7 +27,7 @@
   - 2-7-1     [Calendar: Membership](/sca-handbook/02_governing_body/02-07-02_calendar-membership.html)
   - 2-7-2     [Membership Information](/sca-handbook/02_governing_body/02-07-02_membership-information.html)
   - 2-7-3     [Membership Pins](/sca-handbook/02_governing_body/02-07-03_membership-pins.html)
-  - 2-7-4     Membership Welcome Letter (Sample)
+  - 2-7-4     [Membership Welcome Letter (Sample)](/sca-handbook/02_governing_body/02-07-04_welcome-letter.html)
   - 2-7-5     [Membership List](/sca-handbook/02_governing_body/02-07-05_membership-list.html)
   - 2-7-6     Membership Form
 - 2-8     [Directors at Large](/sca-handbook/02_governing_body/02-08_directors-at-large.html)
