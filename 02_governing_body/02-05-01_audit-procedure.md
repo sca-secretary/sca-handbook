@@ -1,13 +1,13 @@
-<sup><a href="/sca-handbook/index.html">SCA Handbook</a> | <a href="../02_governing_body/index.html">Part 2: Governing Body</a> | <a href="../02_governing_body/treasurer.html">2-5 Treasurer</a></sup>
+<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 2: Governing Body](../02_governing_body/index.html) | [2-5 Treasurer](../02_governing_body/02-05_treasurer.html)</sup> 
 
 # 2-5-1 Audit Procedure
 
-**General Description**
+## General Description
 The purpose of the audit is to determine the completeness and accuracy of the Society's financial records. The Treasurer delivers the financial records to the Vice President at the first Board meeting following the close of the fiscal year. The Vice President presents the audit report to the Board of Directors at the second Board meeting following the close of the fiscal year.
 
 The audit consists of tracing transactions from source documents to registers and bank statements, verification of signature approvals and timely filings of tax/corporation reports, and conformance with written procedures.
 
-**Responsibilities**
+## Responsibilities
 1. Verify that each check of payment or reimbursement has a corresponding reimbursement form or other statement authorizing the check to be drawn.
 2. Verify that each charge made to the organization's check card has a corresponding invoice or statement.
 3. Verify that each reimbursement form or other statement has the required support documentation and that the amount of the payment check matches that of the request.
