@@ -1128,7 +1128,7 @@ _Meeting held jointly with Northwest Archivists, Society of Rocky Mountain Archi
     - Authoring the Archive
     - Revealing Your Holdings to Yourself and Others: Minerva at the California State Archives
     - Long Beach History Projects
-  - Awards Luncheon and Address: Jennifer M. Volland and Cara Mullio, authors of Long Beach Architecture: The Unexpected Metropolis
+  - Awards Luncheon and Address: Jennifer M. Volland and Cara Mullio, authors of _Long Beach Architecture: The Unexpected Metropolis_
   - SCA Board Wrap-Up
 
 ## May 1-3, 2008: Monterey: Beach Resort Monterey
@@ -1190,7 +1190,7 @@ _Theme: Cultivating Collaboration_
     - Working with the National History Day Researcher
     - Archiving the Web: Archive-It
     - Selecting Collection Management Software
-  - Luncheon and Address: Archimedes: Ancient Text Revealed with X-ray Vision, Dr. Uwe Bergmann, Stanford Synchrotron Radiation Lightsource
+  - Luncheon and Address: _Archimedes: Ancient Text Revealed with X-ray Vision_, Dr. Uwe Bergmann, Stanford Synchrotron Radiation Lightsource
   - SCA Members Meeting
   - BBQ at the Hofer Ranch
 - Saturday:
@@ -1204,7 +1204,7 @@ _Theme: Cultivating Collaboration_
     - One Day, Many Archives: The Making of the LA as Subject Archives Bazaar
     - Don't Compete - Collaborate
     - Sharing Metadata: Building Collections and Communities
-  - Awards Luncheon and Address: Co-ops: Not Only for Farms but Archives, Dr. Larry Burgess, A.K. Smiley Public Library
+  - Awards Luncheon and Address: _Co-ops: Not Only for Farms but Archives_, Dr. Larry Burgess, A.K. Smiley Public Library
   - SCA Board Wrap-Up
 
 ## April 28-May 1, 2010: Seattle, Washington, Renaissance Seattle Hotel
@@ -1276,7 +1276,7 @@ _Theme: Do you Know the Way to SCA?_
   - Repository open houses
   - Opening Reception: Computer History Museum
 - Friday: 
-  - Plenary Session & Keynote Address: Inside the Kremlin: Unraveling the Papers of Vitaly Kataev and Soviet thinking during the Latter Stages of the Cold War, David E. Hoffman, author
+  - Plenary Session & Keynote Address: _Inside the Kremlin: Unraveling the Papers of Vitaly Kataev and Soviet thinking during the Latter Stages of the Cold War_, David E. Hoffman, author
   - Sessions: 
     - Taking Our Pulse: The OCLC Research Survey of Special Collections and Archives
     - Pecha Kucha #1: A Sampling of Projects from Archives in the West
@@ -1284,7 +1284,7 @@ _Theme: Do you Know the Way to SCA?_
     - “Virtual Worlds” in Archival Settings
     - New Technologies and Archives: Exchange Forum
     - Archivists That Are Doin’ It for Themselves: The Archivist as Historian
-  - Luncheon and Address: Silicon Valley, Women, and the California Dream: Gender, Class, and Opportunity in the 20th Century, Glenna Matthews, visiting scholar, Institute of Urban and Regional Development, UC Berkeley 
+  - Luncheon and Address: _Silicon Valley, Women, and the California Dream: Gender, Class, and Opportunity in the 20th Century_, Glenna Matthews, visiting scholar, Institute of Urban and Regional Development, UC Berkeley 
   - “Celebrating California Authors” event for colleagues who authored books in past three years
   - SCA Members Meeting and Committee Meetings
   - Gourmet Night
@@ -1299,7 +1299,7 @@ _Theme: Do you Know the Way to SCA?_
     - Processing Born-Digital Collections: Developing Procedures and Production Workflows
     - Pecha Kucha #2: A Sampling of Projects from Archives in the West
     - Confluence: Corporate Archives and the Merger Environment
-  - Awards Luncheon and Address: Bandido: The Life and Times of Tiburcio Vasquez, John Boessenecker, attorney and author  
+  - Awards Luncheon and Address: Bandido: _The Life and Times of Tiburcio Vasquez_, John Boessenecker, attorney and author  
   - SCA Board Wrap-Up
 
 ## April 26-28, 2012	Ventura, Crowne Plaza Ventura Beach Hotel
@@ -1313,7 +1313,7 @@ _Theme: Ride the Wave to SCA!_
     - Opening Reception: Museum of Ventura County
 - Friday: 
   - New Member Meet & Greet
-  - Plenary Session & Keynote Address: The Redemptive West, William Deverell, director, Huntington-USC Institute on California and the West
+  - Plenary Session & Keynote Address: _The Redemptive West_, William Deverell, director, Huntington-USC Institute on California and the West
   - Sessions: 
     - Changing Moving Image Access: Presenting Video Artworks in an Online Environment
     - Archivists That Are Doin’ It for Themselves: Southern California Edition
@@ -1321,7 +1321,7 @@ _Theme: Ride the Wave to SCA!_
     - New Technologies and Archives: Exchange Forum 2012
     - In Pursuit of the Moral Imperative: Exploring Social Justice and Archives
     - The Business of Audio-Visual Preservation
-  - Awards Luncheon and Address: Between Horizons: Traveling the Great Central Valley, Janet Fireman, editor of California History 
+  - Awards Luncheon and Address: _Between Horizons: Traveling the Great Central Valley_, Janet Fireman, editor of California History 
   - SCA Members Meeting and Committee Meetings
   - New Member Happy Hour
   - Gourmet Night
@@ -1352,7 +1352,7 @@ _Theme: Scanning the Horizon_
   - Opening Reception: Berkeley Hillside Club
 - Friday:
   - New Member Meet & Greet
-  - Plenary Session: Culture Wars: Engaging Undergraduates in Documenting the Crisis in California through the Historian’s Eye Project, Michael Cohen, Historian’s Eye team at UC Berkeley
+  - Plenary Session: _Culture Wars: Engaging Undergraduates in Documenting the Crisis in California through the Historian’s Eye Project_, Michael Cohen, Historian’s Eye team at UC Berkeley
   - Sessions:
     - Teaching Old Stuff New Tricks: Use of Primary Sources in Digital Humanities and Social Sciences Computing
     - World Wide Web Overload: Archiving a Messy Web
@@ -1378,7 +1378,7 @@ _Theme: Scanning the Horizon_
     - Software Tools for Digital Collections Management
     - Sacramento Archives Crawl: A Model for Outreach and Collaboration
     - From VHS to ProRes Files: Getting a Handle on Audiovisual Collections
-  - Awards Luncheon and Speaker: Excavating the New Deal—In Archives and in the Field, Gray Brechin, The Living New Deal Project 
+  - Awards Luncheon and Speaker: _Excavating the New Deal—In Archives and in the Field_, Gray Brechin, The Living New Deal Project 
   - SCA Board Wrap-Up
 
 ## May 8-10, 2014 	Renaissance Palm Springs Hotel, Palm Springs
@@ -1393,7 +1393,7 @@ _Theme: Archives and the Public_
   - Opening Reception: Sunnylands
 - Friday:
   - New Member Meet & Greet
-  - Plenary Session: Form Follows Pleasure: Modern Architecture and the Palm Springs School, Alan Hess, architectural critic and author
+  - Plenary Session: _Form Follows Pleasure: Modern Architecture and the Palm Springs School_, Alan Hess, architectural critic and author
   - Sessions:
     - The Access Tightrope: Balancing Access with Privacy
     - Unleashing the Waters: Diversifying Access to Digital Resources on the Los Angeles Aqueduct
@@ -1417,7 +1417,7 @@ _Theme: Archives and the Public_
     - Minimizing is Maximizing: Integrating the UC Guidelines with Accessioning and Processing Workflows
     - National History Day and the Archives: A Natural Fit
     - Extending Archives: Social Media Outreach to New Demographics
-  - Awards Luncheon and Speaker: Arabian Nights in the American Desert: The Cultivation of Middle Eastern Fantasies in California's Coachella Valley, Sarah Seekatz, University of California at Riverside 
+  - Awards Luncheon and Speaker: _Arabian Nights in the American Desert: The Cultivation of Middle Eastern Fantasies in California's Coachella Valley_, Sarah Seekatz, University of California at Riverside 
   - SCA Board Wrap-Up
 
 ## May 27-30, 2015 	Embassy Suites Downtown Convention Center, Denver, CO
@@ -1512,7 +1512,7 @@ _Theme: Evolution and Innovation_
     - Paradise Ridge Winery
 - Friday:
   - First-time Attendee Meet & Greet
-  - Plenary Address: Where all the women are “girls,” all the references are “too old,” and all the vocabulary is “too specialized”: Building Bridges between Students and Archives, Dr. Michelle Jolly, Professor of History at Sacramento State University
+  - Plenary Address: _Where all the women are “girls,” all the references are “too old,” and all the vocabulary is “too specialized”: Building Bridges between Students and Archives_, Dr. Michelle Jolly, Professor of History at Sacramento State University
   - Sessions
     - The Culture and Heritage of Cultural Heritage Institutions: Institutional Archivists in Conversation
     - So Much in the Mix: Challenges and New Directions in Archival Preservation
@@ -1536,7 +1536,7 @@ _Theme: Evolution and Innovation_
     - Democratizing Digitization
     - Mission Accomplished: Residency Program
     - Lightning Talks
-  - Awards lunch and speaker: The History of San Francisco Street Food, from Tamales to Food Trucks, Dr. Erica Peters, director of the Culinary Historians of Northern California
+  - Awards lunch and speaker: _The History of San Francisco Street Food, from Tamales to Food Trucks_, Dr. Erica Peters, director of the Culinary Historians of Northern California
   - SCA Board Wrap-up
 
 ## April 27-99, 2017	Westin Hotel, Pasadena
@@ -1555,7 +1555,7 @@ _Theme: New Media, Same Process_
     - Huntington Library, including The Gamble House movie screening
 - Friday:
   - First-time Attendee Meet & Greet
-  - Plenary Address: To Make a City Attractive is to Make it Prosperous, Ann Scheid, Archivist at the Greene and Greene Archives, Huntington Library
+  - Plenary Address: _To Make a City Attractive is to Make it Prosperous_, Ann Scheid, Archivist at the Greene and Greene Archives, Huntington Library
   - Sessions
     - Describing Digital: Enabling Easy Discovery
     - Soft Money, Hard Realities: The Lives and Careers of Archivists with Short-Term or Grant-Funded Positions
