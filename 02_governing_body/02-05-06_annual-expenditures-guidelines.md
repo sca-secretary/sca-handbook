@@ -35,11 +35,11 @@ In preparation for each year’s budgeting, the surplus General Funds should be 
 
 Example calculations based on 2014 budgeting figures are: 
 
-| General Fund as of Jan. 2013: | $160,000 |
-| Operating Reserve: | - $12,000 |
-| AGM Reserve: | - $35,000 |
-| --------  | -------- |
-| Surplus General Funds: | $113,000 |
+| General Fund as of Jan. 2013: | $160,000  |
+| Operating Reserve:            | - $12,000 |
+| AGM Reserve:                  | - $35,000 |
+| --------                      | --------  |
+| Surplus General Funds:        | $113,000  |
 
 10% of 113,000 = $11,300
 
