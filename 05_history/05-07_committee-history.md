@@ -5,7 +5,7 @@
 Standing Committees are those committees that provide essential services to the Society. Permanent committees are established by the Bylaws or by the Board to cope with the ongoing tasks of the Society. While the Chair rotates and the tasks evolve, these groups generally function over many years. Standing Committees and their selection are described in Bylaws VI.1-2 (See also the current version of _The Standard Code of Parliamentary Procedure by
 Sturgis_).
 
-(This history is to be updated as information surfaces from SCA archives or other sources.)
+_This history is to be updated as information surfaces from SCA archives or other sources._
 
 ## Advocacy and Public Policy
 - Lisa Mix (2020-2023)
