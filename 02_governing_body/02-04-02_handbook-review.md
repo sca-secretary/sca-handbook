@@ -1,9 +1,10 @@
-<sup><a href="/sca-handbook/index.html">SCA Handbook</a>  |  <a href="../02_governing_body/index.html">Part 2: Governing Body</a>  |  <a href="../02_governing_body/02-04_secretary.html">2-4 Secretary</a></sup>
+<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 2: Governing Body](../02_governing_body/index.html) | [2-4 Secretary](../02_governing_body/02-04_secretary.html)</sup> 
 
 # 2-4-2 Handbook Review and Update Assignments
 
+## 1 Introductory Material
+
 | **Section Description** | **Individual Responsible for Updates** |
-| **1 Introductory Material** | |
 | 1-1 Handbook Introduction | Secretary |
 | 1-2 Bylaws | Secretary |
 | 1-3 Articles of Incorporation | Secretary |
@@ -18,7 +19,10 @@
 | 1-8-4 Records Retention Schedule | Archives |
 | 1-8-5 Records Destruction Calendar | Archives |
 | 1-8-6 SCA Archives: Finding Aid | Archives |
-| **2 Governing Body** |  |
+
+## 2 Governing Body
+
+| **Section Description** | **Individual Responsible for Updates** |
 | 2-1 Board of Directors | President |
 | 2-2 President | President |
 | 2-2-1 Leadership Seminar | President |
@@ -49,7 +53,10 @@
 | 2-7-5 Membership List | Membership Director |
 | 2-7-6 Membership Form | Membership Director |
 | 2-8 Directors at Large | Directors at Large |
-| **3 Committees** | |
+
+## 3 Committees
+
+| **Section Description** | **Individual Responsible for Updates** |
 | 3-1 Committees President |
 | 3-1-1 Quarterly Report Format | Secretary |
 | 3-2 Awards Committee | Awards Ctte. |
@@ -108,14 +115,20 @@
 | 3-16-5 WAI Sponsor Responsibilities: California State Archives | WAI Administrator |
 | 3-16-6 WAI Sponsor Responsibilities: Society of California Archivists | WAI Administrator |
 | 3-17 Special Committees and Task Forces | President |
-| **4 External Relations and Affinity Groups** | |
+
+## 4 External Relations and Affinity Groups
+
+| **Section Description** | **Individual Responsible for Updates** |
 | 4-1 External Relations and Affinity Groups | President |
 | 4-1-1 Affinity Groups | President |
 | 4-1-2 Archives Month | O & P Ctte. |
 | 4-1-3 CHRAB | President |
 | 4-1-3-1 Archival Award of Excellence | Awards Ctte. |
 | 4-1-4 Journal of Western Archives | President |
-| **5 History** | |
+
+## 5 History
+
+| **Section Description** | **Individual Responsible for Updates** |
 | 5-1 The Foundation of SCA | Past President |
 | 5-2 Chronology | Past President |
 | 5-3 Annual General Meeting (AGM) History | Past President |
