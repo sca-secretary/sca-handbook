@@ -30,7 +30,8 @@ p, table, pre, dl {
   margin:0 0 20px;
 }
 p {
-  padding-top:1px;
+  padding-top:2px;
+  padding-bottom:0px;
 }
 
 ul, ol {
@@ -63,8 +64,8 @@ h3, h4, h5, h6 {
 h3 {
   font-size: 18px;
   line-height: 24px;
-  padding-top: 15px;
-  style: underline;
+  padding-top: 12px;
+  text-decoration: solid;
 }
 
 a {
