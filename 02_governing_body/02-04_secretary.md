@@ -1,6 +1,6 @@
-<sup><a href="/sca-handbook/index.html">SCA Handbook</a>  |  <a href="../02_governing_body/index.html">Part 2: Governing Body</a></sup>
+<sup><a href="/sca-handbook/index.html">SCA Handbook</a> | <a href="../02_governing_body/index.html">Part 2: Governing Body</a></sup>
 
-# 2-3 Secretary
+# 2-4 Secretary
 
 **General Description**
 The person holding this office is both recording and corresponding secretary. In the former capacity, the Secretary is the chief recorder and keeper of the records of the Corporation; in the latter they handle official correspondence.
