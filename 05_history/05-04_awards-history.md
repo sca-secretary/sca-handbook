@@ -40,6 +40,7 @@ Sustained Service Awards are given to recognize service to the Society of Califo
 
 ## Archives Appreciation Award
 Sponsored by Metal Edge, Inc, the Archives Appreciation Award is presented to an agency, organization, or institution which has provided support for archival programs. This includes both processing and reference programs as well as exhibit presentations. However, agencies, organizations or institutions with in-house archival programs must show support of these programs.
+
 | 1998 | Stanford Linear Accelerator Center                               |
 | 1999 | Florin Japanese American Citizens League                         |
 | 2000 | A.K. Smiley Public Library                                       |
