@@ -1,4 +1,4 @@
-<sup>[SCA Handbook](/sca-handbook/index.html)
+<sup>[SCA Handbook](/sca-handbook/index.html)</sup>
 
 # [Part 4:  External Relations](/sca-handbook/04_external_relations/)
 - 4-1     [External Relations and Affinity Groups](/sca-handbook/04_external_relations/04-01_external-relations-and-affinity-groups.html)
