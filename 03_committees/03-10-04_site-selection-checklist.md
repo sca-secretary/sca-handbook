@@ -1,4 +1,4 @@
-<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 3: Committees](../03_committees/index.html) | [3-10 Local Arrangements Committee](../03_committees/03-10_local-arrangements.html)</sup> 
+<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 3: Committees](../03_committees/index.html) | [3-10 Local Arrangements Committee](../03_committees/03-10_lac.html)</sup> 
 
 # 3-10-4
 Site Selection Checklist
