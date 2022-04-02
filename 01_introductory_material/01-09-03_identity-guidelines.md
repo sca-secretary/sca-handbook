@@ -37,37 +37,12 @@ SCA's letterhead can be printed in color or black/white. Templates for both vers
 | R: 36 G: 39 B: 51           | R: 240 G: 89 B: 42        |
 | Web: #242733                | Web: #F0592A              |
 
-Pantone 532 C
-C: 80% M: 72% Y: 54% K: 61%
-R: 36 G: 39 B: 51
-Web: #242733
-
-Pantone 7579 C
-C: 0% M: 80% Y: 94% K: 0%
-R: 240 G: 89 B: 42
-Web: #F0592A
-
 ### Secondary Colors
 
 | Pantone 1797 C             | Pantone 7569 C            | Pantone 7541 C          |
 | C: 14% M: 94% Y: 79% K: 4% | C: 7% M: 50% Y: 86% K: 0% | C: 4% M: 2% Y: 3% K: 0% |
 | R: 202 G: 50 B: 61         | R: 231 G: 145 B: 62       | R: 241 G: 242 B: 242    |
 | Web: #CA323D               | Web: #E7913E              | Web: #F1F2F2            |
-
-Pantone 1797 C
-C: 14% M: 94% Y: 79% K: 4%
-R: 202 G: 50 B: 61
-Web: #CA323D
-
-Pantone 7569 C
-C: 7% M: 50% Y: 86% K: 0%
-R: 231 G: 145 B: 62
-Web: #E7913E
-
-Pantone 7541 C
-C: 4% M: 2% Y: 3% K: 0%
-R: 241 G: 242 B: 242
-Web: #F1F2F2
 
 ***
 
