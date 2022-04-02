@@ -1,4 +1,4 @@
-<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 3: Committees](../03_committees/index.html) | [3-3 Awards Committee](../03-03_awards.html)</sup> 
+<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 3: Committees](../03_committees/index.html) | [3-3 Awards Committee](../03_committees/03-03_awards.html)</sup> 
 
 # 3-3-9 Advancing Equity: Continuing Education Funding
 This funding, established in 2021, promotes the diversification of the larger archival community through the support of continuing education. The award provides financial support to individual archivists of color for archives-related training and professional development, or to organizations proposing educational events for archivists or archives volunteers centered on the records of communities of color.
