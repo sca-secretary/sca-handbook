@@ -13,7 +13,7 @@ The three member committee is chaired by the Immediate Past President. The proce
 General responsibilities are outlined in Handbook section 3-1.
 
 1. Discuss responsibilities, procedures, and possible candidates as a committee in the fall.
-2. Solicits suggestions of potential candidates from the membership via the Newsletter, the web site, listervs, and emails to the membership.
+2. Solicits suggestions of potential candidates from the membership via the _Newsletter_, the web site, listervs, and emails to the membership.
 3. Consults candidate suggestions received from membership, along with suggestions received over the preceding two (2) years, so that three (3) years of suggested names are considered by the Committee in preparing the slate of candidates. The outgoing Chair of the Nominating Committee is to pass to the incoming Chair the collected list of names suggested and the various forms (nominating, candidate statements) to be updated each year for the current Committee’s use. Nominating Committee members may also propose names of candidates, and the Board should also be informally consulted for a list of suggested potential candidates.
 4. Contacts potential nominees, explains to them the duties and terms of office for which they are being considered; is prepared to answer questions potential nominees may have, and allows adequate time for the potential nominees to arrive at a decision to run. Refers nominees to Handbook for description of officer duties.
 5. Selects candidates considering the following:
@@ -22,7 +22,7 @@ a. Try to ensure that both the northern and southern regions of the state are re
  
 b. Solicit candidates from as wide a variety of membership interests as possible, such as large and small institutions, archives and manuscripts collections, and public and private institutions.
 
-c. Confirm membership status of potential candidates with Membership Director. Candidates must be current members. (See also item 9 below, for guidelines.)
+c. Confirm membership status of potential candidates with Membership Director. Candidates _must_ be current members. (See also item 9 below, for guidelines.)
 
 6. Requests a statement of intent or poses a question that must be answered by each Board candidate. Candidates’ responses to the questions will be forwarded with the ballots to the membership. Examples of sample questions:
 
@@ -55,13 +55,13 @@ ii. Attendance at two of the last three annual meetings.
 
 iii. Any combination of several of the following:
 
-1. Service on a standing or ad hoc committee for one full year (preferably as chair).
+1. Service on a standing or _ad hoc_ committee for one full year (preferably as chair).
 
 2. Services as SCA liaison to an affiliated group (i.e. Society of American Archivists, American Records Management Association, California Historical Records Advisory Board, etc.)
 
 3. Monitoring related legislative, task force or preservation-oriented actions and reporting to the membership.
 
-4. One year as Newsletter editor.
+4. One year as _Newsletter_ editor.
 
 5. Local Arrangements Committee member for an Annual Meeting (preferably as chair)
 
