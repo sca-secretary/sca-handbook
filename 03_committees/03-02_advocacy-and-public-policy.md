@@ -1,12 +1,14 @@
-## 3-2 Advocacy and Public Policy Committee
+<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 3: Committees](../03_committees/index.html)</sup> 
 
-**General Description**
+# 3-2 Advocacy and Public Policy Committee
+
+## General Description
 
 This standing committee is responsible for promoting advocacy in response to key issues that may impact archives, diversity, and the role of archives and archivists within society. The committee monitors legislation and policy, political appointments and governmental funding agencies, and political issues of interest to archivists. It makes recommendations to the SCA Board in regards to formal statements by the Society and implements the resulting action, as approved by the Board. The committee facilitates access to resources that will aid archivists in advocating for the profession in the aforementioned matters. The committee serves as a key resource for apprising members of news, events, discussions, and information relevant to archivists, associated professionals, and archival repositories. The committee communicates its findings to the membership via the SCA Board, the Newsletter, special mailings, and the annual members meeting. It also orchestrates special projects on an as needed basis.
 
 Composition of the committee and terms of office are defined in Handbook section 3-1 and governed by the Bylaws.
 
-**Responsibilities**
+## Responsibilities
 
 General responsibilities are outlined in Handbook section 3-1.
 
@@ -18,4 +20,6 @@ General responsibilities are outlined in Handbook section 3-1.
 6. Maintains a copy of the SCA Handbook, and recommends revisions of the Advocacy and Public Policy Committee section to SCA Board when needed.
 7. Forwards non-current records of the committee to the SCA Archives at the end of the year.
 
-_08/2020 mh_
+***
+
+_Revision history: 08/2020 mh_
