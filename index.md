@@ -93,7 +93,7 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
 - 3-11   [Membership Committee](/sca-handbook/03_committees/03-11_membership.html)
   - 3-11-1   [Vice Chair for Member Activities](/sca-handbook/03_committees/03-11-01_vc-member-activities.html)
 - 3-12   [Nominating Committee](/sca-handbook/03_committees/03-12_nominating.html)
-  - 3-12-1   Calendar: Election and Nomination Committees
+  - 3-12-1   [Calendar: Election and Nomination Committees](/sca-handbook/03_committees/03-12-01_calendar-election-nomination.html)
   - 3-12-2   Candidate Statement
   - 3-12-3   Candidate Suggestion Form
   - 3-12-4   Responsibilities of SCA Officers and Board of Directors
