@@ -73,17 +73,17 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
   - 3-5-1     Contribution Form (Sample)
   - 3-5-2     Vendor Registration Form (Sample)
 - 3-6     [Education Committee](/sca-handbook/03_committees/03-06_education.html)
-  - 3-6-1     Education Committee Workshops
-  - 3-6-2     Workshop Checklist
+  - 3-6-1     [Education Committee Workshops](/sca-handbook/03_committees/03-06-01_edcomm-workshops.html)
+  - 3-6-2     [Workshop Checklist](/sca-handbook/03_committees/03-06-02_edcomm-workshop-checklist.html)
   - 3-6-3     Workshop Evaluation Form (Sample)
-  - 3-6-4     Vice Chair for Online Education
+  - 3-6-4     [Vice Chair for Online Education](/sca-handbook/03_committees/03-06-04_edcomm-online-ed.html)
 - 3-7     [Election Committee](/sca-handbook/03_committees/03-07_election.html)
-  - 3-7-1     Calendar: Election and Nomination Committees
+  - 3-7-1     [Calendar: Election and Nomination Committees](/sca-handbook/03_committees/03-07-01_calendar-election-nomination.html)
   - 3-7-2     SCA Ballot (Sample)
-  - 3-7-2-1     Official Ballot Instructions (Sample)
+  - 3-7-2-1     [Official Ballot Instructions (Sample)](/sca-handbook/03_committees/03-07-02-01_official-ballot-instructions-sample.html)
 - 3-8     [Ethics and Inclusion Committee](/sca-handbook/03_committees/03-08_ethics-and-inclusion.html)
 - 3-9     [Finance and Investment Committee](/sca-handbook/03_committees/03-09_finance-and-investment.html)
-  - 3-9-1     SCA Investment Policy Statement
+  - 3-9-1     [SCA Investment Policy Statement](/sca-handbook/03_committees03-09-01_investment-policy-statement.html)
 - 3-10   [Local Arrangements Committee: Annual General Meeting](/sca-handbook/03_committees/03-10_local-arrangements.html)
   - 3-10-1   AGM Budget/Financial Report Format
   - 3-10-2   Local Arrangements Checklist
