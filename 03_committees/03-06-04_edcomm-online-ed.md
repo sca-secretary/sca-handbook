@@ -25,12 +25,12 @@ The Vice Chair is appointed by the Co-Chairs of the Education Committee and appr
 - Provide Education Committee Co-Chairs with attendance data and feedback. 
    
 3. Coordinate with the Education Committee to manage registration, publicity, and administrative responsibilities related to webinars. 
-   a. Assign registration and publicity responsibilities to Education Committee members. 
-   b. Work with Education Committee Co-Chairs to establish registration fees, attendance caps, and honoraria. 
-   c. Manage communication between Education Committee Co-Chairs, assigned Committee members, and presenters regarding registration, publicity, fees, expenses, and honoraria. 
-   e. Request check or payment from Treasurer for honoraria before webinar.
-   f. Receive reimbursement receipts and forward to Treasurer. 
-   g. Advise Education Committee Co-Chairs on annual budget.
+- Assign registration and publicity responsibilities to Education Committee members. 
+- Work with Education Committee Co-Chairs to establish registration fees, attendance caps, and honoraria. 
+- Manage communication between Education Committee Co-Chairs, assigned Committee members, and presenters regarding registration, publicity, fees, expenses, and honoraria. 
+- Request check or payment from Treasurer for honoraria before webinar.
+- Receive reimbursement receipts and forward to Treasurer. 
+- Advise Education Committee Co-Chairs on annual budget.
 
 ***
 
