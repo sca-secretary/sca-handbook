@@ -57,6 +57,9 @@ d) reduced workload for SCA volunteers that administer programs and activities (
 
 General Fund expenditure decisions should be made in light of available Restricted Funds each year as well. If the Education Fund is healthy and can support increased educational programming or scholarships, it should be used up to the maximum expenditure of principal permitted before the General Fund is applied to educational programs. Similarly, if the Speakers Fund is healthy or depleted, the General Fund may be spared or tapped to support speaker expenses as appropriate.
 
+<sup>1</sup>_If an administrator or clerical assistant is hired, for example, the budget situation will
+change dramatically and the recommended calculations below will not be sufficient._
+
 ***
 
 _Revision history: 6/14 tep, 06/2018 llc_
