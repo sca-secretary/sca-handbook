@@ -75,7 +75,7 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
 - 3-6     [Education Committee](/sca-handbook/03_committees/03-06_education.html)
   - 3-6-1     [Education Committee Workshops](/sca-handbook/03_committees/03-06-01_edcomm-workshops.html)
   - 3-6-2     [Workshop Checklist](/sca-handbook/03_committees/03-06-02_edcomm-workshop-checklist.html)
-  - 3-6-3     Workshop Evaluation Form (Sample)
+  - 3-6-3     [Workshop Evaluation Form (Sample)](/sca-handbook/03_committees/03-06-03_edcomm-workshop-eval.html)
   - 3-6-4     [Vice Chair for Online Education](/sca-handbook/03_committees/03-06-04_vc-online-ed.html)
 - 3-7     [Election Committee](/sca-handbook/03_committees/03-07_election.html)
   - 3-7-1     [Calendar: Election and Nomination Committees](/sca-handbook/03_committees/03-07-01_calendar-election-nomination.html)
