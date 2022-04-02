@@ -15,11 +15,11 @@ Sacramento, CA 95814
 ## General Description and Use
 The address noted above serves as a permanent mailing address for the Society.
 
-The address should be used as the postal return address for the SCA Newsletter, workshop fliers, membership brochures, and other Society publications, brochures, and other mailings.
+The address should be used as the _postal return address_ for the SCA Newsletter, workshop fliers, membership brochures, and other Society publications, brochures, and other mailings.
 
 Membership inquiries and applications (not membership renewals), exchange newsletters, and other general correspondence and communications should be directed to this address. Mail will be sorted and forwarded to the appropriate individuals.
 
-Mail intended for specific officers, Board of Directors members, and committee chairs should continue to be addressed to those individuals, not the permanent mailing address, unless the current office holder or chair is not known.
+Mail intended for specific officers, Board of Directors members, and committee chairs should continue to be addressed to those individuals, _not the permanent mailing address_, unless the current office holder or chair is not known.
 
 Registration for workshops, the Annual General Meeting, and other Society events; newsletter submissions; membership renewal notices, ballots; surveys; and similar mailings should be addressed to the responsible Committee chair or designee, not the permanent mailing address.
 
