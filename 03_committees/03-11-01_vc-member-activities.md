@@ -17,21 +17,13 @@ The Vice Chair for Member Activities is appointed by the Membership Director and
 1. Coordinate communication around member-initiated events with organizers.
 
    a. Receive, review, and forward proposal forms to Board.
-
    b. Communicate approval, budget, and any Board requests to organizer.
-
    c. Assist organizer in finding additional volunteers if requested.
-
    d. Forward organizer’s event announcement and reminders to the official SCA membership email list and to the ECC to be posted to SCA social media forums.
-
    e. Establish any honorarium or other payment details, and request check or payment from Treasurer before event.
-
    f. Receive sign-in sheet from organizer after the event.
-
    g. Receive reimbursement receipts and forward to Treasurer.
-
    h. Send “thanks for attending” and “consider joining SCA” email to attendees after event, on behalf of SCA.
-
    i. Receive brief informal event report from organizer, and forward to Board.
 
 2. Assist Membership Committee in development of new informal regional social networking chapters across California.
