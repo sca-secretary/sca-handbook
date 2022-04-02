@@ -2,7 +2,7 @@
 
 # 5-2 Chronology
 
-(This history is to be updated as information surfaces from SCA archives or other sources.)
+_This history is to be updated as information surfaces from SCA archives or other sources._
 
 ## 1971
 - 7/28 Ad Hoc Steering Committee formed
