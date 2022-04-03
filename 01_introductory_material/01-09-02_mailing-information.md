@@ -1,8 +1,8 @@
-<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 1: Introductory Material](../01_introductory_material/index.html) | [1-9 Administrative Information](../01_introductory_material/01-09_administrative-information.html)</sup> 
+<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 1: Introductory Material](../01_introductory_material/index.html)</sup> 
 
 # 1-9-2 Mailing Information
 
-## Permanent Mailing ADdress
+## Permanent Mailing Address
 
 Society of California Archivists
 
@@ -43,5 +43,4 @@ SCA mailings (e.g. newsletter, workshop announcements, etc.) to foreign destinat
 
 ***
 
-_Revision history: 2/90 nlb, 7/90 nlb, 10/90 nlb, 5/93 bh, 7/95 ppa, 10/05 lo, 6/09 jtm, 01/2018 llc, 02/2018 llc,
-05/2019 llc_
+_Revision history: 2/90 nlb, 7/90 nlb, 10/90 nlb, 5/93 bh, 7/95 ppa, 10/05 lo, 6/09 jtm, 01/2018 llc, 02/2018 llc, 05/2019 llc_
