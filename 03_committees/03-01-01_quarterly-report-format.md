@@ -18,13 +18,13 @@ V. Timeline
 
 VI. Budget
 
-    Proposed/Approved amount
+  Proposed/Approved amount
 
-    Income
+  Income
 
-    Expenses
+  Expenses
 
-    Projections
+  Projections
 
 VII. Summary of Board advice or action requested
 
