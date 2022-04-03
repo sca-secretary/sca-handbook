@@ -24,10 +24,10 @@ Syntax highlighted code block
 
 *** horizontal rule
 
-| **Table** | **Heading** |
-| Row 1     | Column 1    |
-| Row 2     | Column 1    |
-| Row 3     | Column 1    |
+| **Table** | **Heading** | **Another** |
+| Row 1     | Column 1    | Column 2    |
+| Row 2     | Column 1    | Column 2    |
+| Row 3     | Column 1    | Column 2    |
 
 <sup>Superscript text</sup>
 ```
