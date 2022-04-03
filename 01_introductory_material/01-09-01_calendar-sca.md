@@ -1,4 +1,4 @@
-<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 1: Introductory Material](../01_introductory_material/index.html)</sup> 
+<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 1: Introductory Material](../01_introductory_material/index.html) | [1-9 Administrative Information](../01_introductory_material/01-09_admin-info.html)</sup> 
 
 # 1-9-1 Calendar: SCA
 Note: Most of the dates indicated on this calendar are intended as guidelines to the timing of SCA activities. Those events whose timing is governed by the SCA Bylaws are indicated as appropriate.
