@@ -23,13 +23,14 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 
 *** horizontal rule
-```
+
 | **Table** | **Heading** |
 | Row 1     | Column 1    |
 | Row 2     | Column 1    |
 | Row 3     | Column 1    |
 
 <sup>Superscript</sup>
+```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
