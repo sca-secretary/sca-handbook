@@ -1,4 +1,4 @@
-<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 2: Governing Body](../02_governing_body/index.html)</sup> 
+<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 2: Governing Body](../02_governing_body/index.html) | [2-4 Secretary](../02_governing_body/02-04_secretary.html)</sup> 
 
 # 2-4-2 Handbook Review and Update Assignments
 
