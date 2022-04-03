@@ -4,7 +4,7 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
 
 ***
 
-## Part 1: [Introductory Material](/sca-handbook/01_introductory_material/index.html)
+## [Part 1: Introductory Material](/sca-handbook/01_introductory_material/index.html)
 - 1-1     [Handbook Introduction](/sca-handbook/01_introductory_material/01-01_handbook-intro.html)
 - 1-2     [Bylaws](/sca-handbook/01_introductory_material/01-02_bylaws.html)
 - 1-3     [Articles of Incorporation](/sca-handbook/01_introductory_material/01-03_articles-of-incorp.html)
@@ -21,7 +21,7 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
   - 1-9-5     Records Destruction Calendar
   - 1-9-6     [SCA Archives](/sca-handbook/01_introductory_material/01-09-06_sca-archives.html)
 
-## Part 2: [Governing Body ](/sca-handbook/02_governing_body/)
+## [Part 2: Governing Body ](/sca-handbook/02_governing_body/)
 - 2-1     [Board of Directors](/sca-handbook/02_governing_body/02-01_board-of-directors.html)
 - 2-2     [President](/sca-handbook/02_governing_body/02-02_president.html)
   - 2-2-1     [Leadership Seminar](/sca-handbook/02_governing_body/02-02-01_leadership-seminar.html)
@@ -53,7 +53,7 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
   - 2-7-6     Membership Form
 - 2-8     [Directors at Large](/sca-handbook/02_governing_body/02-08_directors-at-large.html)
 
-## Part 3: [Committees](/sca-handbook/03_committees/)
+## [Part 3: Committees](/sca-handbook/03_committees/)
 - 3-1     [Committees](/sca-handbook/03_committees/03-01_committees.html)
   - 3-1-1     [Quarterly Report Format](/sca-handbook/03_committees/03-01-01_quarterly-report-format.html)
 - 3-2     [Advocacy and Public Policy Committee](/sca-handbook/03_committees/03-02_advocacy-and-public-policy.html)
@@ -115,7 +115,7 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
   - 3-15-6   [WAI Sponsor Responsibilities: Society of California Archivists](/sca-handbook/03_committees/03-15-06_wai-sponsor-sca.html)
 - 3-16   [Special Committees and Task Forces](/sca-handbook/03_committees/03-16_special-committees.html)
 
-## Part 4: [External Relations](/sca-handbook/04_external_relations/)
+## [Part 4: External Relations](/sca-handbook/04_external_relations/)
 - 4-1     [External Relations and Affinity Groups](/sca-handbook/04_external_relations/04-01_external-relations-and-affinity-groups.html)
   - 4-1-1     [Affinity Groups](/sca-handbook/04_external_relations/04-01-01_affinity-groups.html)
   - 4-1-2     [Archives Month](/sca-handbook/04_external_relations/04-01-02_archives-month.html)
@@ -123,7 +123,7 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
     - 4-1-3-1     [Archival Award of Excellence](/sca-handbook/04_external_relations/04-01-03-01_archival-award-of-excellence.html)
   - 4-1-4     [Journal of Western Archives](/sca-handbook/04_external_relations/04-01-04_journal-of-western-archives.html)
 
-## Part 5: [History](/sca-handbook/05_history/)
+## [Part 5: History](/sca-handbook/05_history/)
 - 5-1     [The Foundation of SCA](/sca-handbook/05_history/05-01_foundation-of-sca.html)
 - 5-2     [Chronology](/sca-handbook/05_history/05-02_chronology.html)
 - 5-3     [Annual General Meeting (AGM) History](/sca-handbook/05_history/05-03_agm-history.html)
