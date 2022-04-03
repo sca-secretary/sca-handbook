@@ -1,4 +1,4 @@
-<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 1: Introductory Material](../01_introductory_material/index.html)</sup> 
+<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 1: Introductory Material](../01_introductory_material/index.html) | [1-9 Administrative Information](../01_introductory_material/01-09_admin-info.html)</sup> 
 
 # 1-9-6 SCA Archives
 
