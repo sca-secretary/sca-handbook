@@ -58,6 +58,12 @@ h2 {
   padding-top: 12px; 
   text-decoration: underline;
 
+  a:link {
+  text-decoration: underline;
+  }
+  a:hover{
+      text-decoration: none;
+  }
 }
 
 h3 {
