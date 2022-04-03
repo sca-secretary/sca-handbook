@@ -1,4 +1,4 @@
-<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 2: Governing Body](../02_governing_body/index.html) | [2-2 President](../02_governing_body/02-02_president.html)</sup> 
+<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 2: Governing Body](../02_governing_body/index.html)</sup> 
 
 # 2-2-1-1 Leadership Seminar Agenda
   
@@ -35,10 +35,8 @@ Location: St Claire Hotel, San Jose (AGM)
 ### Committees
 - Are mostly volunteer with chairs and members remaining as long their interest takes them, a few variations
   - LAC is just for the year
-  - Nominating Committee is elected (Immediate Past President is chair and then two members elected in alternate years so there is always an old hand
-and a new one)
-  -Awards Committee members are appointed by President rather than
-volunteers
+  - Nominating Committee is elected (Immediate Past President is chair and then two members elected in alternate years so there is always an old hand and a new one)
+  - Awards Committee members are appointed by President rather than volunteers
 - Some committees have a Northern and Southern co-chair, but the committee is one committee
 
 ### Orientation to SCA business
@@ -61,5 +59,8 @@ to reach a certain length. If there are issues, you should be communicating with
   - The official SCA mailing address is at the State Archives in Sacramento, let the person in charge of the mailbox know your preferred address for mail forwarding
   - SCA has 2 retractable banners for use at meetings and outreach, the Outreach and Publicity chair(s) usually keep them
 
+  If a new chair, what questions do you have? If an experienced chair, what wisdom to impart?
   
-If a new chair, what questions do you have? If an experienced chair, what wisdom to impart?
+  ***
+  
+  _Revision history: no information available_
