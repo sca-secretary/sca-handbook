@@ -2,13 +2,13 @@
 
 The SCA Handbook is intended to be a practical tool outlining the major duties of the officers, Board of Directors, and committees. It provides an up-to-date reference on the Corporation's structure, aims, policies, and procedures.
 
-
 ```markdown
 Syntax highlighted code block
 
 # Header 1
 ## Header 2
 ### Header 3
+#### Header 4
 
 - Bulleted
 - List
@@ -24,6 +24,12 @@ Syntax highlighted code block
 
 *** horizontal rule
 ```
+| **Table** | **Heading** |
+| Row 1     | Column 1    |
+| Row 2     | Column 1    |
+| Row 3     | Column 1    |
+
+<sup>Superscript</sup>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
