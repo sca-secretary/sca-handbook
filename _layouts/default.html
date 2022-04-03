@@ -55,10 +55,10 @@
           <p><a href="/sca-handbook/#contact">Contact</a></p>
       </nav>
       <section>
-        {% if page.directory == 01_introductory_material %}
+        {% if page.github.directory == 01_introductory_material %}
           <sup><a href="/sca-handbook/">SCA Handbook</a> | <a href="/sca-handbook/01_introductory_material/">Part 1: Introductory Material</a></sup> 
           {% endif %}
-        {% if site.github.directory == 02_governing_body %}
+        {% if site.directory == 02_governing_body %}
           <sup><a href="/sca-handbook/">SCA Handbook</a> | <a href="/sca-handbook/02_governing_body/">Part 2: Governing Body</a></sup> 
           {% endif %}
         {{ content }}
