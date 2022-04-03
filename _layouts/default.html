@@ -56,8 +56,11 @@
       </nav>
       <section>
         {% if directory == 01_introductory_material %}
-        <sup><a href="/sca-handbook/">SCA Handbook</a> | <a href="/sca-handbook/01_introductory_material/">Part 1: Introductory Material</a></sup> 
-         {% endif %}
+          <sup><a href="/sca-handbook/">SCA Handbook</a> | <a href="/sca-handbook/01_introductory_material/">Part 1: Introductory Material</a></sup> 
+          {% endif %}
+        {% if directory == 02_governing_body %}
+          <sup><a href="/sca-handbook/">SCA Handbook</a> | <a href="/sca-handbook/02_governing_body/">Part 2: Governing Body</a></sup> 
+          {% endif %}
         {{ content }}
       </section>
       <footer>
