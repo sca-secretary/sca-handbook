@@ -29,7 +29,7 @@ Syntax highlighted code block
 | Row 2     | Column 1    |
 | Row 3     | Column 1    |
 
-<sup>Superscript</sup>
+<sup>Superscript text</sup>
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
