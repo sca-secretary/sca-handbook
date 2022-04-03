@@ -1,4 +1,4 @@
-<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 1: Introductory Material](../01_introductory_material/index.html)</sup> 
+<sup>[SCA Handbook](/sca-handbook/) | [Part 1: Introductory Material](../01_introductory_material/)</sup> 
 
 # 1-2 Bylaws
 
