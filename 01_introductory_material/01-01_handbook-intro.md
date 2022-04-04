@@ -1,4 +1,9 @@
-<sup>[SCA Handbook](/sca-handbook/) | [Part 1: Introductory Material](../01_introductory_material/)</sup> 
+---
+page.title: 1-1 Handbook Introduction
+breadcrumb_page.url: /01_introductory_material/
+breadcrumb_page.title: Part 1: Introductory Material
+
+---
 
 # 1-1 Handbook Introduction
 
