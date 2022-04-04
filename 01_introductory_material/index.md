@@ -1,9 +1,3 @@
----
-title: Part 1: Introductory Material
-breadcrumb: Part 1: Introductory Material
-
----
-
 # Part 1: Introductory Material
 - 1-1     [Handbook Introduction](/sca-handbook/01_introductory_material/01-01_handbook-intro.html)
 - 1-2     [Bylaws](/sca-handbook/01_introductory_material/01-02_bylaws.html)
