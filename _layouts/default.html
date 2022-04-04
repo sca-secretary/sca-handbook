@@ -55,13 +55,15 @@
           <p><a href="/sca-handbook/#contact">Contact</a></p>
       </nav>
       <section>
-        <!-- {% if folder.github.is.01_introductory_material %}
-          <sup><a href="/sca-handbook/">SCA Handbook</a> | <a href="/sca-handbook/01_introductory_material/">Part 1: Introductory Material</a></sup> 
+        <p class="breadcrumb">
+         {% if breadcrumb_page.url == /01_introductory_material/ %}
+          <a href="/sca-handbook/">SCA Handbook</a> | <a href="/sca-handbook/01_introductory_material/">Part 1: Introductory Material</a>
           {% endif %}
-        {% if directory.github == 02_governing_body %}
-          <sup><a href="/sca-handbook/">SCA Handbook</a> | <a href="/sca-handbook/02_governing_body/">Part 2: Governing Body</a></sup> 
-          {% endif %} -->
-        
+        {% if breadcrumb_page.url == /02_governing_body/ %}
+          <a href="/sca-handbook/">SCA Handbook</a> | <a href="/sca-handbook/02_governing_body/">Part 2: Governing Body</a>
+          {% endif %}
+        </p>
+        <!--
             <ol class="breadcrumb">
     <li><a href="{{ site.baseurl }}">{{ site.short_title }}</a></li>
     {% capture page_url_without_index_html %}{{ page.url | remove: "/index.html" }}{% endcapture %}
@@ -83,6 +85,7 @@
         {% endfor %}
     {% endfor %}
     </ol>
+-->
          
         {{ content }}
       </section>
