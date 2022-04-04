@@ -20,7 +20,6 @@ body {
 .breadcrumb {
   float:left;
   padding-top:8px; 
-  padding-bottom:24px; 
   list-style-type: none;
 /*  border-radius: 4px;*/
 }
@@ -28,7 +27,7 @@ body {
   display: inline-block;
 }
 .breadcrumb > li + li:before {
-  padding: 0 5px;
+  padding: 0 20px;
 }
 
 .breadcrumb { border: 0px;  display: block;}
