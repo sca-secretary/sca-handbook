@@ -1,5 +1,5 @@
 # Directory settings
 
-title: Part 1: Introductory Material
-baseurl: "/01_introductory_material/"
+directory.title: Part 1: Introductory Material
+directory.baseurl: "/01_introductory_material/"
 breadcrumb: Part 1: Introductory Material
