@@ -20,7 +20,7 @@ body {
 .breadcrumb {
   float:left;
   padding-top:16px;
-  list-style: none;
+  list-style-type: none;
   border-radius: 4px;
 }
 .breadcrumb > li {
@@ -31,11 +31,13 @@ body {
 }
 
 .breadcrumb { border: 0px;  display: block;}
-.breadcrumb li {font-size: 14px;}
+.breadcrumb li {font-size: 10px;}
+/*
 .breadcrumb a {color: $brand-color;}
 .breadcrumb a:hover {color: darken($brand-color, 20%);}
 .breadcrumb>.active a {color: #555555; }
 .breadcrumb>li+li:before {color:$brand-color; content: "\003E\00a0";}
+*/
 
 h1, h2, h3, h4, h5, h6 {
   color:#333;
