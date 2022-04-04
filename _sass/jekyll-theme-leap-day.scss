@@ -38,8 +38,8 @@ body {
 .breadcrumb a {color: $brand-color;}
 .breadcrumb a:hover {color: darken($brand-color, 20%);}
 .breadcrumb>.active a {color: #555555; }
-*/
 .breadcrumb>li+li:before {color:$brand-color; content: "\003E\00a0";}
+*/
 
 h1, h2, h3, h4, h5, h6 {
   color:#333;
