@@ -1,7 +1,7 @@
 ---
 page.title: 1-1 Handbook Introduction
-breadcrumb_page.url: /01_introductory_material/
-breadcrumb_page.title: Part 1: Introductory Material
+breadcrumb.url: /01_introductory_material/
+breadcrumb.title: Part 1: Introductory Material
 
 ---
 
