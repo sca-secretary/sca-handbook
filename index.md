@@ -2,6 +2,7 @@
 layout: page
 title: SCA Handbook
 breadcrumb: SCA Handbook
+
 ---
 
 # Handbook, Bylaws, and Policies
