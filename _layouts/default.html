@@ -57,10 +57,7 @@
       <section>
         <ol class="breadcrumb">
          {% if breadcrumb_page.url == /01_introductory_material/ %}
-          <li><a href=" {{ site.baseurl }} ">{{ site.short_title }}</a> | <a href=" {{ breadcrumb_page.url }} ">Part 1: Introductory Material</a></li>
-          {% endif %}
-        {% if breadcrumb_page.url == /02_governing_body/ %}
-          <li><a href="/sca-handbook/">SCA Handbook</a> | <a href="/sca-handbook/02_governing_body/">Part 2: Governing Body</a></li>
+          <li><a href=" {{ site.baseurl }} ">{{ site.short_title }}</a> | <a href=" {{ breadcrumb_page.url }} ">{{ breadcrumb_page.title }}</a></li>
           {% endif %}
         </ol>
         <!--
