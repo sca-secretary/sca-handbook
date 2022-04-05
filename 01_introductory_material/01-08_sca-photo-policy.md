@@ -1,4 +1,9 @@
-<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 1: Introductory Material](../01_introductory_material/index.html)</sup> 
+---
+title: 1-8 SCA Photography Policy
+breadcrumb_baseurl: /sca-handbook/01_introductory_material/
+breadcrumb_label: Part 1: Introductory Material
+
+---
 
 # 1-8 SCA Photography Policy
 
