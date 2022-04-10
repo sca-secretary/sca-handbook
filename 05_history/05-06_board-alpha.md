@@ -1,4 +1,7 @@
-<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 5: History](../05_history/index.html)</sup> 
+---
+title: 5-6 Board of Directors: Alphabetical List
+
+---
 
 # 5-6 Board of Directors: Alphabetical List
 
