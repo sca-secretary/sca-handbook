@@ -1,5 +1,5 @@
 ---
-title: 2.5.10 Cancellation and Refund Policy
+title: 2-5-10 Cancellation and Refund Policy
 
 ---
 
