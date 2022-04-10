@@ -77,7 +77,7 @@
         </ol>
 -->
           <breadcrumb>
-         <sup>
+         <p>
           {% if page.url == page.dir %}
               <a href=" {{ site.baseurl }} ">{{ site.short_title }}</a> / {{ page.title }}
           {% else %} <!-- page.dir == "/01_introductory_material/" %} -->
@@ -85,7 +85,7 @@
         {% else %}
               <a href=" {{ site.baseurl }} ">{{ site.short_title }}</a> / <a href=" {{ site.baseurl }}{{ page.dir }} ">Section Contents</a> / {{ page.title }}
  -->  {% endif %}
-        </sup>
+        </p>
         </breadcrumb>
 <!--
             <ol class="breadcrumb">
