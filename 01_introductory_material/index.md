@@ -17,4 +17,4 @@
 
 
 
-{{ site.html_pages }}
+{{ dir.html_pages }}
