@@ -1,4 +1,7 @@
-<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 3: Committees](../03_committees/index.html) | [3-1 Committees](../03_committees/03-01_committees.html) </sup> 
+---
+title: 3-1-1 Quarterly Report Format
+
+---
 
 ## 3-1-1 Quarterly Report Format
 
