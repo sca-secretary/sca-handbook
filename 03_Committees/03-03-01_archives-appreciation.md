@@ -1,4 +1,7 @@
-<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 3: Committees](../03_committees/index.html) | [3-3 Awards Committee](../03_committees/03-03_awards.html)</sup> 
+---
+title: 3-3-1 Archives Appreciation Award
+
+---
 
 # 3-3-1 Archives Appreciation Award
 
