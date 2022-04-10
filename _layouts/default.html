@@ -76,15 +76,15 @@
           {% endif %}
         </ol>
 -->
-         <ol class="breadcrumb">
+         <sup class="breadcrumb">
           {% if page.url == page.dir %}
-              <li><a href=" {{ site.baseurl }} ">{{ site.short_title }}</a> / {{ page.title }}</li>
+              <a href=" {{ site.baseurl }} ">{{ site.short_title }}</a> / {{ page.title }}
           {% elif page.dir == /01_introductory_material/ %}
-              <li><a href=" {{ site.baseurl }} ">{{ site.short_title }}</a> / <a href=" {{ site.baseurl }}{{ page.dir }} ">Part 1</a> / {{ page.title }}</li> 
+              <a href=" {{ site.baseurl }} ">{{ site.short_title }}</a> / <a href=" {{ site.baseurl }}{{ page.dir }} ">Part 1</a> / {{ page.title }} 
         {% else %}
-              <li><a href=" {{ site.baseurl }} ">{{ site.short_title }}</a> / <a href=" {{ site.baseurl }}{{ page.dir }} ">Section List</a> / {{ page.title }}</li> 
+              <a href=" {{ site.baseurl }} ">{{ site.short_title }}</a> / <a href=" {{ site.baseurl }}{{ page.dir }} ">Section List</a> / {{ page.title }}
    {% endif %}
-        </ol>
+        </sup>
 
 <!--
             <ol class="breadcrumb">
