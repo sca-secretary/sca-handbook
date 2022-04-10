@@ -57,28 +57,23 @@
           <p><a href="/sca-handbook/#contact">Contact</a></p>
       </nav>
       <section>
-<!--        
+<!-- cleanest     
      <ol class="breadcrumb">
            <li><a href=" {{ site.baseurl }} ">{{ site.short_title }}</a> / {{ page.title }}</li> 
         </ol>
--->
-        <ol class="breadcrumb">
+--> 
+<!-- want to fix
+     <ol class="breadcrumb">
           <li><a href=" {{ site.baseurl }} ">{{ site.short_title }}</a> / <a href=" {{ site.baseurl }}{{ page.dir }} "> Handbook Section </a> / {{ page.title }}</li> 
         </ol>
-        
-        
-<!--   
-            <ol class="breadcrumb">
-           <li><a href=" {{ site.baseurl }} ">{{ site.short_title }}</a> / <a href=" {{ page.baseurl | remove: {{ page.url }} ">Section</a> / {{ page.title }}</li> 
-        </ol>
--->
-<!--            
+-->    
+                 
         <ol class="breadcrumb">
-         {% if page.baseurl == /sca-handbook/01_introductory_material/ %}
-          <li><a href=" {{ site.baseurl }} ">{{ site.short_title }}</a> / <a href=" {{ page.baseurl }} ">{{ page.label }}</a> / {{ page.title }}</li>
+         {% if page.url == ../index.html %}
+          <li><a href=" {{ site.baseurl }} ">{{ site.short_title }}</a> / {{ page.title }}</li>
           {% endif %}
         </ol>
--->
+        
 <!--
             <ol class="breadcrumb">
     <li><a href="{{ site.baseurl }}">{{ site.short_title }}</a></li>
