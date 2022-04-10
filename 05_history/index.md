@@ -1,5 +1,3 @@
-<sup>[SCA Handbook](/sca-handbook/index.html)</sup>
-
 # Part 5:  History
 - 5-1     [The Foundation of SCA](/sca-handbook/05_history/05-01_foundation-of-sca.html)
 - 5-2     [Chronology](/sca-handbook/05_history/05-02_chronology.html)
