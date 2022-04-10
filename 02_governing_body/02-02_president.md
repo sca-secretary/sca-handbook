@@ -1,5 +1,5 @@
 ---
-title: 2.2 President
+title: 2-2 President
 
 ---
 
