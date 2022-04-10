@@ -1,4 +1,7 @@
-<sup>[SCA Handbook](/sca-handbook/) | [Part 1: Introductory Material](../01_introductory_material/)</sup> 
+---
+title: 1.5 SCA Core Values
+
+---
 
 # 1-5 SCA Core Values
 
