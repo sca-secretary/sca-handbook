@@ -1,5 +1,5 @@
 ---
-title: 1.5 SCA Core Values
+title: 1-5 SCA Core Values
 
 ---
 
