@@ -1,4 +1,7 @@
-<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 3: Committees](../03_committees/index.html) | [3-15 Western Archives institute](../03_committees/03-15_wai.html)</sup> 
+---
+title: 3-15-5 WAI Sponsor Responsibilities: California State Archives
+
+---
 
 # 3-15-5 WAI Sponsor Responsibilities: California State Archives
 
