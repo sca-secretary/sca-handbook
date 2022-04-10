@@ -1,4 +1,7 @@
-<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 5: History](../05_history/index.html)</sup> 
+---
+title: 5-8 Special Committees and Task Forces History
+
+---
 
 # 5-8 Special Committees and Task Forces History
 
