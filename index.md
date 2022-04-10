@@ -4,19 +4,19 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
 
 ***
 
-## [Part 1: Introductory Material]({{ site.baseurl }}/01_Introductory_Material/)
-- 1-1     [Handbook Introduction]({{ site.baseurl }}/01_Introductory_Material/01-01_handbook-intro.html)
-- 1-2     [Bylaws]({{ site.baseurl }}/01_Introductory_Material/01-02_bylaws.html)
-- 1-3     [Articles of Incorporation]({{ site.baseurl }}/01_Introductory_Material/01-03_articles-of-incorp.html)
-- 1-4     [SCA Mission Statement]({{ site.baseurl }}/01_Introductory_Material/01-04_sca-mission-statement.html)
-- 1-5     [SCA Core Values]({{ site.baseurl }}/01_Introductory_Material/01-05_sca-core-values.html)
-- 1-6     [SCA Code of Conduct]({{ site.baseurl }}/01_Introductory_Material/01-06_sca-code-of-conduct.html)
-- 1-7     [SCA Privacy Policy]({{ site.baseurl }}/01_Introductory_Material/01-07_sca-privacy-policy.html)
-- 1-8     [SCA Photography Policy]({{ site.baseurl }}/01_Introductory_Material/01-08_sca-photo-policy.html)
-- 1-9     [Administrative Information]({{ site.baseurl }}/01_Introductory_Material/01-09_admin-info.html)
-  - 1-9-1     [Calendar: SCA]({{ site.baseurl }}/01_Introductory_Material/01-09-01_calendar-sca.html)
-  - 1-9-2     [Mailing Information]({{ site.baseurl }}/01_Introductory_Material/01-09-02_mailing-info.html)
-  - 1-9-3     [SCA Identity Guidelines]({{ site.baseurl }}/01_Introductory_Material/01-09-03_identity-guide.html)
+## [Part 1: Introductory Material]({{ site.baseurl }}/Part_1_Introductory_Material/)
+- 1-1     [Handbook Introduction]({{ site.baseurl }}/Part_1_Introductory_Material/01-01_handbook-intro.html)
+- 1-2     [Bylaws]({{ site.baseurl }}/Part_1_Introductory_Material/01-02_bylaws.html)
+- 1-3     [Articles of Incorporation]({{ site.baseurl }}/Part_1_Introductory_Material/01-03_articles-of-incorp.html)
+- 1-4     [SCA Mission Statement]({{ site.baseurl }}/Part_1_Introductory_Material/01-04_sca-mission-statement.html)
+- 1-5     [SCA Core Values]({{ site.baseurl }}/Part_1_Introductory_Material/01-05_sca-core-values.html)
+- 1-6     [SCA Code of Conduct]({{ site.baseurl }}/Part_1_Introductory_Material/01-06_sca-code-of-conduct.html)
+- 1-7     [SCA Privacy Policy]({{ site.baseurl }}/Part_1_Introductory_Material/01-07_sca-privacy-policy.html)
+- 1-8     [SCA Photography Policy]({{ site.baseurl }}/Part_1_Introductory_Material/01-08_sca-photo-policy.html)
+- 1-9     [Administrative Information]({{ site.baseurl }}/Part_1_Introductory_Material/01-09_admin-info.html)
+  - 1-9-1     [Calendar: SCA]({{ site.baseurl }}/Part_1_Introductory_Material/01-09-01_calendar-sca.html)
+  - 1-9-2     [Mailing Information]({{ site.baseurl }}/Part_1_Introductory_Material/01-09-02_mailing-info.html)
+  - 1-9-3     [SCA Identity Guidelines]({{ site.baseurl }}/Part_1_Introductory_Material/01-09-03_identity-guide.html)
   - 1-9-4     Records Retention Schedule
   - 1-9-5     Records Destruction Calendar
   - 1-9-6     [SCA Archives]({{ site.baseurl }}/01_Introductory_Material/01-09-06_sca-archives.html)
