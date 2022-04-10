@@ -53,20 +53,11 @@
           <p><a href="{{ site.baseurl }}/03_Committees/">Part 3: Committees</a></p>
           <p><a href="{{ site.baseurl }}/04_External_Relations/">Part 4: External Relations</a></p>
           <p><a href="{{ site.baseurl }}/05_History/">Part 5: History</a></p>
-          <p><a href="/sca-handbook/#about">About</a></p>
-          <p><a href="/sca-handbook/#contact">Contact</a></p>
+          <p><a href="{{ site.baseurl }}/#about">About</a></p>
+          <p><a href="{{ site.baseurl }}/#contact">Contact</a></p>
       </nav>
+      
       <section>
-<!-- breadcrumb option A 
-     <ol class="breadcrumb">
-           <li><a href=" {{ site.baseurl }} ">{{ site.short_title }}</a> / {{ page.title }}</li> 
-        </ol>
---> 
-<!-- breadcrumb option B
-     <ol class="breadcrumb">
-          <li><a href=" {{ site.baseurl }} ">{{ site.short_title }}</a> / <a href=" {{ site.baseurl }}{{ page.dir }} ">{{ page.dir }}</a> / {{ page.title }}</li> 
-        </ol>
--->    
 
         <ol class="breadcrumb">
           {% if page.url == page.dir %}
@@ -76,41 +67,6 @@
           {% endif %}
         </ol>
 
-
-<!--         <sup>
-          {% if page.url == page.dir %}
-              <a href=" {{ site.baseurl }} ">{{ site.short_title }}</a> > {{ page.title }}
-          {% else %} <!-- page.dir == "/01_introductory_material/" %} -->
-<!--              <a href=" {{ site.baseurl }} ">{{ site.short_title }}</a> > <a href=" {{ site.baseurl }}{{ page.dir }} ">{{ page.dir }}</a> > {{ page.title }} 
-      {% else %}
-              <a href=" {{ site.baseurl }} ">{{ site.short_title }}</a> > <a href=" {{ site.baseurl }}{{ page.dir }} ">Section Contents</a> > {{ page.title }}
-  {% endif %}
-        </sup>
-       -->
-
-<!--
-            <ol class="breadcrumb">
-    <li><a href="{{ site.baseurl }}">{{ site.short_title }}</a></li>
-    {% capture page_url_without_index_html %}{{ page.url | remove: "/index.html" }}{% endcapture %}
-    {% assign splitted_url_parts = page_url_without_index_html | split: '/' %}
-    {% capture forLoopMaxInt %}{{ splitted_url_parts.size | minus:1 }}{% endcapture %}
-    {% for i in (1..forLoopMaxInt) %}
-        {% capture current_breadcrumb_url %}{{next_prepender}}/{{ splitted_url_parts[i] }}/index.html{% endcapture %}
-        {% capture current_breadcrumb_md_url %}{{next_prepender}}/{{ splitted_url_parts[i] }}/{% endcapture %}
-        {% capture next_prepender %}{{next_prepender}}/{{ splitted_url_parts[i] }}{% endcapture %} 
-        {% for breadcrumb_page in site.pages %}
-            {% if current_breadcrumb_url == breadcrumb_page.url or
-                  current_breadcrumb_md_url == breadcrumb_page.url %}
-                {% capture breadcrumb_page_page_url_without_index_html %}{{ breadcrumb_page.url | remove: "index.html" }}{% endcapture %}
-                    {% assign j = forLoopMaxInt | plus: 0 %}
-                    <li {% if i == j %}class="active"{% endif %}>
-                    <a href="{{ site.baseurl }}{{breadcrumb_page_page_url_without_index_html}}">{{breadcrumb_page.breadcrumb}}</a>
-                </li>
-            {% endif %}
-        {% endfor %}
-    {% endfor %}
-    </ol>
--->
          
         {{ content }}
       </section>
