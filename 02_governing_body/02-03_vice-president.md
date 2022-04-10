@@ -1,5 +1,5 @@
 ---
-title: 2.3 Vice President
+title: 2-3 Vice President
 
 ---
 
