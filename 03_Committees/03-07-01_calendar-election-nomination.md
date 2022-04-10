@@ -1,4 +1,7 @@
-<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 3: Committees](../03_committees/index.html) | [3-7 Election Committee](../03_committees/03-07_election.html)</sup> 
+---
+title: 3-7-1 Calendar: Election and Nomination Committees
+
+---
 
 # 3-7-1 Calendar: Election and Nomination Committees
 
