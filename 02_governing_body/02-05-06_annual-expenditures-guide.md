@@ -1,5 +1,5 @@
 ---
-title: 2.5.6 Guidelines for Annual Expenditures from the SCA General Fund
+title: 2-5-6 Guidelines for Annual Expenditures from the SCA General Fund
 
 ---
 
