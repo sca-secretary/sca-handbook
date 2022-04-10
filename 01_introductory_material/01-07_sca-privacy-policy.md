@@ -1,5 +1,5 @@
 ---
-title: 1.7 SCA Privacy Policy
+title: 1-7 SCA Privacy Policy
 
 ---
 
