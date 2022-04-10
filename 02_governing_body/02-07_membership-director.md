@@ -1,5 +1,5 @@
 ---
-title: 2.7 Membership Director
+title: 2-7 Membership Director
 
 ---
 
