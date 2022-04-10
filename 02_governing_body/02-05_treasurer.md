@@ -1,5 +1,5 @@
 ---
-title: 2.5 Treasurer
+title: 2-5 Treasurer
 
 ---
 
