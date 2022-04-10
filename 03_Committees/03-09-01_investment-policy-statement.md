@@ -1,4 +1,7 @@
-<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 3: Committees](../03_committees/index.html) | [3-9 Finance and Investment Committee](../03_committees/index.html)</sup> 
+---
+title: 3-9-1 SCA Investment Policy Statement
+
+---
 
 # 3-9-1 SCA Investment Policy Statement
 
