@@ -1,4 +1,7 @@
-<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 3: Committees](../03_committees/index.html)</sup> 
+---
+title: 3-14 Publications Committee
+
+---
 
 # 3-14 Publications Committee
 
