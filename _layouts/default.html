@@ -30,7 +30,9 @@
       <div id="banner">
         <span id="logo"></span>
 <a href="https://calarchivists.org" class="button fork" target="_blank"><strong>Society of California Archivists</strong></a>
-        <!--        <a href="{{ site.github.repository_url }}" class="button fork"><strong>View On GitHub</strong></a>
+        
+<!--
+        <a href="{{ site.github.repository_url }}" class="button fork"><strong>View On GitHub</strong></a>
         {% if site.show_downloads %}
           <div class="downloads">
             <span>Downloads:</span>
@@ -55,28 +57,29 @@
           <p><a href="/sca-handbook/#contact">Contact</a></p>
       </nav>
       <section>
-        
+<!--        
      <ol class="breadcrumb">
            <li><a href=" {{ site.baseurl }} ">{{ site.short_title }}</a> / {{ page.title }}</li> 
         </ol>
-
+-->
         <ol class="breadcrumb">
-          <li><a href=" {{ site.baseurl }} ">{{ site.short_title }}</a> / <a href= {{ page.sub }}"> {{ page.label }} </a> / {{ page.title }}</li> 
+          <li><a href=" {{ site.baseurl }} ">{{ site.short_title }}</a> / <a href=" {{ page.sub }} "> {{ page.label }} </a> / {{ page.title }}</li> 
         </ol>
         
         
-        <!--     <ol class="breadcrumb">
+<!--   
+            <ol class="breadcrumb">
            <li><a href=" {{ site.baseurl }} ">{{ site.short_title }}</a> / <a href=" {{ page.baseurl | remove: {{ page.url }} ">Section</a> / {{ page.title }}</li> 
         </ol>
 -->
-        <!--
+<!--            
         <ol class="breadcrumb">
          {% if page.baseurl == /sca-handbook/01_introductory_material/ %}
           <li><a href=" {{ site.baseurl }} ">{{ site.short_title }}</a> / <a href=" {{ page.baseurl }} ">{{ page.label }}</a> / {{ page.title }}</li>
           {% endif %}
         </ol>
 -->
-        <!--
+<!--
             <ol class="breadcrumb">
     <li><a href="{{ site.baseurl }}">{{ site.short_title }}</a></li>
     {% capture page_url_without_index_html %}{{ page.url | remove: "/index.html" }}{% endcapture %}
