@@ -55,12 +55,17 @@
           <p><a href="/sca-handbook/#contact">Contact</a></p>
       </nav>
       <section>
-
+        
+     <ol class="breadcrumb">
+           <li><a href=" {{ site.baseurl }} ">{{ site.short_title }}</a> / {{ page.title }}</li> 
+        </ol>
+<!--
         <ol class="breadcrumb">
           <li><a href=" {{ site.baseurl}} ">{{ site.short_title }}</a> / <a href="/index.html"> section </a> / {{ page.title }}</li> 
         </ol>
+        -->
         
-   <!--     <ol class="breadcrumb">
+        <!--     <ol class="breadcrumb">
            <li><a href=" {{ site.baseurl }} ">{{ site.short_title }}</a> / <a href=" {{ page.baseurl | remove: {{ page.url }} ">Section</a> / {{ page.title }}</li> 
         </ol>
 -->
