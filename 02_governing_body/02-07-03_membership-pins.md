@@ -1,5 +1,5 @@
 ---
-title: 2.7.3 Membership Pins
+title: 2-7-3 Membership Pins
 
 ---
 
