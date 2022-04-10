@@ -1,5 +1,5 @@
 ---
-title: 1.4 SCA Mission Statement
+title: 1-4 SCA Mission Statement
 
 ---
 
