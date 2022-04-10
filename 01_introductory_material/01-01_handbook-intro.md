@@ -1,7 +1,7 @@
 ---
 title: 1-1 Handbook Introduction
-breadcrumb_baseurl: /sca-handbook/01_introductory_material/
-breadcrumb_label: Part 1: Introductory Material
+sub: /sca-handbook/01_introductory_material
+label: Part 1: Introductory Material
 
 ---
 
