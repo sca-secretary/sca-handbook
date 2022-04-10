@@ -1,4 +1,7 @@
-<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 3: Committees](../03_committees/index.html) | [3-12 Nominating Committee](../03_committees/03-12_nominating.html)</sup> 
+---
+title: 3-12-2 Candidate Statement
+
+---
 
 # 3-12-2 Candidate Statement
 
