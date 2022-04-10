@@ -1,7 +1,5 @@
 ---
 title: 1-8 SCA Photography Policy
-baseurl: /sca-handbook/01_introductory_material/
-label: Part 1: Introductory Material
 
 ---
 
