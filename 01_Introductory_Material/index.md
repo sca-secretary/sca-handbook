@@ -1,5 +1,5 @@
 # Part 1: Introductory Material
-- 1-1     [Handbook Introduction](/sca-handbook/01_introductory_material/01-01_handbook-intro.html)
+- 1-1     [Handbook Introduction]({{ site.baseurl }}{{ page.dir }}/01-01_handbook-intro.html)
 - 1-2     [Bylaws](/sca-handbook/01_introductory_material/01-02_bylaws.html)
 - 1-3     [Articles of Incorporation](/sca-handbook/01_introductory_material/01-03_articles-of-incorp.html)
 - 1-4     [SCA Mission Statement](/sca-handbook/01_introductory_material/01-04_sca-mission-statement.html)
