@@ -1,5 +1,5 @@
 ---
-title: 2.7.1 Calendar: Membership
+title: 2-7-1 Calendar: Membership
 
 ---
 
