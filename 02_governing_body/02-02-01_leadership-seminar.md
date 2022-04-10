@@ -1,4 +1,7 @@
-<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 2: Governing Body](../02_governing_body/index.html) | [2-2 President](../02_governing_body/02-02_president.html)</sup> 
+---
+title: 2.2.1 Leadership Seminar
+
+---
 
 # 2-2-1 Leadership Seminar
 
