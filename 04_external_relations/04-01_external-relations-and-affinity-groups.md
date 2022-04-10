@@ -1,4 +1,7 @@
-<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 4: External Relations](../04_external_relations/index.html)</sup> 
+---
+title: 4-1 External Relations and Affinity Groups
+
+---
 
 # 4-1 External Relations and Affinity Groups
 
