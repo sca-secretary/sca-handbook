@@ -1,4 +1,7 @@
-<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 4: External Relations](../04_external_relations/index.html)</sup> 
+---
+title: 4-1-4 Journal of Western Archives
+
+---
 
 # 4-1-4 Journal of Western Archives
 
