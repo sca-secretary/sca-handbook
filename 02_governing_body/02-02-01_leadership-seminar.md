@@ -1,5 +1,5 @@
 ---
-title: 2.2.1 Leadership Seminar
+title: 2-2-1 Leadership Seminar
 
 ---
 
