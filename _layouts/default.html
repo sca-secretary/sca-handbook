@@ -72,7 +72,7 @@
           {% if page.url == page.dir %}
               <li><a href=" {{ site.baseurl }} ">{{ site.short_title }}</a> / {{ page.title }}</li>
           {% else %}
-              <li><a href=" {{ site.baseurl }} ">{{ site.short_title }}</a> / <a href=" {{ site.baseurl }}{{ page.dir }} "> {{ dir.title }} </a> / {{ page.title }}</li> 
+              <li><a href=" {{ site.baseurl }} ">{{ site.short_title }}</a> / <a href=" {{ site.baseurl }}{{ page.dir }} "> {{ page.dir_label }} </a> / {{ page.title }}</li> 
           {% endif %}
         </ol>
         
