@@ -5,4 +5,4 @@ theme: jekyll-theme-leap-day
 title: Handbook of the Society of California Archivists
 short_title: SCA Handbook
 description: Handbook, Bylaws, and Policies
-baseurl: "/sca-handbook/"
+baseurl: "/sca-handbook"
