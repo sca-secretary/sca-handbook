@@ -1,5 +1,5 @@
 ---
-title: 2.8 Directors at Large
+title: 2-8 Directors at Large
 
 ---
 
