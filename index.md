@@ -123,7 +123,7 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
     - 4-1-3-1     [Archival Award of Excellence]({{ site.baseurl }}/04_External_Relations/04-01-03-01_archival-award-of-excellence.html)
   - 4-1-4     [Journal of Western Archives]({{ site.baseurl }}/04_External_Relations/04-01-04_journal-of-western-archives.html)
 
-## [Part 5: History]({{ site.baseurl }}/05_History)
+## [Part 5: History]({{ site.baseurl }}/05_History/)
 - 5-1     [The Foundation of SCA]({{ site.baseurl }}/05_History/05-01_foundation-of-sca.html)
 - 5-2     [Chronology]({{ site.baseurl }}/05_History/05-02_chronology.html)
 - 5-3     [Annual General Meeting (AGM) History]({{ site.baseurl }}/05_History/05-03_agm-history.html)
