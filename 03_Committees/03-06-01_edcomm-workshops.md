@@ -1,4 +1,7 @@
-<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 3: Committees](../03_committees/index.html) | [3-6 Education Committee](../03_committees/03-06_education.html)</sup> 
+---
+title: 3-6-1 Education Committee Workshops
+
+---
 
 # 3-6-1 Education Committee Workshops
 
