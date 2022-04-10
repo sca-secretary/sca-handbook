@@ -1,5 +1,5 @@
 ---
-title: 2.7.4 Membership Welcome Letter (sample)
+title: 2-7-4 Membership Welcome Letter (sample)
 
 ---
 
