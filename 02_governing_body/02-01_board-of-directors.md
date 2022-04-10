@@ -1,9 +1,9 @@
 ---
-title: 2.1 Board of Directors
+title: 2-1 Board of Directors
 
 ---
 
-# 2.1. Board of Directors
+# 2-1 Board of Directors
 
 ## General Description
 
