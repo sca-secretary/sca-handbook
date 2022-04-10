@@ -1,5 +1,5 @@
 ---
-title: 1.9.6 SCA Archives
+title: 1-9-6 SCA Archives
 
 ---
 
