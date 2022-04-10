@@ -1,4 +1,7 @@
-<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 3: Committees](../03_committees/index.html) | [3-13 Program Committee](../03_committees/03-13_program.html)</sup> 
+---
+title: 3-13-1 Calendar: AGM Program Planning
+
+---
 
 # 3-13-1 Calendar: AGM Program Planning
 
