@@ -1,4 +1,7 @@
-<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 3: Committees](../03_committees/index.html) | [3-3 Awards Committee](../03_committees/03-03_awards.html)</sup> 
+---
+title: 3-3-8 Advancing Equity: Graduate Education Scholarship
+
+---
 
 # 3-3-8 Advancing Equity: Graduate Education Scholarship
 The scholarship, established in 2021, promotes the diversification of the larger archival community by providing financial support to students of color pursuing graduate archival education. The award is given to applicants who demonstrate excellent potential for scholastic and personal achievement and who manifest a commitment to the archives profession.
