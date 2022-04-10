@@ -1,4 +1,7 @@
-<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 1: Introductory Material](../01_introductory_material/index.html)</sup> 
+---
+title: 1.9 Administrative Information
+
+---
 
 # 1-9 Administrative Information
 
