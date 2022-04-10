@@ -1,4 +1,7 @@
-<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 4: External Relations](../04_external_relations/index.html) | [4-1-3 California Historical Records Advisory Board](../04_external_relations/04-01_chrab.html)</sup> 
+---
+title: 4-1-3-1 Archival Award of Excellence
+
+---
 
 # 4-1-3-1 Archival Award of Excellence
 
