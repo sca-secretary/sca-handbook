@@ -1,4 +1,7 @@
-<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 3: Committees](../03_committees/index.html) | [3-3 Awards Committee](../03_committees/03-03_awards.html)</sup> 
+---
+title:  3-3-5 James V. Mink Scholarship
+
+---
 
 # 3-3-5 James V. Mink Scholarship
 
