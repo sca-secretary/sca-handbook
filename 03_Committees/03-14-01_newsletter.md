@@ -14,7 +14,7 @@ Copy deadlines and publication dates are as follows:
 | **Copy Deadline:** | **Publication Dates:** |
 | December 1         | January 1          |
 | March 1	           | April 1            |
-| June 1	           | July 1             |
+| June 1	            | July 1             |
 | September 1	       | October 1          |
 
 ## Newsletter Editor
