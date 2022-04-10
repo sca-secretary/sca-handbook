@@ -1,4 +1,7 @@
-<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 3: Committees](../03_committees/index.html) | [3.7 Election Committee](../03_committees/election.html)</sup> 
+---
+title: 3-7-2-1 Official Ballot Instructions (Sample)
+
+---
 
 # 3-7-2-1 Official Ballot Instructions (Sample)
 
