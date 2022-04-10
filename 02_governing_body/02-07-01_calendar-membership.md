@@ -1,4 +1,7 @@
-<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 2: Governing Body](../02_governing_body/index.html) | [2-7 Membership](../02_governing_body/02-07_membership.html)</sup> 
+---
+title: 2.7.1 Calendar: Membership
+
+---
 
 # 2-7-1 Calendar: Membership
 
