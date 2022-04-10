@@ -1,5 +1,5 @@
 ---
-title: 2.5.2 Budget Categories
+title: 2-5-2 Budget Categories
 
 ---
 
