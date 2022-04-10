@@ -1,6 +1,6 @@
 ---
 title: 1-1 Handbook Introduction
-sub: /sca-handbook/01_introductory_material
+suburl: "/sca-handbook/01_introductory_material"
 label: Part 1: Introductory Material
 
 ---
