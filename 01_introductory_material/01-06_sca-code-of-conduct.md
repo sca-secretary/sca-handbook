@@ -1,5 +1,5 @@
 ---
-title: 1.6. SCA Code of Conduct
+title: 1-6 SCA Code of Conduct
 
 ---
 
