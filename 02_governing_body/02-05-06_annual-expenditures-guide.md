@@ -1,4 +1,7 @@
-<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 2: Governing Body](../02_governing_body/index.html) | [2-5 Treasurer](../02_governing_body/02-05_treasurer.html)</sup> 
+---
+title: 2.5.6 Guidelines for Annual Expenditures from the SCA General Fund
+
+---
 
 # 2-5-6 Guidelines for Annual Expenditures from the SCA General Fund
 
