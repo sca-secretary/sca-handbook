@@ -1,5 +1,5 @@
 ---
-title: 1.3 Articles of Incorporation
+title: 1-3 Articles of Incorporation
 
 ---
 
