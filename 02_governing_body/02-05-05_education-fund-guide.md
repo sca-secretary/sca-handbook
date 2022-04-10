@@ -1,5 +1,5 @@
 ---
-title: 2.5.5 Education Fund Guidelines
+title: 2-5-5 Education Fund Guidelines
 
 ---
 
