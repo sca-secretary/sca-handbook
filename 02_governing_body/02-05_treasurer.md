@@ -1,4 +1,7 @@
-<sup>[SCA Handbook](/sca-handbook/index.html) | [Part 2: Governing Body](../02_governing_body/index.html)</sup> 
+---
+title: 2.5 Treasurer
+
+---
 
 # 2-5 Treasurer
 
