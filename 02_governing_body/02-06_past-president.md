@@ -1,5 +1,5 @@
 ---
-title: 2.6 Past President
+title: 2-6 Past President
 
 ---
 
