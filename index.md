@@ -124,14 +124,14 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
   - 4-1-4     [Journal of Western Archives](/sca-handbook/04_external_relations/04-01-04_journal-of-western-archives.html)
 
 ## [Part 5: History](/sca-handbook/05_history/)
-- 5-1     [The Foundation of SCA](/sca-handbook/05_history/05-01_foundation-of-sca.html)
-- 5-2     [Chronology](/sca-handbook/05_history/05-02_chronology.html)
-- 5-3     [Annual General Meeting (AGM) History](/sca-handbook/05_history/05-03_agm-history.html)
-- 5-4     [Awards History](/sca-handbook/05_history/05-04_awards-history.html)
-- 5-5     [Board of Directors History](/sca-handbook/05_history/05-05_board-history.html)
-- 5-6     [Board of Directors: Alphabetical List](/sca-handbook/05_history/05-06_board-alpha.html)
-- 5-7     [Committee History](/sca-handbook/05_history/05-07_committee-history.html)
-- 5-8     [Special Committees and Task Forces History ](/sca-handbook/05_history/05-08_special-committees-task-force-history.html)
+- 5-1     [The Foundation of SCA]({{ site.baseurl }}/05_History/05-01_foundation-of-sca.html)
+- 5-2     [Chronology]({{ site.baseurl }}/05_History/05-02_chronology.html)
+- 5-3     [Annual General Meeting (AGM) History]({{ site.baseurl }}/05_History/05-03_agm-history.html)
+- 5-4     [Awards History]({{ site.baseurl }}/05_History/05-04_awards-history.html)
+- 5-5     [Board of Directors History]({{ site.baseurl }}/05_History/05-05_board-history.html)
+- 5-6     [Board of Directors: Alphabetical List]({{ site.baseurl }}/05_History/05-06_board-alpha.html)
+- 5-7     [Committee History]({{ site.baseurl }}/05_History/05-07_committee-history.html)
+- 5-8     [Special Committees and Task Forces History ]({{ site.baseurl }}/05_History/05-08_special-committees-task-force-history.html)
 
 ***
 
