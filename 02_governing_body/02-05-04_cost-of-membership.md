@@ -1,5 +1,5 @@
 ---
-title: 2.5.4 Cost of Membership
+title: 2-5-4 Cost of Membership
 
 ---
 
