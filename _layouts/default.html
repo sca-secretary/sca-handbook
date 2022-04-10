@@ -57,12 +57,12 @@
           <p><a href="/sca-handbook/#contact">Contact</a></p>
       </nav>
       <section>
-<!-- cleanest     
+<!-- breadcrumb option A 
      <ol class="breadcrumb">
            <li><a href=" {{ site.baseurl }} ">{{ site.short_title }}</a> / {{ page.title }}</li> 
         </ol>
 --> 
-<!-- want to fix
+<!-- breadcrumb option B
      <ol class="breadcrumb">
           <li><a href=" {{ site.baseurl }} ">{{ site.short_title }}</a> / <a href=" {{ site.baseurl }}{{ page.dir }} "> Section List </a> / {{ page.title }}</li> 
         </ol>
@@ -72,7 +72,7 @@
           {% if page.url == page.dir %}
               <li><a href=" {{ site.baseurl }} ">{{ site.short_title }}</a> / {{ page.title }}</li>
           {% else %}
-              <li><a href=" {{ site.baseurl }} ">{{ site.short_title }}</a> / <a href=" {{ site.baseurl }}{{ page.dir }} "> Section List </a> / {{ page.title }}</li> 
+              <li><a href=" {{ site.baseurl }} ">{{ site.short_title }}</a> / <a href=" {{ site.baseurl }}{{ page.dir }} "> {{ dir.title }} </a> / {{ page.title }}</li> 
           {% endif %}
         </ol>
         
