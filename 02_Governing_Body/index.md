@@ -22,7 +22,7 @@
   - 2-5-12   [Year End Adjustments to Restricted Accounts]({{ site.baseurl }}{{ page.dir }}02-05-12_year-end-adjustments.html)
 - 2-6     [Past President]({{ site.baseurl }}{{ page.dir }}02-06_past-president.html)
 - 2-7     [Membership Director]({{ site.baseurl }}{{ page.dir }}02-07_membership-director.html)
-  - 2-7-1     [Calendar: Membership]({{ site.baseurl }}{{ page.dir }}02-07-02_calendar-membership.html)
+  - 2-7-1     [Calendar: Membership]({{ site.baseurl }}{{ page.dir }}02-07-01_calendar-membership.html)
   - 2-7-2     [Membership Information]({{ site.baseurl }}{{ page.dir }}02-07-02_membership-info.html)
   - 2-7-3     [Membership Pins]({{ site.baseurl }}{{ page.dir }}02-07-03_membership-pins.html)
   - 2-7-4     [Membership Welcome Letter (Sample)]({{ site.baseurl }}{{ page.dir }}02-07-04_membership-welcome.html)
