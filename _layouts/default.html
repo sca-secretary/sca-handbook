@@ -69,6 +69,18 @@
 
          
         {{ content }}
+
+          <ol class="breadcrumb">
+          {% if page.url == page.dir %}
+            <hr>
+            <li><a href=" {{ site.baseurl }} ">{{ site.short_title }}</a></li>
+          {% else %}
+            <hr>
+            <li><a href=" {{ site.baseurl }}{{ page.dir }} ">{{ page.dir | remove: "/" | replace: "_"," " | replace: "0","Part " }}</a></li>
+            <li><a href=" {{ site.baseurl }} ">{{ site.short_title }}</a></li>
+          {% endif %}
+        </ol>      
+        
       </section>
       <footer>
         <a href="https://calarchivists.org" alt="Society of California Archivists website"><img src="/sca-handbook/assets/images/sca-logo-color.png" alt="SCA logo" width="150"/></a>
