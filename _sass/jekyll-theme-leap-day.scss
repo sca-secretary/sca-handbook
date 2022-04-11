@@ -43,7 +43,7 @@ body {
 
 .pagedata {
 /*  float:left; */
-  padding-top:10;
+  padding-top:2px;
   padding-left:0px;
   padding-bottom:2px;
   list-style-type: none;
@@ -54,7 +54,7 @@ body {
       line-height: 8px;
 }
 .pagedata hr {
-  border-top: 1px solid #626262;
+  border-bottom: 1px solid #626262;
   background: none; 
 /*  outline: none;
   height: 11px;
