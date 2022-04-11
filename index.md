@@ -80,7 +80,7 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
 - 3-7     [Election Committee]({{ site.baseurl }}/03_Committees/03-07_election.html)
   - 3-7-1     [Calendar: Election and Nomination Committees]({{ site.baseurl }}/03_Committees/03-07-01_calendar-election-nomination.html)
   - 3-7-2     SCA Ballot (Sample)
-  - 3-7-2-1     [Official Ballot Instructions (Sample)]({{ site.baseurl }}/03_Committees/03-07-02-01_official-ballot-instructions-sample.html)
+    - 3-7-2-1     [Official Ballot Instructions (Sample)]({{ site.baseurl }}/03_Committees/03-07-02-01_official-ballot-instructions-sample.html)
 - 3-8     [Ethics and Inclusion Committee]({{ site.baseurl }}/03_Committees/03-08_ethics-and-inclusion.html)
 - 3-9     [Finance and Investment Committee]({{ site.baseurl }}/03_Committees/03-09_finance-and-investment.html)
   - 3-9-1     [SCA Investment Policy Statement]({{ site.baseurl }}/03_Committees/03-09-01_investment-policy-statement.html)
