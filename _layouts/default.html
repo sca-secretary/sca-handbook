@@ -70,14 +70,14 @@
          
         {{ content }}
 
-          <ol class="breadcrumb">
+          <ol class="pagedata">
           {% if page.url == page.dir %}
-            <li>{{ page.title | remove: ":" }}</li><br>
+            <li>{{ page.title | remove: ":" }}</li>
             <li><a href=" {{ site.baseurl }} ">{{ site.title }}</a></li>
           {% else %}
-            <p>{{ page.title }}</p>
-            <p><a href=" {{ site.baseurl }}{{ page.dir }} ">{{ page.dir | remove: "/" | replace: "_"," " | replace: "0","Part " }}</a></p>
-            <p><a href=" {{ site.baseurl }} ">{{ site.title }}</a></p>
+            <li>{{ page.title }}</li>
+            <li><a href=" {{ site.baseurl }}{{ page.dir }} ">{{ page.dir | remove: "/" | replace: "_"," " | replace: "0","Part " }}</a></li>
+            <li><a href=" {{ site.baseurl }} ">{{ site.title }}</a></li>
           {% endif %}
         </ol>      
         
