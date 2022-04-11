@@ -5,7 +5,7 @@ title: 4-1-2 Archives Month
 
 # 4-1-2 Archives Month
 
-## Description**
+## Description
 
 Archives Month is an opportunity for libraries, museums, government archives, historical societies, corporate archives, and related institutions to plan public programs to highlight the importance and value of historic records and archival materials.
 
