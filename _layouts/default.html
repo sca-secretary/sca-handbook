@@ -73,10 +73,10 @@
           <ol class="pagedata">
             <hr>
           {% if page.url == page.dir %}
-            <li>{{ page.title | remove: ":" }}</li>
+            <li><strong>{{ page.title | remove: ":" }}</strong></li>
             <li><a href=" {{ site.baseurl }} ">{{ site.title }}</a></li>
           {% else %}
-            <li>Section {{ page.title }}</li>
+            <li><strong>Section {{ page.title }}</strong</li>
             <li><a href=" {{ site.baseurl }}{{ page.dir }} ">{{ page.dir | remove: "/" | replace: "_"," " | replace: "0","Part " }}</a></li>
             <li><a href=" {{ site.baseurl }} ">{{ site.title }}</a></li>
           {% endif %}
