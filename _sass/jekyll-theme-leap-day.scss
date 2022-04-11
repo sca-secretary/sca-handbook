@@ -54,10 +54,14 @@ body {
       line-height: 8px;
 }
 .pagedata hr {
-  border: 0;
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  /*  border: 0;
   height: 1px;
   background: #626262; 
-/*  outline: none;
+  outline: none;
   background: transparent url('/sca-handbook/assets/images/hr.gif') center center repeat-x; 
   margin: 0 0 20px; 
   padding-top: 10px; */
