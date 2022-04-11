@@ -16,9 +16,13 @@ The SCA Education Committee established the scholarship to provide tuition and t
 5. _Review Process_:
 
    a. Candidates’ applications will be received by the Administrator of the award (typically the Chair of the Awards Committee). The Awards Committee will administer the award and will review applications as received.
+   
    b. The Administrator will determine that the applicant has demonstrated need and has appropriately estimated expenses.
+   
    c. Upon identifying an award recipient, the Administrator will contact the SCA Membership Director to confirm the active membership status of the candidate. The Administrator will also contact the Treasurer to verify that adequate funds are available.
+   
    d. The Administrator will present the application to the Awards Committee for review and approval.
+   
    e. The Administrator will inform the award recipient and will notify the Treasurer when the award is accepted. The Administrator will convey that the recipient is responsible for submitting an article for the SCA newsletter to the Awards Committee after the event concludes. In the event that the initial awardee declines the scholarship, the next qualified applicant will be granted the award. Unsuccessful applicants will be notified once the allotted funds are reserved. The scholarship may only be used towards the designated event.
 
 6. _Payment of Scholarship_: Following the education event, the awardee will submit a completed SCA Expense Form, along with receipts, to the award Administrator. The Administrator will sign the expense form and will forward the document to the Treasurer for payment.
