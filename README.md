@@ -30,9 +30,9 @@ Syntax highlighted code block
 | Row 2 | Column 1  | Column 2 |
 | Row 3 | Column 1  | Column 2 |
 
-Insert a footnote at the end of this sentence.[^1] Add another footnote.[^2]
-[^1] Footnote 1 information at the bottom.
-[^2] Footnote 2 information here.
+Insert a footnote at the end of this sentence.[^1] Add another footnote[^2] in the middle of this sentence.
+[^1]: Footnote 1 information at the bottom.
+[^2]: Footnote 2 information here.
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
