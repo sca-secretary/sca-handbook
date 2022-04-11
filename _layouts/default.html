@@ -77,7 +77,7 @@
             <li><a href=" {{ site.baseurl }} ">{{ site.title }}</a></li>
           {% else %}
             <li><em>Section {{ page.title }}</em></li>
-            <li><strong><a href=" {{ site.baseurl }}{{ page.dir }} ">{{ page.dir | remove: "/" | replace: "_"," " | replace: "0","Part " }}</a></strong></li>
+            <li><a href=" {{ site.baseurl }}{{ page.dir }} ">{{ page.dir | remove: "/" | replace: "_"," " | replace: "0","Part " }}</a></li>
             <li><a href=" {{ site.baseurl }} ">{{ site.title }}</a></li>
           {% endif %}
         </ol>      
